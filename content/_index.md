@@ -98,52 +98,52 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1000px; margin: 0 auto;">
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_1">![Photo of Gayathri Ananthanarayanan](/media/speaker_gayathri.jpg)</a>
+          <a href="URL_TO_PROFILE_1">![Photo of Gayathri Ananthanarayanan](/assets/media/speaker_gayathri.jpg)</a>
           <p><strong>Gayathri Ananthanarayanan</strong><br/>IIT Dharwad</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_2">![Photo of Manik Gupta](/media/speaker_manik.jpg)</a>
+          <a href="URL_TO_PROFILE_2">![Photo of Manik Gupta](/assets/media/speaker_manik.jpg)</a>
           <p><strong>Manik Gupta</strong><br/>BITS Pilani</p>
         </div>
         
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_3">![Photo of Ajay Pratap](/media/speaker_ajay.jpg)</a>
+          <a href="URL_TO_PROFILE_3">![Photo of Ajay Pratap](/assets/media/speaker_ajay.jpg)</a>
           <p><strong>Ajay Pratap</strong><br/>IIT Bhuvaneswar</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_4">![Photo of Pandarasamy Arjunan](/media/speaker_pandarasamy.jpg)</a>
+          <a href="URL_TO_PROFILE_4">![Photo of Pandarasamy Arjunan](/assets/media/speaker_pandarasamy.jpg)</a>
           <p><strong>Pandarasamy Arjunan</strong><br/>IISc</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_5">![Photo of Yogesh Simmhan](/media/speaker_yogesh.jpg)</a>
+          <a href="URL_TO_PROFILE_5">![Photo of Yogesh Simmhan](/assets/media/speaker_yogesh.jpg)</a>
           <p><strong>Yogesh Simmhan</strong><br/>IISc</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_6">![Photo of Sumit Mandal](/media/speaker_sumit.jpg)</a>
+          <a href="URL_TO_PROFILE_6">![Photo of Sumit Mandal](/assets/media/speaker_sumit.jpg)</a>
           <p><strong>Sumit Mandal</strong><br/>IISc</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_7">![Photo of Punit Rathore](/media/speaker_punit.jpg)</a>
+          <a href="URL_TO_PROFILE_7">![Photo of Punit Rathore](/assets/media/speaker_punit.jpg)</a>
           <p><strong>Punit Rathore</strong><br/>IISc</p>
         </div>
         
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_8">![Photo of Prasant Misra](/media/speaker_prasant.jpg)</a>
-          <p><strong>Prasant Misra</strong><br/>TCS Research (Tutorial)</p>
+          <a href="URL_TO_PROFILE_8">![Photo of Prasant Misra](/assets/media/speaker_prasant.jpg)</a>
+          <p><strong>Prasant Misra</strong><br/>TCS Research</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_9">![Photo of Varun Ojha](/media/speaker_varun.jpg)</a>
+          <a href="URL_TO_PROFILE_9">![Photo of Varun Ojha](/assets/media/speaker_varun.jpg)</a>
           <p><strong>Varun Ojha</strong><br/>New Castle University, UK</p>
         </div>
 
         <div style="width: 200px; margin: 20px;">
-          <a href="URL_TO_PROFILE_10">![Photo of Sajal Das](/media/speaker_sajal.jpg)</a>
+          <a href="URL_TO_PROFILE_10">![Photo of Sajal Das](/assets/media/speaker_sajal.jpg)</a>
           <p><strong>Sajal Das</strong><br/>Missouri Univ. of Sci. & Tech, USA</p>
         </div>
         
