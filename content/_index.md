@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  # === 1. HERO BLOCK: School Name, Dates, Host (CLEANED) ===
+  # === 1. HERO BLOCK: School Name, Dates, Host (FIXED LINE SPACING) ===
   - block: hero
     id: top
     content:
@@ -17,9 +17,9 @@ sections:
         **28 DECEMBER 2025 to 4 JANUARY 2026**
 
         **Host:** Indian Institute of Science, Bengaluru
-        
+
         **Venue:** RBCCPS, Indian Institute of Science
-        
+
         **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
         
       primary_action:
@@ -42,18 +42,29 @@ sections:
           position: center
           parallax: false
 
-  # === 2. ABOUT BLOCK: Description, Background, Software (FIXED ALIGNMENT) ===
+  # === 2. ABOUT BLOCK: Description, Background, Software (FIXED ALIGNMENT AND SPREAD) ===
   - block: markdown
     id: about
     content:
       title: About the School
       text: |
         The **ACM India Winter School on Edge AI** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics such as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications such as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
+
+        ### Recommended Background / Prior Courses
+        * Introductory course on Data science, Machine learning, or AI
+        * Basics of Computer Systems
+        * Embedded systems and IoT programming
+        
+        ### Specific Software to be Used
+        * **Python 3** (scikit-learn, TensorFlow, Keras, LiteRT, PyTorch Edge, ExecuTorch)
+        * **Jetpack SDK**
+        * **MicroPython**
         
     design:
-      columns: 1 # Forces content to use the full width
+      columns: 1 
+      # Set padding/margin to 0 to maximize horizontal stretch, relying on columns: 1
       spacing:
-        padding: ["3rem", 0, "3rem", 0]
+        padding: [0, 0, 0, 0]
         
   # === 3. TOPICS BLOCK (Visually interactive with icons) ===
   - block: features
