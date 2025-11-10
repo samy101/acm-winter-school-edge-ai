@@ -57,7 +57,7 @@ sections:
       spacing:
         padding: ["3rem", 0, "3rem", 0]
         
-  # === 3. TOPICS BLOCK ===
+  # === 3. TOPICS BLOCK (Visually interactive with icons) ===
   - block: features
     id: topics
     content:
@@ -91,56 +91,81 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-  # === 4. SPEAKERS BLOCK (Manual Markdown List) ===
+  # === 4. SPEAKERS BLOCK (Formatted Markdown List) ===
   - block: markdown
     id: speakers
     content:
-      title: Invited Speakers
+      title: 🎤 Invited Speakers
       text: |
-        **Gayathri Ananthanarayanan** (IIT Dharwad)
-        **Manik Gupta** (BITS Pilani)
-        **Ajay Pratap** (IIT Bhuvaneswar)
-        **Pandarasamy Arjunan** (IISc)
-        **Yogesh Simmhan** (IISc)
-        **Sumit Mandal** (IISc)
-        **Punit Rathore** (IISc)
-        **Prasant Misra** (TCS Research, Bangalore - tutorial)
-        **Varun Ojha** (New Castle University, UK)
-        **Sajal Das** (Missouri University of Science and Technology, USA)
+        * **Gayathri Ananthanarayanan** (IIT Dharwad)
+        
+        * **Manik Gupta** (Birla Institute of Technology & Science, Pilani)
+        
+        * **Ajay Pratap** (IIT Bhuvaneswar)
+        
+        * **Pandarasamy Arjunan** (IISc)
+        
+        * **Yogesh Simmhan** (IISc)
+        
+        * **Sumit Mandal** (IISc)
+        
+        * **Punit Rathore** (IISc)
+        
+        * **Prasant Misra** (TCS Research, Bangalore - *tutorial*)
+        
+        * **Varun Ojha** (New Castle University, UK)
+        
+        * **Sajal Das** (Missouri University of Science and Technology, USA)
+        
+        ---
         
         *Additional speakers being invited from Industries.*
+        
+        
+        
     design:
       view: compact
 
-  # === 5. COORDINATORS BLOCK (Manual Markdown List) ===
+  # === 5. COORDINATORS BLOCK (Formatted Markdown List) ===
   - block: markdown
     id: coordinators
     content:
-      title: Coordinators
+      title: 👥 Coordinators
       text: |
-        **Local & Academic Coordinators (IISc):**
+        ### Local & Academic Coordinators (Indian Institute of Science)
         
-        **Pandarasamy Arjunan** (Email: samy@iisc.ac.in)
-        **Yogesh Simmhan** (Email: simmhan@iisc.ac.in)
+        **Pandarasamy Arjunan**
+        Email: [samy@iisc.ac.in](mailto:samy@iisc.ac.in)
+        
+        ---
+        
+        **Yogesh Simmhan**
+        Email: [simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
+        
     design:
       columns: 2
       view: compact
       css_class: "bg-gray-100 dark:bg-gray-900"
 
-  # === 6. VENUE/LOCATION BLOCK (Manual Markdown) ===
-  - block: markdown # <-- FIX: Replaced 'contact' block with 'markdown'
+  # === 6. VENUE/LOCATION BLOCK (Interactive Map Link) ===
+  - block: markdown
     id: venue
     content:
-      title: Venue & Dates
+      title: 📍 Venue & Dates
       text: |
         The Winter School will be held at:
         **Indian Institute of Science (IISc)**, Bengaluru
         
         **Address:** CV Raman Avenue, Bangalore, 560012, India
         
-        **Dates:** 28 DECEMBER 2025 to 4 JANUARY 2026
+        **Dates:** **28 DECEMBER 2025 to 4 JANUARY 2026**
         
-        [Link to IISc Map] (You can insert an external Google Maps link here)
+        ---
+        
+        [**View IISc Location on Google Maps**] (Insert actual Google Maps link to IISc here)
+        
+        
+        
     design:
       background:
         image: 
@@ -148,24 +173,24 @@ sections:
           size: cover
           position: center
 
-  # === 7. CONTACT BLOCK (Manual Markdown) ===
-  - block: markdown # <-- FIX: Replaced 'contact' block with 'markdown'
+  # === 7. CONTACT BLOCK (Interactive Email Links) ===
+  - block: markdown
     id: contact
     content:
-      title: Contact Us / Application
+      title: 📧 Contact Us / Application
       text: |
         Please direct all academic and logistical inquiries to the Coordinators listed below.
         
-        ### Application / Registration Link:
-        [APPLY HERE] (Insert your application form URL)
+        ### Application / Registration
+        [**CLICK HERE TO APPLY**] (Insert your official application form URL here)
         
         ---
         
         **Pandarasamy Arjunan (Local & Academic Coordinator)**
-        Email: samy@iisc.ac.in
+        [Email: samy@iisc.ac.in](mailto:samy@iisc.ac.in)
         
         **Yogesh Simmhan (Local & Academic Coordinator)**
-        Email: simmhan@iisc.ac.in
+        [Email: simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
 
