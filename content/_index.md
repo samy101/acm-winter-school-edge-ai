@@ -5,23 +5,31 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "9rem"
+  spacing: "6rem"
 
 sections:
-  # === 1. HERO BLOCK: School Name, Dates, Host ===
+  # === 1. HERO BLOCK: School Name, Dates, Host (CLEANED) ===
   - block: hero
     id: top
     content:
       title: ACM India Winter School on Edge AI
       text: |
         **28 DECEMBER 2025 to 4 JANUARY 2026**
-        Location: ; RBCCPS, Indian Institeu of SCience
-        Coorditors:
-        Pandarasamy Arjunan Local & Academic Coordinator Email: samy@iisc.ac.in
-        Yogesh Simmhan Local & Academic Coordinator Email: simmhan@iisc.ac.in
-        
-        Hosted by **Indian Institute of Science, Bengaluru**
 
+        **Host:** Indian Institute of Science, Bengaluru
+        
+        **Venue:** RBCCPS, Indian Institute of Science
+        
+        **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
+        
+      primary_action:
+        text: View Topics
+        url: '#topics'
+        icon: list-bullet
+      secondary_action:
+        text: Full Program Details
+        url: 'URL_FOR_PROGRAM_DETAILS'
+        icon: calendar
     design:
       css_class: "dark"
       background:
@@ -41,16 +49,7 @@ sections:
       title: About the School
       text: |
         The **ACM India Winter School on Edge AI** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics such as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications such as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
-        
-        ### Recommended Background / Prior Courses
-        * Introductory course on Data science, Machine learning, or AI
-        * Basics of Computer Systems
-        * Embedded systems and IoT programming
-        
-        ### Specific Software to be Used
-        * **Python 3** (scikit-learn, TensorFlow, Keras, LiteRT, PyTorch Edge, ExecuTorch)
-        * **Jetpack SDK**
-        * **MicroPython**
+
     design:
       columns: 1 # FIX: Forces content to use the full width
       spacing:
@@ -90,31 +89,65 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-  # === 4. SPEAKERS BLOCK (Formatted Markdown List) ===
+  # === 4. SPEAKERS BLOCK (Enhanced with Photos and URLs) ===
   - block: markdown
     id: speakers
     content:
       title: 🎤 Invited Speakers
       text: |
-        * **Gayathri Ananthanarayanan** (IIT Dharwad)
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1000px; margin: 0 auto;">
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_1">![Photo of Gayathri Ananthanarayanan](/media/speaker_gayathri.jpg)</a>
+          <p><strong>Gayathri Ananthanarayanan</strong><br/>IIT Dharwad</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_2">![Photo of Manik Gupta](/media/speaker_manik.jpg)</a>
+          <p><strong>Manik Gupta</strong><br/>BITS Pilani</p>
+        </div>
         
-        * **Manik Gupta** (BITS Pilani)
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_3">![Photo of Ajay Pratap](/media/speaker_ajay.jpg)</a>
+          <p><strong>Ajay Pratap</strong><br/>IIT Bhuvaneswar</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_4">![Photo of Pandarasamy Arjunan](/media/speaker_pandarasamy.jpg)</a>
+          <p><strong>Pandarasamy Arjunan</strong><br/>IISc</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_5">![Photo of Yogesh Simmhan](/media/speaker_yogesh.jpg)</a>
+          <p><strong>Yogesh Simmhan</strong><br/>IISc</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_6">![Photo of Sumit Mandal](/media/speaker_sumit.jpg)</a>
+          <p><strong>Sumit Mandal</strong><br/>IISc</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_7">![Photo of Punit Rathore](/media/speaker_punit.jpg)</a>
+          <p><strong>Punit Rathore</strong><br/>IISc</p>
+        </div>
         
-        * **Ajay Pratap** (IIT Bhuvaneswar)
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_8">![Photo of Prasant Misra](/media/speaker_prasant.jpg)</a>
+          <p><strong>Prasant Misra</strong><br/>TCS Research (Tutorial)</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_9">![Photo of Varun Ojha](/media/speaker_varun.jpg)</a>
+          <p><strong>Varun Ojha</strong><br/>New Castle University, UK</p>
+        </div>
+
+        <div style="width: 200px; margin: 20px;">
+          <a href="URL_TO_PROFILE_10">![Photo of Sajal Das](/media/speaker_sajal.jpg)</a>
+          <p><strong>Sajal Das</strong><br/>Missouri Univ. of Sci. & Tech, USA</p>
+        </div>
         
-        * **Pandarasamy Arjunan** (IISc)
-        
-        * **Yogesh Simmhan** (IISc)
-        
-        * **Sumit Mandal** (IISc)
-        
-        * **Punit Rathore** (IISc)
-        
-        * **Prasant Misra** (TCS Research, Bangalore - *tutorial*)
-        
-        * **Varun Ojha** (New Castle University, UK)
-        
-        * **Sajal Das** (Missouri University of Science and Technology, USA)
+        </div>
         
         ---
         
@@ -122,87 +155,7 @@ sections:
         
     design:
       view: compact
+      columns: 1 # Center the container
 
-  # === 5. COORDINATORS BLOCK (Streamlined and Aligned) ===
-  - block: markdown
-    id: coordinators
-    content:
-      title: 👥 Coordinators (Indian Institute of Science)
-      text: |
-        **Pandarasamy Arjunan**
-        *Local & Academic Coordinator*
-
-        Email: [samy@iisc.ac.in](mailto:samy@iisc.ac.in)
-        
-        ---
-        
-        **Yogesh Simmhan**
-        *Local & Academic Coordinator*
-        
-        Email: [simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
-        
-    design:
-      columns: 2 # Using 2 columns for better side-by-side presentation
-      view: compact
-      css_class: "bg-gray-100 dark:bg-gray-900"
-
-  # === 6. VENUE/LOCATION BLOCK (Interactive Map Link) ===
-  - block: markdown
-    id: venue
-    content:
-      title: 📍 Venue & Dates
-      text: |
-        The Winter School will be held at:
-        **Indian Institute of Science (IISc)**, Bengaluru
-        
-        **Address:** CV Raman Avenue, Bangalore, 560012, India
-        
-        **Dates:** **28 DECEMBER 2025 to 4 JANUARY 2026**
-        
-        ---
-        
-        [**View IISc Location on Google Maps**] (https://maps.app.goo.gl/qNfhTpKFSnnP1Jiq8)
-        
-    design:
-      background:
-        image: 
-          filename: 'map.png'
-          size: cover
-          position: center
-
-  # === 7. CONTACT BLOCK (Interactive Email Links) ===
-  - block: markdown
-    id: contact
-    content:
-      title: 📧 Contact Us / Application
-      text: |
-        Please direct all academic and logistical inquiries to the Coordinators listed below.
-        
-        ### Application / Registration
-        [**CLICK HERE TO APPLY**] (Insert your official application form URL here)
-        
-        ---
-        
-        **Pandarasamy Arjunan (Local & Academic Coordinator)**
-
-        [Email: samy@iisc.ac.in](mailto:samy@iisc.ac.in)
-        
-        **Yogesh Simmhan (Local & Academic Coordinator)**
-
-        [Email: simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
-    design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
-
-  # === 8. Simple Footer CTA (Optional) ===
-  - block: cta-card
-    id: application
-    content:
-      title: Ready to join the future of Edge AI?
-      text: Apply now for the ACM India Winter School 2025.
-      button:
-        text: Apply Today
-        url: '#contact' # Link to the contact/application section
-    design:
-      card:
-        css_class: "bg-primary-300"
+  # === 5. AGENDA ===
 ---
