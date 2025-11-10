@@ -59,7 +59,7 @@ sections:
       css_class: "container-fluid text-left mx-auto max-w-full" 
       spacing:
         # Reduced padding slightly since the class will handle the width
-        padding: ["3rem", "3rem", "3rem", "3rem"]
+        padding: ["0rem", "0rem", "0rem", "0rem"]
 
   # === 3. TOPICS BLOCK (Visually interactive with icons) ===
   - block: features
