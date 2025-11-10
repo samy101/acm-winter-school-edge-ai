@@ -1,0 +1,71 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+title: ACM India Winter School on Edge AI # Website name
+baseURL: 'https://thanvish07.github.io/bold-fox-pages/' # Update this to your GitHub Pages URL later
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options - REMOVED
+  # Blog section options - REMOVED
+
+# Simplified cascade for a conference/landing page
+  - _target:
+      path: /**
+      kind: page
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## ADVANCED
+############################
+
+build:
+  writeStats: true
+enableGitInfo: true # Set to true to use dates from Git
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+# Removed blog and post related ignores
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$] 
+disableAliases: true
+outputs:
+  home: [HTML, headers, redirects] # Removed RSS
+  section: [HTML] # Removed RSS
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
