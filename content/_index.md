@@ -36,7 +36,7 @@ sections:
           position: center
           parallax: false
 
-  # === 2. ABOUT BLOCK: Description, Background, Software ===
+  # === 2. ABOUT BLOCK: Description, Background, Software (FIXED ALIGNMENT) ===
   - block: markdown
     id: about
     content:
@@ -54,6 +54,7 @@ sections:
         * **Jetpack SDK**
         * **MicroPython**
     design:
+      columns: 1 # FIX: Forces content to use the full width
       spacing:
         padding: ["3rem", 0, "3rem", 0]
         
@@ -99,7 +100,7 @@ sections:
       text: |
         * **Gayathri Ananthanarayanan** (IIT Dharwad)
         
-        * **Manik Gupta** (Birla Institute of Technology & Science, Pilani)
+        * **Manik Gupta** (BITS Pilani)
         
         * **Ajay Pratap** (IIT Bhuvaneswar)
         
@@ -121,29 +122,27 @@ sections:
         
         *Additional speakers being invited from Industries.*
         
-        
-        
     design:
       view: compact
 
-  # === 5. COORDINATORS BLOCK (Formatted Markdown List) ===
+  # === 5. COORDINATORS BLOCK (Streamlined and Aligned) ===
   - block: markdown
     id: coordinators
     content:
-      title: 👥 Coordinators
+      title: 👥 Coordinators (Indian Institute of Science)
       text: |
-        ### Local & Academic Coordinators (Indian Institute of Science)
-        
         **Pandarasamy Arjunan**
+        *Local & Academic Coordinator*
         Email: [samy@iisc.ac.in](mailto:samy@iisc.ac.in)
         
         ---
         
         **Yogesh Simmhan**
+        *Local & Academic Coordinator*
         Email: [simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
         
     design:
-      columns: 2
+      columns: 2 # Using 2 columns for better side-by-side presentation
       view: compact
       css_class: "bg-gray-100 dark:bg-gray-900"
 
@@ -163,8 +162,6 @@ sections:
         ---
         
         [**View IISc Location on Google Maps**] (Insert actual Google Maps link to IISc here)
-        
-        
         
     design:
       background:
