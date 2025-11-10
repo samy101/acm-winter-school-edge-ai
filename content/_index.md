@@ -60,7 +60,8 @@ sections:
   # === 3. TOPICS BLOCK (Visually interactive with icons - Distinct Color) ===
   - block: features
     id: topics
-    content:
+    # >>> START OF THE BLOCK CONTAINING LINE 45 COLUMN 3 ERROR <<<
+    content: # <- THIS LINE (45) MUST HAVE A COLON AND BE INDENTED 4 SPACES FROM THE HYPHEN
       title: Key Topics
       text: |
         The winter school covers foundational and advanced aspects of Edge AI.
