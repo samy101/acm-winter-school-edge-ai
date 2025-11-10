@@ -109,64 +109,90 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-# === 4. SPEAKERS BLOCK (RELIABLE MARKDOWN LIST) ===
-  - block: markdown
+# === 4. SPEAKERS BLOCK (Using NATIVE 'people' block for a clean layout) ===
+  - block: people
     id: speakers
     content:
       title: 🎤 Invited Speakers
       text: |
-        
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-        
-        <div style="width: 48%;">
-        
-        ### Group 1
-        
-        **[Gayathri Ananthanarayanan](https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan)** (IIT Dharwad)
-        
-        ![Photo of Manik Gupta](speaker_manik.jpg)
-        **[Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik-gupta)** (BITS Pilani)
-        
-        ![Photo of Ajay Pratap](speaker_ajay.jpg)
-        **[Ajay Pratap](https://iitbhu.ac.in/dept/cse/people/ajaycse)** (IIT Bhuvaneswar)
-        
-        ![Photo of Pandarasamy Arjunan](speaker_pandarasamy.jpg)
-        **[Pandarasamy Arjunan](https://www.samy101.com/)** (IISc)
-        
-        ![Photo of Yogesh Simmhan](speaker_yogesh.jpg)
-        **[Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/)** (IISc)
-        
-        </div>
-        
-        <div style="width: 48%;">
-        
-        ### Group 2
-        
-        ![Photo of Sumit Mandal](speaker_sumit.jpg)
-        **[Sumit Mandal](https://www.csa.iisc.ac.in/~skmandal)** (IISc)
-        
-        ![Photo of Punit Rathore](speaker_punit.jpg)
-        **[Punit Rathore](https://www.punitrathore.com/home)** (IISc)
-        
-        ![Photo of Prasant Misra](speaker_prasant.jpg)
-        **[Prasant Misra](https://sites.google.com/site/prasantmisra/)** (TCS Research - Tutorial)
-        
-        ![Photo of Varun Ojha](speaker_varun.jpg)
-        **[Varun Ojha](https://ojhavk.github.io/)** (New Castle University, UK)
-        
-        ![Photo of Sajal Das](speaker_sajal.jpg)
-        **[Sajal Das](https://isc.mst.edu/people/ri/sdas/)** (Missouri Univ. of Sci. & Tech, USA)
-        
-        </div>
-        
-        </div>
-        
-        ---
-        
         *Additional speakers being invited from Industries.*
-        
+      # Ensure speaker images are in `assets/media/` or adjusted path.
+      items:
+        - name: Gayathri Ananthanarayanan
+          role: IIT Dharwad
+          url: 'https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan'
+          image:
+            filename: speaker_gayathri.jpg # Path relative to assets/media/ or the page bundle
+            focal_point: Top # Example: try adjusting focal_point if faces are cut
+          
+        - name: Manik Gupta
+          role: BITS Pilani
+          url: 'https://www.bits-pilani.ac.in/hyderabad/manik-gupta'
+          image:
+            filename: speaker_manik.jpg
+            focal_point: Top
+          
+        - name: Ajay Pratap
+          role: IIT Bhuvaneswar
+          url: 'https://iitbhu.ac.in/dept/cse/people/ajaycse'
+          image:
+            filename: speaker_ajay.jpg
+            focal_point: Top
+
+        - name: Pandarasamy Arjunan
+          role: IISc
+          url: 'https://www.samy101.com/'
+          image:
+            filename: speaker_pandarasamy.jpg
+            focal_point: Top
+
+        - name: Yogesh Simmhan
+          role: IISc
+          url: 'https://cds.iisc.ac.in/faculty/simmhan/'
+          image:
+            filename: speaker_yogesh.jpg
+            focal_point: Top
+
+        - name: Sumit Mandal
+          role: IISc
+          url: 'https://www.csa.iisc.ac.in/~skmandal'
+          image:
+            filename: speaker_sumit.jpg
+            focal_point: Top
+
+        - name: Punit Rathore
+          role: IISc
+          url: 'https://www.punitrathore.com/home'
+          image:
+            filename: speaker_punit.jpg
+            focal_point: Top
+          
+        - name: Prasant Misra
+          role: TCS Research (Tutorial)
+          url: 'https://sites.google.com/site/prasantmisra/'
+          image:
+            filename: speaker_prasant.jpg
+            focal_point: Top
+
+        - name: Varun Ojha
+          role: New Castle University, UK
+          url: 'https://ojhavk.github.io/'
+          image:
+            filename: speaker_varun.jpg
+            focal_point: Top
+
+        - name: Sajal Das
+          role: Missouri Univ. of Sci. & Tech, USA
+          url: 'https://isc.mst.edu/people/ri/sdas/'
+          image:
+            filename: speaker_sajal.jpg
+            focal_point: Top
+            
     design:
-      columns: 1
+      columns: 3 # Now this will actually work!
+      show_role: true
+      show_social: false # We don't have social icons yet, so hide them
+      css_class: "bg-white dark:bg-dark" # Ensure a white background as in the image
 
   # === 5. AGENDA (NEW SECTION) ===
   - block: markdown
@@ -175,15 +201,6 @@ sections:
       title: 📅 Agenda
       text: |
         The program will run from **28 DECEMBER 2025 to 4 JANUARY 2026**.
-
-        | Date | Time | Topic/Event | Speaker |
-        | :--- | :--- | :--- | :--- |
-        | Day 1 (Dec 28) | 9:00 - 10:30 | Inauguration & Keynote | Coordinator Team |
-        | Day 1 (Dec 28) | 10:45 - 12:30 | Foundations of Edge AI | Speaker 1 |
-        | Day 8 (Jan 4) | 14:00 - 16:00 | Hands-on Lab: LLMs on Edge | Team TBD |
-        | Day 8 (Jan 4) | 16:00 - 17:00 | Closing Ceremony | Coordinator Team |
-
-        *Note: This is a placeholder agenda. The full detailed agenda will be updated soon.*
 
     design:
       columns: 1
