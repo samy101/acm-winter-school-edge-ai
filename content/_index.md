@@ -109,92 +109,64 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-# === 4. SPEAKERS BLOCK (FIXED: Aggressive Width and Flex Layout) ===
-  - block: markdown
-    id: speakers
-    content:
-      title: 🎤 Invited Speakers
-      text: |
-                <div style="display: flex; flex-wrap: wrap; justify-content: space-between; text-align: center; max-width: 1200px; margin: 0 auto;">
-
-                <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan">
-            <img src="speaker_gayathri.jpg" alt="Photo of Gayathri Ananthanarayanan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Gayathri Ananthanarayanan</strong><br/>IIT Dharwad</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://www.bits-pilani.ac.in/hyderabad/manik-gupta">
-            <img src="speaker_manik.jpg" alt="Photo of Manik Gupta" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Manik Gupta</strong><br/>BITS Pilani</p>
-        </div>
-        
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://iitbhu.ac.in/dept/cse/people/ajaycse">
-            <img src="speaker_ajay.jpg" alt="Photo of Ajay Pratap" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Ajay Pratap</strong><br/>IIT Bhuvaneswar</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://www.samy101.com/">
-            <img src="speaker_pandarasamy.jpg" alt="Photo of Pandarasamy Arjunan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Pandarasamy Arjunan</strong><br/>IISc</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://cds.iisc.ac.in/faculty/simmhan/">
-            <img src="speaker_yogesh.jpg" alt="Photo of Yogesh Simmhan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Yogesh Simmhan</strong><br/>IISc</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://www.csa.iisc.ac.in/~skmandal">
-            <img src="speaker_sumit.jpg" alt="Photo of Sumit Mandal" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Sumit Mandal</strong><br/>IISc</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://www.punitrathore.com/home">
-            <img src="speaker_punit.jpg" alt="Photo of Punit Rathore" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Punit Rathore</strong><br/>IISc</p>
-        </div>
-        
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://sites.google.com/site/prasantmisra/">
-            <img src="speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Prasant Misra</strong><br/>TCS Research (Tutorial)</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://ojhavk.github.io/">
-            <img src="speaker_varun.jpg" alt="Photo of Varun Ojha" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Varun Ojha</strong><br/>New Castle University, UK</p>
-        </div>
-
-        <div style="width: 32%; margin-bottom: 25px;">
-          <a href="https://isc.mst.edu/people/ri/sdas/">
-            <img src="speaker_sajal.jpg" alt="Photo of Sajal Das" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Sajal Das</strong><br/>Missouri Univ. of Sci. & Tech, USA</p>
-        </div>
-        
-        </div>
-        
-        ---
-        
-        *Additional speakers being invited from Industries.*
-        
-    design:
-      columns: 1
+# === 4. SPEAKERS BLOCK (RELIABLE MARKDOWN LIST) ===
+  - block: markdown
+    id: speakers
+    content:
+      title: 🎤 Invited Speakers
+      text: |
+        
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        
+        <div style="width: 48%;">
+        
+        ### Group 1
+        
+        **[Gayathri Ananthanarayanan](https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan)** (IIT Dharwad)
+        
+        ![Photo of Manik Gupta](speaker_manik.jpg)
+        **[Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik-gupta)** (BITS Pilani)
+        
+        ![Photo of Ajay Pratap](speaker_ajay.jpg)
+        **[Ajay Pratap](https://iitbhu.ac.in/dept/cse/people/ajaycse)** (IIT Bhuvaneswar)
+        
+        ![Photo of Pandarasamy Arjunan](speaker_pandarasamy.jpg)
+        **[Pandarasamy Arjunan](https://www.samy101.com/)** (IISc)
+        
+        ![Photo of Yogesh Simmhan](speaker_yogesh.jpg)
+        **[Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/)** (IISc)
+        
+        </div>
+        
+        <div style="width: 48%;">
+        
+        ### Group 2
+        
+        ![Photo of Sumit Mandal](speaker_sumit.jpg)
+        **[Sumit Mandal](https://www.csa.iisc.ac.in/~skmandal)** (IISc)
+        
+        ![Photo of Punit Rathore](speaker_punit.jpg)
+        **[Punit Rathore](https://www.punitrathore.com/home)** (IISc)
+        
+        ![Photo of Prasant Misra](speaker_prasant.jpg)
+        **[Prasant Misra](https://sites.google.com/site/prasantmisra/)** (TCS Research - Tutorial)
+        
+        ![Photo of Varun Ojha](speaker_varun.jpg)
+        **[Varun Ojha](https://ojhavk.github.io/)** (New Castle University, UK)
+        
+        ![Photo of Sajal Das](speaker_sajal.jpg)
+        **[Sajal Das](https://isc.mst.edu/people/ri/sdas/)** (Missouri Univ. of Sci. & Tech, USA)
+        
+        </div>
+        
+        </div>
+        
+        ---
+        
+        *Additional speakers being invited from Industries.*
+        
+    design:
+      columns: 1
 
   # === 5. AGENDA (NEW SECTION) ===
   - block: markdown
