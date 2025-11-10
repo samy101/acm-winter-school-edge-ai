@@ -3,6 +3,6 @@ title: Sumit Mandal
 role: Invited Speaker
 organizations:
   - name: IISc
-    url: https://www.iisc.ac.in/
+    url: 'https://www.csa.iisc.ac.in/~skmandal'
 weight: 6
 ---
