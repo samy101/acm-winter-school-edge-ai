@@ -52,10 +52,9 @@ sections:
       text: |
         The **ACM India Winter School on Edge AI** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics such as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications such as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
     design:
-      # Changed to a light, distinct background color (white/default)
       css_class: ""
       background:
-        color: white # Explicitly set for distinction
+        color: white
 
   ---
   # === 3. TOPICS BLOCK (Visually interactive with icons - Distinct Color) ===
@@ -89,7 +88,6 @@ sections:
         - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
           icon: globe-alt
     design:
-      # Changed to the previous background to alternate with 'About'
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
@@ -144,7 +142,6 @@ sections:
           url: https://isc.mst.edu/people/ri/sdas/
 
     design:
-      # Reverting back to a neutral/white background for distinction
       css_class: ""
       show_role: true
       show_social: false
@@ -170,8 +167,7 @@ sections:
 
     design:
       columns: 1
-      # Using a light color scheme for maximum distinction
       css_class: "bg-green-100 dark:bg-green-900"
       background:
-        color: '#f0fff0' # A very pale green or other distinct color for visual separation
+        color: '#f0fff0'
 ---
