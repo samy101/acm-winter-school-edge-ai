@@ -12,7 +12,7 @@ sections:
   - block: hero
     id: top
     content:
-      title: ACM India Winter School: Edge AI # FIX: Title shortened to fit on one line
+      title: ACM India Winter School on Edge AI
       text: |
         **28 DECEMBER 2025 to 4 JANUARY 2026**<br><br>
 
