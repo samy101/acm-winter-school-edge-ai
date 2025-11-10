@@ -109,68 +109,93 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-# === 4. SPEAKERS BLOCK (FIXED: Removing 'icon' to force image display) ===
-  - block: features
+# === 4. SPEAKERS BLOCK (Custom HTML/CSS Grid with Final URLs) ===
+  - block: markdown
     id: speakers
     content:
       title: 🎤 Invited Speakers
       text: |
-        Click on any speaker card to view their institutional profile.
-      items:
-        - name: Gayathri Ananthanarayanan
-          description: "[IIT Dharwad](https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan)"
-          link: https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan
-          image: speaker_gayathri.jpg # Now this should render instead of the icon
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1000px; margin: 0 auto;">
 
-        - name: Manik Gupta
-          description: "[BITS Pilani](https://www.bits-pilani.ac.in/hyderabad/manik-gupta)"
-          link: https://www.bits-pilani.ac.in/hyderabad/manik-gupta
-          image: speaker_manik.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan">
+            <img src="speaker_gayathri.jpg" alt="Photo of Gayathri Ananthanarayanan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Gayathri Ananthanarayanan</strong><br/>IIT Dharwad</p>
+        </div>
 
-        - name: Ajay Pratap
-          description: "[IIT Bhuvaneswar](https://iitbhu.ac.in/dept/cse/people/ajaycse)"
-          link: https://iitbhu.ac.in/dept/cse/people/ajaycse
-          image: speaker_ajay.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://www.bits-pilani.ac.in/hyderabad/manik-gupta">
+            <img src="speaker_manik.jpg" alt="Photo of Manik Gupta" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Manik Gupta</strong><br/>BITS Pilani</p>
+        </div>
+        
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://iitbhu.ac.in/dept/cse/people/ajaycse">
+            <img src="speaker_ajay.jpg" alt="Photo of Ajay Pratap" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Ajay Pratap</strong><br/>IIT Bhuvaneswar</p>
+        </div>
 
-        - name: Pandarasamy Arjunan
-          description: "[IISc](https://www.samy101.com/)"
-          link: https://www.samy101.com/
-          image: speaker_pandarasamy.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://www.samy101.com/">
+            <img src="speaker_pandarasamy.jpg" alt="Photo of Pandarasamy Arjunan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Pandarasamy Arjunan</strong><br/>IISc</p>
+        </div>
 
-        - name: Yogesh Simmhan
-          description: "[IISc](https://cds.iisc.ac.in/faculty/simmhan/)"
-          link: https://cds.iisc.ac.in/faculty/simmhan/
-          image: speaker_yogesh.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://cds.iisc.ac.in/faculty/simmhan/">
+            <img src="speaker_yogesh.jpg" alt="Photo of Yogesh Simmhan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Yogesh Simmhan</strong><br/>IISc</p>
+        </div>
 
-        - name: Sumit Mandal
-          description: "[IISc](https://www.csa.iisc.ac.in/~skmandal)"
-          link: https://www.csa.iisc.ac.in/~skmandal
-          image: speaker_sumit.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://www.csa.iisc.ac.in/~skmandal">
+            <img src="speaker_sumit.jpg" alt="Photo of Sumit Mandal" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Sumit Mandal</strong><br/>IISc</p>
+        </div>
 
-        - name: Punit Rathore
-          description: "[IISc](https://www.punitrathore.com/home)"
-          link: https://www.punitrathore.com/home
-          image: speaker_punit.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://www.punitrathore.com/home">
+            <img src="speaker_punit.jpg" alt="Photo of Punit Rathore" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Punit Rathore</strong><br/>IISc</p>
+        </div>
+        
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://sites.google.com/site/prasantmisra/">
+            <img src="speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Prasant Misra</strong><br/>TCS Research (Tutorial)</p>
+        </div>
 
-        - name: Prasant Misra
-          description: "[TCS Research (Tutorial)](https://sites.google.com/site/prasantmisra/)"
-          link: https://sites.google.com/site/prasantmisra/
-          image: speaker_prasant.jpg
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://ojhavk.github.io/">
+            <img src="speaker_varun.jpg" alt="Photo of Varun Ojha" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Varun Ojha</strong><br/>New Castle University, UK</p>
+        </div>
 
-        - name: Varun Ojha
-          description: "[New Castle University, UK](https://ojhavk.github.io/)"
-          link: https://ojhavk.github.io/
-          image: speaker_varun.jpg
-
-        - name: Sajal Das
-          description: "[Missouri Univ. of Sci. & Tech, USA](https://isc.mst.edu/people/ri/sdas/)"
-          link: https://isc.mst.edu/people/ri/sdas/
-          image: speaker_sajal.jpg
-          
+        <div style="width: 200px; margin: 20px;">
+          <a href="https://isc.mst.edu/people/ri/sdas/">
+            <img src="speaker_sajal.jpg" alt="Photo of Sajal Das" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
+          </a>
+          <p><strong>Sajal Das</strong><br/>Missouri Univ. of Sci. & Tech, USA</p>
+        </div>
+        
+        </div>
+        
+        ---
+        
+        *Additional speakers being invited from Industries.*
+        
     design:
-      columns: 3 
-      view: card # Use the card view for a cleaner look
-      css_class: "bg-white"
+      view: compact
+      columns: 1
 
   # === 5. AGENDA (NEW SECTION) ===
   - block: markdown
