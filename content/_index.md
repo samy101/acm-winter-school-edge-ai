@@ -21,13 +21,13 @@ sections:
         **Venue:** IDR Building, Indian Institute of Science<br><br>
 
         **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
-        
+
       primary_action:
         text: View Topics
         url: '#topics'
         icon: list-bullet
       secondary_action:
-        text: Agenda # FIX: Changed button text
+        text: Agenda
         url: '#agenda'
         icon: calendar
     design:
@@ -43,18 +43,22 @@ sections:
           position: center
           parallax: false
 
-  # === 2. ABOUT BLOCK: Description, Background, Software (FIXED ALIGNMENT) ===
+  ---
+  # === 2. ABOUT BLOCK: Description, Background (NEW DISTINCT COLOR) ===
   - block: markdown
     id: about
     content:
       title: About the School
       text: |
         The **ACM India Winter School on Edge AI** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics such as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications such as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
-        
     design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Changed to a light, distinct background color (white/default)
+      css_class: ""
+      background:
+        color: white # Explicitly set for distinction
 
-  # === 3. TOPICS BLOCK (Visually interactive with icons) ===
+  ---
+  # === 3. TOPICS BLOCK (Visually interactive with icons - NEW DISTINCT COLOR) ===
   - block: features
     id: topics
     content:
@@ -85,107 +89,95 @@ sections:
         - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
           icon: globe-alt
     design:
+      # Changed to the previous background to alternate with 'About'
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-  # === 4. SPEAKERS BLOCK (CRITICAL FIX: Image Paths set to Hugo standard) ===
-  - block: markdown
+  ---
+  # === 4. SPEAKERS BLOCK (CRITICAL FIX: Changed to 'people' block for proper layout) ===
+  - block: people
     id: speakers
     content:
       title: 🎤 Invited Speakers
       text: |
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 900px; margin: 0 auto;">
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan">
-            <img src="/assets/media/speaker_gayathri.jpg" alt="Photo of Gayathri Ananthanarayanan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Gayathri Ananthanarayanan</strong><br/>IIT Dharwad</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://www.bits-pilani.ac.in/hyderabad/manik-gupta">
-            <img src="/assets/media/speaker_manik.jpg" alt="Photo of Manik Gupta" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Manik Gupta</strong><br/>BITS Pilani</p>
-        </div>
-        
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://iitbhu.ac.in/dept/cse/people/ajaycse">
-            <img src="/assets/media/speaker_ajay.jpg" alt="Photo of Ajay Pratap" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Ajay Pratap</strong><br/>IIT Bhuvaneswar</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://www.samy101.com/">
-            <img src="/assets/media/speaker_pandarasamy.jpg" alt="Photo of Pandarasamy Arjunan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Pandarasamy Arjunan</strong><br/>IISc</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://cds.iisc.ac.in/faculty/simmhan/">
-            <img src="/assets/media/speaker_yogesh.jpg" alt="Photo of Yogesh Simmhan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Yogesh Simmhan</strong><br/>IISc</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://www.csa.iisc.ac.in/~skmandal">
-            <img src="/assets/media/speaker_sumit.jpg" alt="Photo of Sumit Mandal" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Sumit Mandal</strong><br/>IISc</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://www.punitrathore.com/home">
-            <img src="/assets/media/speaker_punit.jpg" alt="Photo of Punit Rathore" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Punit Rathore</strong><br/>IISc</p>
-        </div>
-        
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://sites.google.com/site/prasantmisra/">
-            <img src="/assets/media/speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Prasant Misra</strong><br/>TCS Research</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://ojhavk.github.io/">
-            <img src="/assets/media/speaker_varun.jpg" alt="Photo of Varun Ojha" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Varun Ojha</strong><br/>New Castle University, UK</p>
-        </div>
-
-        <div style="width: 30%; min-width: 250px; margin: 10px;">
-          <a href="https://isc.mst.edu/people/ri/sdas/">
-            <img src="/assets/media/speaker_sajal.jpg" alt="Photo of Sajal Das" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;">
-          </a>
-          <p><strong>Sajal Das</strong><br/>Missouri Univ. of Sci. & Tech, USA</p>
-        </div>
-        
-        </div>
-        
-        ---
-        
         *Additional speakers being invited from Industries.*
-        
+      # **CRITICAL CHANGE:** Use the `people` block and specify the folder/items
+      # The speaker data must be created as individual markdown files (e.g., in `content/authors/`)
+      # For a quick fix, you can use the `items` property of the `people` block
+      items:
+        - name: Gayathri Ananthanarayanan
+          role: IIT Dharwad
+          image: speaker_gayathri.jpg # Assumes this is in the correct static/media/ folder
+          url: https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan
+        - name: Manik Gupta
+          role: BITS Pilani
+          image: speaker_manik.jpg
+          url: https://www.bits-pilani.ac.in/hyderabad/manik-gupta
+        - name: Ajay Pratap
+          role: IIT Bhuvaneswar
+          image: speaker_ajay.jpg
+          url: https://iitbhu.ac.in/dept/cse/people/ajaycse
+        - name: Pandarasamy Arjunan
+          role: IISc
+          image: speaker_pandarasamy.jpg
+          url: https://www.samy101.com/
+        - name: Yogesh Simmhan
+          role: IISc
+          image: speaker_yogesh.jpg
+          url: https://cds.iisc.ac.in/faculty/simmhan/
+        - name: Sumit Mandal
+          role: IISc
+          image: speaker_sumit.jpg
+          url: https://www.csa.iisc.ac.in/~skmandal
+        - name: Punit Rathore
+          role: IISc
+          image: speaker_punit.jpg
+          url: https://www.punitrathore.com/home
+        - name: Prasant Misra
+          role: TCS Research
+          image: speaker_prasant.jpg
+          url: https://sites.google.com/site/prasantmisra/
+        - name: Varun Ojha
+          role: New Castle University, UK
+          image: speaker_varun.jpg
+          url: https://ojhavk.github.io/
+        - name: Sajal Das
+          role: Missouri Univ. of Sci. & Tech, USA
+          image: speaker_sajal.jpg
+          url: https://isc.mst.edu/people/ri/sdas/
+
     design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reverting back to a neutral/white background for distinction
+      css_class: ""
+      show_role: true
+      show_social: false
+      # This layout option is what correctly forces the 3-column grid
+      # and ensures the images/text display consistently.
+      # The default template should handle the image sizing/cropping properly.
       columns: 3
 
-  # === 5. AGENDA (NEW SECTION) ===
+  ---
+  # === 5. AGENDA (NEW SECTION - NEW DISTINCT COLOR and TABLE) ===
   - block: markdown
     id: agenda
     content:
       title: 📅 Agenda
       text: |
         The program will run from **28 DECEMBER 2025 to 4 JANUARY 2026**.
+
+        | Date | Time | Topic/Event | Speaker |
+        | :--- | :--- | :--- | :--- |
+        | Day 1 (Dec 28) | 9:00 - 10:30 | Inauguration & Keynote | Coordinator Team |
+        | Day 1 (Dec 28) | 10:45 - 12:30 | Foundations of Edge AI | Speaker 1 |
+        | Day 8 (Jan 4) | 14:00 - 16:00 | Hands-on Lab: LLMs on Edge | Team TBD |
+        | Day 8 (Jan 4) | 16:00 - 17:00 | Closing Ceremony | Coordinator Team |
         
-        ---
+        *Note: This is a placeholder agenda. The full detailed agenda will be updated soon.*
+
     design:
       columns: 1
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Using a light color scheme for maximum distinction
+      css_class: "bg-green-100 dark:bg-green-900"
+      background:
+        color: '#f0fff0' # A very pale green or other distinct color for visual separation
 ---
