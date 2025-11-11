@@ -55,6 +55,7 @@ sections:
         
     design:
       columns: 1
+      position: justify
       css_class: "container-fluid text-left mx-auto max-w-full" 
       spacing:
         padding: ["0","0","0","0"]
@@ -103,7 +104,7 @@ sections:
     content:
       title: 🎤 Invited Speakers
       text: |
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; text-align: center; max-width: 1000px; margin: 0 auto;">
+        <div style="display: flex; flex-wrap: wrap; center-content: space-between; text-align: center; max-width: 1000px; margin: 0 auto;">
 
         <div style="width: 30%; min-width: 250px; margin: 10px;">
           <a href="https://www.iitdh.ac.in/user-profile/gayathri-ananthanarayanan">
@@ -182,14 +183,14 @@ sections:
         *Additional speakers being invited from Industries.*
         
     design:
-      view: card
+      view: compact
       columns: 3
 
-  # === 5. AGENDA (NEW SECTION) ===
+  # === 5. PROGRAMS (NEW SECTION) ===
   - block: markdown
-    id: agenda
+    id: programs
     content:
-      title: 📅 Agenda
+      title: 📅 Programs
       text: |
         The program will run from **28 DECEMBER 2025 to 4 JANUARY 2026**.
 
