@@ -17,7 +17,7 @@
 }
 
 #speakers .max-w-prose {
-    max-width: 150ch !important;
+    max-width: 100ch !important;
     margin: 0 auto;
 }
 
