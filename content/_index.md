@@ -165,10 +165,6 @@ sections:
         
         </div>
         
-        ---
-        
-        *Additional speakers being invited from Industries.*
-        
     design:
       view: compact
       columns: 1
