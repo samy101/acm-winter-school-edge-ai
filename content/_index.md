@@ -186,12 +186,12 @@ sections:
         ## DAY 1
         | Time | Event | Location |
         | :--- | :--- | :--- |
-        | 9am | Coffee | Foyer |
-        | 10am | Keynote by John Smith | Room 1 |
+        | 9am | Coffee | Canteen |
+        | 10am | Edge AI | Room 1 |
         | 11am | Talk on XYZ | Room 2 |
-        | 12pm | Lunch | Steak Kitchen |
+        | 12pm | Lunch | Canteen |
         | 1pm | Hands-on Session | Lab A |
-        | 3pm | Break | Foyer |
+        | 3pm | Break | Canteen |
         | 3:30pm | Invited Talk | Room 1 |
         | 5pm | End of Day 1 | |
 
@@ -200,12 +200,12 @@ sections:
         ## DAY 2
         | Time | Event | Location |
         | :--- | :--- | :--- |
-        | 9am | Coffee | Foyer |
-        | 10am | Keynote by Jane Doe | Room 1 |
+        | 9am | Coffee | Canteen |
+        | 10am | Edge AI | Room 1 |
         | 11am | Talk on ABC | Room 2 |
-        | 12pm | Lunch | Steak Kitchen |
+        | 12pm | Lunch | Canteen |
         | 1pm | Hands-on Session | Lab B |
-        | 3pm | Break | Foyer |
+        | 3pm | Break | Canteen |
         | 3:30pm | Invited Talk | Room 1 |
         | 5pm | End of Day 2 | |
         
