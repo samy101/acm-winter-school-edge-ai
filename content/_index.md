@@ -8,8 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  # === 1. HERO BLOCK: Title, Dates, Host (NOW CENTERED) ===
-  - block: hero
+- block: hero
     id: top
     content:
       title: ACM India Winter School on Edge AI
@@ -20,20 +19,18 @@ sections:
 
         **Venue:** IDR Building, Indian Institute of Science<br><br>
 
-        **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
+        **<a href="https://cps.iisc.ac.in/">Coordinators</a>:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
+        <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>
+        
+        <div style="margin-top: 30px; text-align: center;">
+          <img src="IISC.png" 
+               alt="ACM India Logo" 
+               style="max-height: 100px; max-width: 80%; display: inline-block;">
+        </div>
+        
     design:
       columns: 1
-      # FIX: Removed "text-left". The theme's default will now center the text.
-      css_class: "dark" 
-      background:
-        color: "navy"
-        image:
-          filename: bg-triangles.svg
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
+      css_class: "dark"
 
 # === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
   - block: markdown
@@ -43,7 +40,7 @@ sections:
       text: |
         <p style="text-align: justify;">
         
-        The **ACM India Winter School on Edge AI** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics suchs as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications suchs as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
+        The **<a href="https://india.acm.org/education/acm-india-winter-schools-2025/">ACM India Winter School on Edge AI</a>** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics suchs as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications suchs as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
         </p>
     design:
       columns: 1
