@@ -32,7 +32,7 @@ sections:
         icon: calendar
     design:
       columns: 1
-      css_class: "dark"
+      css_class: "dark text-left"
       background:
         color: "navy"
         image:
@@ -55,10 +55,8 @@ sections:
         
     design:
       columns: 1
-      position: justify
-      css_class: "container-fluid text-left mx-auto max-w-full" 
       spacing:
-        padding: ["0","0","0","0"]
+            padding: ["6rem","0","6rem","0"]
 
   # === 3. TOPICS BLOCK (Visually interactive with icons) ===
   - block: features
