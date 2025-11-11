@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  # === 1. HERO BLOCK: Title, Dates, Host (TITLE IS FORCED LEFT/SINGLE-LINE VIA CUSTOM CSS) ===
+  # === 1. HERO BLOCK: Title, Dates, Host (ALIGNMENT & SINGLE LINE FORCED VIA CUSTOM CSS) ===
   - block: hero
     id: top
     content:
@@ -23,6 +23,7 @@ sections:
         **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
     design:
       columns: 1
+      # Note: 'text-left' here is what tells the custom CSS to target this section for left alignment
       css_class: "dark text-left"
       background:
         color: "navy"
@@ -34,7 +35,7 @@ sections:
           position: center
           parallax: false
 
-# === 2. ABOUT BLOCK: Description, Background, Software (WIDER AND JUSTIFIED VIA CUSTOM CSS) ===
+# === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
   - block: markdown
     id: about
     content:
@@ -46,6 +47,7 @@ sections:
         </p>
     design:
       columns: 1
+      # The max width is overridden for this section by the custom CSS file
       spacing:
         padding: ["6rem","0","6rem","0"]
 
@@ -83,7 +85,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
 
-# === 4. SPEAKERS BLOCK (3-COLUMN GRID WITH VERTICAL SPACING) ===
+# === 4. SPEAKERS BLOCK (3-COLUMN GRID WITH VERTICAL SPACING, WIDTH OVERRIDDEN VIA CUSTOM CSS) ===
   - block: markdown
     id: speakers
     content:
