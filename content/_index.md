@@ -21,15 +21,7 @@ sections:
         **Venue:** IDR Building, Indian Institute of Science<br><br>
 
         **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
-        
-      primary_action:
-        text: View Topics
-        url: '#topics'
-        icon: list-bullet
-      secondary_action:
-        text: Agenda
-        url: '#agenda'
-        icon: calendar
+    
     design:
       columns: 1
       css_class: "dark text-left"
