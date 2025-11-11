@@ -183,7 +183,7 @@ sections:
       text: |
         The program will run from **28 DECEMBER 2025 to 4 JANUARY 2026**.
 
-        ## DAY 1
+        ## DAY 1 - 28th Dec 2025
         | Time | Event | Location |
         | :--- | :--- | :--- |
         | 9am | Coffee | Canteen |
@@ -197,7 +197,7 @@ sections:
 
         ---
 
-        ## DAY 2
+        ## DAY 2 - 29th Dec 2025
         | Time | Event | Location |
         | :--- | :--- | :--- |
         | 9am | Coffee | Canteen |
