@@ -9,19 +9,12 @@ design:
 
 sections:
   # === 1. HERO BLOCK: Title, Dates, Host (FIXED TITLE & SPACING) ===
-  # To force left-alignment and single-line title, we must rely on the theme's handling of
-  # the 'text-left' class combined with responsive size control in params.yaml.
-  # The theme's HTML output overrides the title alignment with a parent 'text-center' div.
-  # If alignment is still centered, you may need to check the main theme CSS.
   - block: hero
     id: top
     content:
       title: ACM India Winter School on Edge AI
-      # FIX: Adding whitespace-nowrap and text-left inline CSS to the title itself is not supported.
-      # We will rely on the theme's interpretation of 'css_class: "dark text-left"'
-      # Forcing single line must be done by reducing font size in params.yaml or adding a custom CSS file.
       text: |
-        <span style="white-space: nowrap;">**28 DECEMBER 2025 to 4 JANUARY 2026**</span><br><br>
+        **28 DECEMBER 2025 to 4 JANUARY 2026**<br><br>
 
         **Host:** RBCCPS, Indian Institute of Science, Bengaluru<br><br>
 
@@ -30,7 +23,7 @@ sections:
         **Coordinators:** Pandarasamy Arjunan & Yogesh Simmhan
     design:
       columns: 1
-      css_class: "dark text-left" # Preserves attempt at left-alignment
+      css_class: "dark text-left" # 'text-left' will be forced via custom.css
       background:
         color: "navy"
         image:
