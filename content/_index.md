@@ -254,7 +254,7 @@ sections:
           </a>
           
           <a href="https://www.iisc.ac.in/" target="_blank">
-            <img src="iisc-logo.png" alt="IISc" style="max-height: 80px; width: auto;">
+            <img src="iisc_logo.png" alt="IISc" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://artpark.in/" target="_blank">
