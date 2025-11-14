@@ -223,7 +223,7 @@ sections:
       # FIX: Renamed the title
       title: 🗺️ Travel and Campus
       text: |
-        This Program is hosted at the **CDS building**, Indian Institute of Science (IISc), Bengaluru.
+        This Program is hosted at the **CDS building, Indian Institute of Science (IISc), Bengaluru**.
         
         ### Venue Details
         * **Location:** The IISc campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
