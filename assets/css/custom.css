@@ -65,14 +65,14 @@
 
 /* 9. Target the flex container to manage overall width. (For multi-row flex-wrap: nowrap is added here implicitly) */
 #sponsors .content div[style*="display: flex"] {
-    max-width: 800px !important; 
+    max-width: 1200px !important; 
     margin: 0 auto !important;
 }
 
 /* 10. Force each image wrapper (anchor tag) to take appropriate space for multi-column layout. */
 #sponsors .content div a {
-    width: 30% !important; 
-    max-width: 30% !important; 
+    width: 20% !important; 
+    max-width: 20% !important; 
     padding: 10px !important;
     margin: 15px 5px !important;
     display: flex;
