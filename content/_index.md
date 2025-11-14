@@ -16,11 +16,11 @@ sections:
       text: |
         **28 DECEMBER 2025 to 4 JANUARY 2026**<br><br>
 
-        **Host:** Robert Bosch Center for Cyber Physical Systems (IISc) & Department of Computational and Data Sciences (IISc) <br><br>
+        **Host:**  **<a href="https://cps.iisc.ac.in/"> Robert Bosch Center for Cyber Physical Systems</a>** & **<a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences</a>** <br><br>
 
         **Venue:** Department of Computational and Data Sciences, Indian Institute of Science<br><br>
 
-        **<a href="https://cps.iisc.ac.in/">Coordinators</a>:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
+        **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
         <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>
         
         <div style="margin-top: 30px; text-align: center;">
@@ -246,23 +246,23 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
         
           <a href="https://india.acm.org/" target="_blank">
-            <img src="/images/sponsors/acmindia.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
+            <img src="acm-logo.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://artpark.in/" target="_blank">
-            <img src="/images/sponsors/ARTPARK_logo.png" alt="ARTPARK" style="max-height: 80px; width: auto;">
+            <img src="ARTPARK-logo.png" alt="ARTPARK" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://www.iisc.ac.in/" target="_blank">
-            <img src="/images/sponsors/IISc_logo.png" alt="IISc" style="max-height: 80px; width: auto;">
+            <img src="iisc-logo.png" alt="IISc" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://rbccps.org/" target="_blank">
-            <img src="/images/sponsors/RBCCPS_logo.png" alt="RBCCPS" style="max-height: 80px; width: auto;">
+            <img src="rbccps-logo.png" alt="RBCCPS" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://cds.iisc.ac.in/" target="_blank">
-            <img src="/images/sponsors/cds_logo.png" alt="CDS" style="max-height: 80px; width: auto;">
+            <img src="CDS.png" alt="CDS" style="max-height: 80px; width: auto;">
           </a>
 
         </div>
