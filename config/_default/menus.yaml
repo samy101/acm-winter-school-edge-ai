@@ -16,6 +16,6 @@ main:
   - name: Programs
     url: /#programs
     weight: 50
-  - name: Venue Map
+  - name: Travel and Campus
     url: /#logistics
     weight: 60
