@@ -1,43 +1,36 @@
 /* assets/css/custom.css */
 
+/* --- HERO BLOCK FIXES (Title and Text Size) --- */
+
+/* 1. Ensure the Hero container is wide enough for the title to fit on one line. */
 #top .hero-block-container .max-w-2xl {
     max-width: 100% !important; 
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
 
+/* 2. Force the Hero title (h1) to a single line. */
 #top .hero-block-container h1 {
     white-space: nowrap !important;
     overflow: hidden !important;
     text-overflow: clip !important;
 }
 
-#about .max-w-prose {
-    max-width: 125ch !important;
-    margin: 0 auto;
-    text-align: justify;
-}
-
-#speakers .max-w-prose {
-    max-width: 80ch !important;
-    margin: 0 auto;
-}
-
-#speakers .content .prose div[style*="margin: 40px"] {
-    margin-top: 10px !important; 
-    margin-bottom: 10px !important;
-}
-
+/* 3. Increase the font size of the descriptive text/dates in the Hero Block. */
 #top .hero-block-container .text-lg {
     font-size: 1.5rem !important; 
     line-height: 2.25rem !important;
 }
 
+/* --- NAVBAR LOGO SIZE FIX --- */
+
+/* 4. Set the container height for the logo brand. */
 .navbar-brand {
     height: 60px !important;
     padding: 10px 0 !important;
 }
 
+/* 5. Ensure the SVG/Image inside the brand container fills the new space. */
 .navbar-brand svg,
 .navbar-brand img {
     max-height: 60px !important;
@@ -45,11 +38,38 @@
     width: auto !important; 
 }
 
+/* --- ABOUT SECTION FIXES (Width and Justification) --- */
+
+/* 6. Sets the content width for the About section to 125ch and justifies text. */
+#about .max-w-prose {
+    max-width: 125ch !important;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+/* --- SPEAKERS SECTION FIXES (Width and Row Spacing) --- */
+
+/* 7. Sets the content width for the Speakers section to 80ch. */
+#speakers .max-w-prose {
+    max-width: 80ch !important;
+    margin: 0 auto;
+}
+
+/* 8. Fix: Decreases vertical spacing between speaker rows (from 40px to 10px). */
+#speakers .content .prose div[style*="margin: 40px"] {
+    margin-top: 10px !important; 
+    margin-bottom: 10px !important;
+}
+
+/* --- SPONSORS SECTION FIXES (Single-Row Layout) --- */
+
+/* 9. Target the flex container to manage overall width. (For multi-row flex-wrap: nowrap is added here implicitly) */
 #sponsors .content div[style*="display: flex"] {
     max-width: 800px !important; 
     margin: 0 auto !important;
 }
 
+/* 10. Force each image wrapper (anchor tag) to take appropriate space for multi-column layout. */
 #sponsors .content div a {
     width: 30% !important; 
     max-width: 30% !important; 
@@ -60,6 +80,7 @@
     align-items: center;
 }
 
+/* 11. Ensure the images themselves stay compact. */
 #sponsors .content div img {
     max-height: 60px !important;
     width: auto !important;
