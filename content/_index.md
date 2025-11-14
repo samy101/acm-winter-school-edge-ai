@@ -38,7 +38,7 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-          size: cover
+            size: cover
             position: center
           parallax: false
 
