@@ -39,7 +39,7 @@ sections:
           filters:
             brightness: 0.5
           size: cover
-          position: center
+            position: center
           parallax: false
 
   # === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
@@ -211,7 +211,8 @@ sections:
         
     design:
       columns: 1
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      # FIX: Keep Programs on the light gray background
+      css_class: "bg-gray-100 dark:bg-gray-900" 
       background:
         color: white
 
@@ -219,20 +220,24 @@ sections:
   - block: markdown
     id: logistics
     content:
-      title: 🗺️ Venue Maps
+      # FIX: Renamed the title
+      title: 🗺️ Travel and Campus
       text: |
         This Program is hosted at the **Department of Computational and Data Sciences (CDS)**, Indian Institute of Science (IISc), Bengaluru.
         
         ### Venue Details
         * **IISc Location:** The campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
-        * **Venue Map:** The CDS building is located near the main administrative block. <a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">📍</a>
+        * **Venue Map:** The CDS building is located near the main administrative block. <a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">📍 (Click for Map)</a>
         
         ### Key Contacts
         Please refer to your welcome email for emergency contacts and specific directions to the accommodation.
         
     design:
       columns: 1
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      # FIX: Changed to pure white background
+      css_class: "" 
+      background:
+        color: white
       spacing:
         padding: ["6rem","0","6rem","0"]
 
@@ -247,16 +252,16 @@ sections:
           <a href="https://india.acm.org/" target="_blank">
             <img src="acm_logo.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
           </a>
-
+          
           <a href="https://www.iisc.ac.in/" target="_blank">
             <img src="iisc_logo.png" alt="IISc" style="max-height: 80px; width: auto;">
           </a>
-
+          
           <a href="https://artpark.in/" target="_blank">
             <img src="ARTPARK-logo.png" alt="ARTPARK" style="max-height: 80px; width: auto;">
           </a>
           
-          <a href="https://cps.iisc.ac.in/" target="_blank">
+          <a href="https://rbccps.org/" target="_blank">
             <img src="rbccps-logo.png" alt="RBCCPS" style="max-height: 80px; width: auto;">
           </a>
           
