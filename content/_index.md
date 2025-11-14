@@ -18,7 +18,7 @@ sections:
 
         **Host:** <a href="https://cps.iisc.ac.in/">Robert Bosch Center for Cyber Physical Systems (RBCCPS)</a> & <a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences (CDS).</a> <br><br>
 
-        **<a href="https://www.google.com/maps/place/Computational+and+Data+Science+Department+(CDS)/@13.0164051,77.5704701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1786c19d1f6d:0xba84d2e59b2425a2!8m2!3d13.0164051!4d77.5704701!16s%2Fg%2F1tkslt6x?entry=ttu&g_ep=EgoyMDI1MTExMS4wIKXMDSoASAFQAw%3D%3D">Venue:</a>** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
+        **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
 
         **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
         <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan.</a>
