@@ -230,7 +230,10 @@ sections:
         * **Venue Map:** The CDS building is located near the main administrative block. <a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">📍</a>
         
         ### Key Contacts
-        Please refer to your welcome email for emergency contacts and specific directions to the accommodation.
+        
+        If you have any logistical or academic questions regarding the Winter School, please contact the coordinators:
+        * **Pandarasamy Arjunan:** <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
+        * **Yogesh Simmhan:** <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
         
     design:
       columns: 1
