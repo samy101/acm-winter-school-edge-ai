@@ -250,11 +250,11 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
         
           <a href="https://india.acm.org/" target="_blank">
-            <img src="acm_logo.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
+            <img src="acm_logo_1.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://www.iisc.ac.in/" target="_blank">
-            <img src="iisc_logo.png" alt="IISc" style="max-height: 80px; width: auto;">
+            <img src="IISC_1.png" alt="IISc" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://artpark.in/" target="_blank">
@@ -266,7 +266,7 @@ sections:
           </a>
           
           <a href="https://cds.iisc.ac.in/" target="_blank">
-            <img src="CDS.png" alt="CDS" style="max-height: 80px; width: auto;">
+            <img src="cds_logo.png" alt="CDS" style="max-height: 80px; width: auto;">
           </a>
 
         </div>
