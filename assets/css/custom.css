@@ -45,13 +45,22 @@
     width: auto !important; 
 }
 
+#sponsors .content div[style*="display: flex"] {
+    max-width: 800px !important; 
+    margin: 0 auto !important;
+}
+
 #sponsors .content div a {
+    width: 30% !important; 
     max-width: 30% !important; 
     padding: 10px !important;
-    margin: 10px !important;
+    margin: 15px 5px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #sponsors .content div img {
-    max-height: 70px !important; 
+    max-height: 60px !important;
     width: auto !important;
 }
