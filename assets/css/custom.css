@@ -44,3 +44,14 @@
     height: 100% !important;
     width: auto !important; 
 }
+
+#sponsors .content div a {
+    max-width: 30% !important; 
+    padding: 10px !important;
+    margin: 10px !important;
+}
+
+#sponsors .content div img {
+    max-height: 70px !important; 
+    width: auto !important;
+}
