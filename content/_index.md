@@ -18,7 +18,7 @@ sections:
 
         **Host:**  **<a href="https://cps.iisc.ac.in/"> Robert Bosch Center for Cyber Physical Systems</a>** & **<a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences</a>** <br><br>
 
-        **Venue:** Department of Computational and Data Sciences, Indian Institute of Science<br><br>
+        **<a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">Venue:</a>** Department of Computational and Data Sciences, Indian Institute of Science<br><br>
 
         **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
         <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>
@@ -219,11 +219,11 @@ sections:
   - block: markdown
     id: logistics
     content:
-      title: 🗺️ Logistics and Venue Maps
+      title: 🗺️ Venue Maps
       text: |
         This Program is hosted at the **Department of Computational and Data Sciences (CDS)**, Indian Institute of Science (IISc), Bengaluru.
         
-        ### Travel & Venue Details
+        ### Venue Details
         * **IISc Location:** The campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
         * **Venue Map:** The CDS building is located near the main administrative block. <a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">📍</a>
         
