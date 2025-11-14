@@ -247,13 +247,13 @@ sections:
           <a href="https://india.acm.org/" target="_blank">
             <img src="acm_logo.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
           </a>
-          
-          <a href="https://artpark.in/" target="_blank">
-            <img src="ARTPARK-logo.png" alt="ARTPARK" style="max-height: 80px; width: auto;">
-          </a>
-          
+
           <a href="https://www.iisc.ac.in/" target="_blank">
             <img src="iisc_logo.png" alt="IISc" style="max-height: 80px; width: auto;">
+          </a>
+
+          <a href="https://artpark.in/" target="_blank">
+            <img src="ARTPARK-logo.png" alt="ARTPARK" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://cps.iisc.ac.in/" target="_blank">
