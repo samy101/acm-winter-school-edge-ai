@@ -16,12 +16,12 @@ sections:
       text: |
         **28 DECEMBER 2025 to 4 JANUARY 2026**<br><br>
 
-        **Host:** <a href="https://cps.iisc.ac.in/">Robert Bosch Center for Cyber Physical Systems</a> & <a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences</a> <br><br>
+        **Host:** <a href="https://cps.iisc.ac.in/">Robert Bosch Center for Cyber Physical Systems (RBCCPS)</a> & <a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences (CDS).</a> <br><br>
 
-        **<a href="https://maps.app.goo.gl/9yGqK2yQ8ZgQ5K4D9">Venue:</a>** CDS building, Indian Institute of Science<br><br>
+        **<a href="https://maps.app.goo.gl/9yGqK2yQ8ZgQ5K4D9">Venue:</a>** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
 
         **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
-        <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>
+        <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan.</a>
         
         <div style="margin-top: 30px; text-align: center;">
           <img src="IISC.png" 
@@ -223,10 +223,10 @@ sections:
       # FIX: Renamed the title
       title: 🗺️ Travel and Campus
       text: |
-        This Program is hosted at the **Department of Computational and Data Sciences (CDS)**, Indian Institute of Science (IISc), Bengaluru.
+        This Program is hosted at the **CDS building**, Indian Institute of Science (IISc), Bengaluru.
         
         ### Venue Details
-        * **IISc Location:** The campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
+        * **Location:** The IISc campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
         * **Venue Map:** The CDS building is located near the main administrative block. <a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">📍</a>
         
         ### Key Contacts
