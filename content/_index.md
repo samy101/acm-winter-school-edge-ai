@@ -16,9 +16,9 @@ sections:
       text: |
         **28 DECEMBER 2025 to 4 JANUARY 2026**<br><br>
 
-        **Host:** RBCCPS, Indian Institute of Science, Bengaluru<br><br>
+        **Host:** Robert Bosch Center for Cyber Physical Systems (IISc) & Department of Computational and Data Sciences (IISc) <br><br>
 
-        **Venue:** IDR Building, Indian Institute of Science<br><br>
+        **Venue:** Department of Computational and Data Sciences, Indian Institute of Science<br><br>
 
         **<a href="https://cps.iisc.ac.in/">Coordinators</a>:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
         <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>
@@ -95,7 +95,7 @@ sections:
   - block: markdown
     id: speakers
     content:
-      title: 🎤 Invited Speakers
+      title: 🎤 Speakers
       text: |
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
         
@@ -214,4 +214,61 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       background:
         color: white
+
+  # === 6. LOGISTICS AND MAPS (NEW SECTION) ===
+  - block: markdown
+    id: logistics
+    content:
+      title: 🗺️ Logistics and Venue Maps
+      text: |
+        The school is hosted at the **Department of Computational and Data Sciences (CDS)**, Indian Institute of Science (IISc), Bengaluru.
+        
+        ### Travel & Venue Details
+        * **IISc Location:** The campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
+        * **Accommodation:** (Include details about nearby hotels or campus guest houses here based on the email.)
+        * **Venue Map:** The CDS building is located near the main administrative block. 
+        
+        ### Key Contacts
+        Please refer to your welcome email for emergency contacts and specific directions to the accommodation.
+        
+    design:
+      columns: 1
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      spacing:
+        padding: ["6rem","0","6rem","0"]
+
+  # === 7. SPONSORS / SUPPORTED BY (NEW SECTION WITH LOGOS) ===
+  - block: markdown
+    id: sponsors
+    content:
+      title: Supported By
+      text: |
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
+        
+          <a href="https://india.acm.org/" target="_blank">
+            <img src="/images/sponsors/acmindia.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
+          </a>
+          
+          <a href="https://artpark.in/" target="_blank">
+            <img src="/images/sponsors/ARTPARK_logo.png" alt="ARTPARK" style="max-height: 80px; width: auto;">
+          </a>
+          
+          <a href="https://www.iisc.ac.in/" target="_blank">
+            <img src="/images/sponsors/IISc_logo.png" alt="IISc" style="max-height: 80px; width: auto;">
+          </a>
+          
+          <a href="https://rbccps.org/" target="_blank">
+            <img src="/images/sponsors/RBCCPS_logo.png" alt="RBCCPS" style="max-height: 80px; width: auto;">
+          </a>
+          
+          <a href="https://cds.iisc.ac.in/" target="_blank">
+            <img src="/images/sponsors/cds_logo.png" alt="CDS" style="max-height: 80px; width: auto;">
+          </a>
+
+        </div>
+        
+    design:
+      columns: 1
+      spacing:
+        padding: ["3rem","0","6rem","0"]
 ---
