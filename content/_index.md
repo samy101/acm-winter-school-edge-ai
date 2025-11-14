@@ -24,7 +24,7 @@ sections:
         <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>
         
         <div style="margin-top: 30px; text-align: center;">
-          <img src="IISC_1.png" 
+          <img src="IISC.png" 
                alt="ACM India Logo" 
                style="max-height: 200px; max-width: 120%; display: inline-block;">
         </div>
@@ -250,11 +250,11 @@ sections:
         <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
         
           <a href="https://india.acm.org/" target="_blank">
-            <img src="acm_logo_1.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
+            <img src="acm_logo.png" alt="ACM India Council" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://www.iisc.ac.in/" target="_blank">
-            <img src="IISC_1.png" alt="IISc" style="max-height: 80px; width: auto;">
+            <img src="iisc-logo.png" alt="IISc" style="max-height: 80px; width: auto;">
           </a>
           
           <a href="https://artpark.in/" target="_blank">
