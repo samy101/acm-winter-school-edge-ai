@@ -1,6 +1,6 @@
 /* assets/css/custom.css */
 
-/* --- HERO BLOCK FIXES (Title and Text Size) --- */
+/* --- HERO BLOCK  (Title and Text Size) --- */
 
 /* 1. Ensure the Hero container is wide enough for the title to fit on one line. */
 #top .hero-block-container .max-w-2xl {
@@ -38,7 +38,7 @@
     width: auto !important; 
 }
 
-/* --- ABOUT SECTION FIXES (Width and Justification) --- */
+/* --- ABOUT SECTION  (Width and Justification) --- */
 
 /* 6. Sets the content width for the About section to 125ch and justifies text. */
 #about .max-w-prose {
@@ -47,7 +47,7 @@
     text-align: justify;
 }
 
-/* --- SPEAKERS SECTION FIXES (Width and Row Spacing) --- */
+/* --- SPEAKERS SECTION  (Width and Row Spacing) --- */
 
 /* 7. Sets the content width for the Speakers section to 80ch. */
 #speakers .max-w-prose {
@@ -55,21 +55,31 @@
     margin: 0 auto;
 }
 
-/* 8. Fix: Decreases vertical spacing between speaker rows (from 40px to 10px). */
+/* 8.  Decreases vertical spacing between speaker rows (from 40px to 10px). */
 #speakers .content .prose div[style*="margin: 40px"] {
     margin-top: 10px !important; 
     margin-bottom: 10px !important;
 }
 
-/* --- SPONSORS SECTION FIXES (Single-Row Layout) --- */
 
-/* 9. Target the flex container to manage overall width. (For multi-row flex-wrap: nowrap is added here implicitly) */
+/* --- VENUE SECTION --- */
+
+/* 9. Sets the content width for the Venue section to 125ch and justifies text. */
+#venue ..max-w-prose {
+    max-width: 125ch !important;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+/* --- SPONSORS SECTION  (Single-Row Layout) --- */
+
+/* 10. Target the flex container to manage overall width. (For multi-row flex-wrap: nowrap is added here implicitly) */
 #sponsors .content div[style*="display: flex"] {
     max-width: 1200px !important; 
     margin: 0 auto !important;
 }
 
-/* 10. Force each image wrapper (anchor tag) to take appropriate space for multi-column layout. */
+/* 11. Force each image wrapper (anchor tag) to take appropriate space for multi-column layout. */
 #sponsors .content div a {
     width: 20% !important; 
     max-width: 20% !important; 
