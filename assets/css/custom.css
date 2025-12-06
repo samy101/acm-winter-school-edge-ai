@@ -104,3 +104,9 @@
   height: auto;
 }
 
+.hero.has-bg .section-bg {
+  background-size: auto !important;
+  background-position: top left !important;
+  background-repeat: no-repeat !important;
+}
+
