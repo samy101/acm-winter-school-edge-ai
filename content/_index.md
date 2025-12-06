@@ -14,9 +14,7 @@ sections:
     content:
       title: ""
       title_html: >
-      <img src="edge-ai-title.svg"
-       alt="ACM India Winter School on Edge AI"
-       style="width:100%;max-width:1200px;margin:auto;display:block;">       
+        <img src="edge-ai-title.svg" alt="ACM India Winter School on Edge AI" style="width:100%;max-width:1200px;margin:auto;display:block;">       
       text: |
         **28 December 2025 to 4 January 2026**<br><br>
 
