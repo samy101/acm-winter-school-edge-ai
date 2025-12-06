@@ -39,7 +39,7 @@ sections:
       background:
         color: "white"
         image:
-          filename: bg-white1.svg
+          filename: bg-iisc1.png
           filters:
             brightness: 0.5
             size: cover
