@@ -103,3 +103,10 @@
   margin: auto;
   height: auto;
 }
+
+.hero.has-bg .section-bg {
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: top left !important;
+}
+
