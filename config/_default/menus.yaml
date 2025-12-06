@@ -13,8 +13,8 @@ main:
   - name: Speakers
     url: /#speakers
     weight: 40
-  - name: Programs
-    url: /#programs
+  - name: Program
+    url: /#program
     weight: 50
   - name: Venue
     url: /#venue
