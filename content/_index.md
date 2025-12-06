@@ -14,7 +14,6 @@ sections:
     content:
       title: ""
       text: |
-      text: |
         <div class="hero-svg-title">
           <img src="edge-ai-title.svg" alt="ACM India Winter School on Edge AI">
         </div>
