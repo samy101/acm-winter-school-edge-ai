@@ -185,6 +185,72 @@ sections:
     content:
       title: 📅 Program
       text: |
+        <table class="schedule-table">
+          <thead>
+            <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
+          </thead>
+          <tbody>
+        
+            <tr style="background-color: #F5F7F8">
+              <td>8:00 – 9:00 AM</td><td>—</td><td>Breakfast</td>
+            </tr>
+        
+            <tr style="background-color: #F7E8FF">
+              <td>9:00 – 10:00 AM</td>
+              <td>Vijay Janappa Reddi (Harvard University)</td>
+              <td>Keynote Address</td>
+            </tr>
+        
+            <tr style="background-color: #E8F1FF">
+              <td>10:00 – 11:00 AM</td>
+              <td>Chetan Singh Takur (IISc)</td>
+              <td>Technical Talk</td>
+            </tr>
+        
+            <tr style="background-color: #F5F7F8">
+              <td>11:00 – 11:15 AM</td><td>—</td><td>Tea/Coffee Break</td>
+            </tr>
+        
+            <tr style="background-color: #E9F7F1">
+              <td>11:15 – 12:45 PM</td>
+              <td>Chetan Singh Takur (IISc)</td>
+              <td>Hands-on Session</td>
+            </tr>
+        
+            <tr style="background-color: #F5F7F8">
+              <td>12:45 – 2:00 PM</td><td>—</td><td>Lunch Break</td>
+            </tr>
+        
+            <tr style="background-color: #FFF3E8">
+              <td>2:00 – 3:30 PM</td>
+              <td>Pandarasamy Arjunan (IISc)</td>
+              <td>Tiny ML Lab</td>
+            </tr>
+        
+            <tr style="background-color: #F5F7F8">
+              <td>3:30 – 4:00 PM</td><td>—</td><td>Tea/Coffee Break</td>
+            </tr>
+        
+            <tr style="background-color: #FFF3E8">
+              <td>4:00 – 5:30 PM</td>
+              <td>Pandarasamy Arjunan (IISc)</td>
+              <td>Tiny ML Lab</td>
+            </tr>
+        
+            <tr style="background-color: #FFF3E8">
+              <td>5:30 – 7:00 PM</td>
+              <td>Pandarasamy Arjunan (IISc)</td>
+              <td>Tiny ML Lab</td>
+            </tr>
+        
+            <tr style="background-color: #F5F7F8">
+              <td>7:00 – 8:00 PM</td><td>—</td><td>Dinner / Social</td>
+            </tr>
+        
+          </tbody>
+        </table>
+
+
         ### DAY 1 - 28th Dec 2025
         <table class="schedule-table">
         <thead>
