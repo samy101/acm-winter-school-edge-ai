@@ -21,10 +21,7 @@ sections:
 
         **Host:** <a href="https://cps.iisc.ac.in/">RBCCPS</a> & <a href="https://cds.iisc.ac.in/">CDS</a>.<br><br>
   
-        **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
-  
-        **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
-        <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan.</a>        
+        **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>  
         
 
     design:
