@@ -21,8 +21,13 @@ sections:
 
         **Host:** <a href="https://cps.iisc.ac.in/">RBCCPS</a> & <a href="https://cds.iisc.ac.in/">CDS</a>.<br><br>
   
-        **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>  
-        
+        **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
+
+        <div style="margin-top: 30px; text-align: center;">
+          <img src="IISC.png" 
+               alt="ACM India Logo" 
+               style="max-height: 200px; max-width: 120%; display: inline-block;">
+        </div>        
 
     design:
       columns: 1
