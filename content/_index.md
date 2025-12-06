@@ -19,14 +19,12 @@ sections:
         </div>
         **28 December 2025 to 4 January 2026**<br><br>
 
-        **Host:** <a href="https://cps.iisc.ac.in/">RBCCPS</a> & <a href="https://cds.iisc.ac.in/">CDS</a><br><br>
-  
         **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru<br><br>
 
         <div style="margin-top: 10px; text-align: center;">
           <img src="IISc_logo1.png" 
                alt="ACM India Logo" 
-               style="max-height: 200px; max-width: 120%; display: inline-block;">
+               style="max-height: 250px; max-width: 120%; display: inline-block;">
         </div>        
 
     design:
