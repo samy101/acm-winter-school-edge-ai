@@ -26,6 +26,7 @@ sections:
         **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
         <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan.</a>        
         
+
     design:
       columns: 1
       css_class: "light"
@@ -40,7 +41,7 @@ sections:
           repeat: no-repeat
           filters:
             brightness: 0.5
-        parallax: false
+        parallax: false   
 
     
   # === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
