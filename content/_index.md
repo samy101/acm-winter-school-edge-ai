@@ -96,7 +96,7 @@ sections:
       columns: 3
 
   # === 4. SPEAKERS BLOCK (3-COLUMN GRID WITH VERTICAL SPACING, WIDTH OVERRIDDEN VIA CUSTOM CSS) ===
-  - block: markdown
+  - block: features
     id: speakers
     content:
       title: Speakers
