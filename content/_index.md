@@ -238,108 +238,108 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
         </tbody></table>
         <br><br>
-      <h3><strong>Day 3 – 30th Dec 2025</strong></h3>
-      <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
-      <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-      <tbody>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#F7E8FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Prashanti (AMD)</td><td style="padding:8px;">Invited Talk</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators Lab</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators Lab</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators Lab</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
-      </tbody></table>
-      <br><br>   
-      <h3><strong>Day 4 – 31st Dec 2025</strong></h3>
-      <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
-      <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-      <tbody>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">FL on Edge Lab</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
-      <tr style="background-color:#F7E8FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Varun Ojha (New Castle)</td><td style="padding:8px;">Invited Talk</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Varun Ojha (New Castle)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">FL on Edge Lab</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social (New Year's Eve)</td></tr>
-      </tbody></table>
-      <br><br>
-      <h3><strong>Day 5 – 1st Jan 2026</strong></h3>
-      <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
-      <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-      <tbody>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Sumit Kumar Mandal (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#F7E8FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Prasant Misra (IISc & TCS)</td><td style="padding:8px;">Invited Talk</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Punit Rathore (IISc)</td><td style="padding:8px;">Hands-on Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Gen AI at Edge Lab</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Gen AI at Edge Lab</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
-      </tbody></table>
-      <br><br>
-      <h3><strong>Day 6 – 2nd Jan 2026</strong></h3>
-      <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
-      <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-      <tbody>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-      <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
-      <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">IoT Analytics Lab</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#DE9F32;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">MATLAB Session</td></tr>
-      <tr style="background-color:#DE9F32;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Reserved (Qualcomm Session)</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
-      </tbody></table>
-      <br><br>
-      <h3><strong>Day 7 – 3rd Jan 2026</strong></h3>
-      <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
-      <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-      <tbody>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-      <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Archan Misra (SMU)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">Technical Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
-      <tr style="background-color:#DE9F32;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Arm Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>
-      <tr style="background-color:#E6F5E6;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
-      </tbody></table>
-      <br><br>      
-      <h3><strong>Day 8 – 4th Jan 2026</strong></h3>
-      <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
-      <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-      <tbody>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>      
-      <tr style="background-color:#E6F5E6;">
-      <td style="padding:8px;">9:00 AM – 12:45 PM</td>
-      <td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td>
-      </tr>      
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>      
-      <tr style="background-color:#E6F5E6;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-      <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
-      <tr style="background-color:#CCF4B1;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Certificate Distribution and Closing</td></tr>
-      <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
-      </tbody></table>
-      <br><br>      
+        <h3><strong>Day 3 – 30th Dec 2025</strong></h3>
+        <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
+        <tbody>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Prashanti (AMD)</td><td style="padding:8px;">Invited Talk</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators Lab</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators Lab</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators Lab</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
+        </tbody></table>
+        <br><br>   
+        <h3><strong>Day 4 – 31st Dec 2025</strong></h3>
+        <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
+        <tbody>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">FL on Edge Lab</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Varun Ojha (New Castle)</td><td style="padding:8px;">Invited Talk</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Varun Ojha (New Castle)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">FL on Edge Lab</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social (New Year's Eve)</td></tr>
+        </tbody></table>
+        <br><br>
+        <h3><strong>Day 5 – 1st Jan 2026</strong></h3>
+        <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
+        <tbody>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Sumit Kumar Mandal (IISc)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Prasant Misra (IISc & TCS)</td><td style="padding:8px;">Invited Talk</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Punit Rathore (IISc)</td><td style="padding:8px;">Hands-on Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Gen AI at Edge Lab</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Gen AI at Edge Lab</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
+        </tbody></table>
+        <br><br>
+        <h3><strong>Day 6 – 2nd Jan 2026</strong></h3>
+        <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
+        <tbody>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">IoT Analytics Lab</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#DE9F32;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">MATLAB Session</td></tr>
+        <tr style="background-color:#DE9F32;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Reserved (Qualcomm Session)</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
+        </tbody></table>
+        <br><br>
+        <h3><strong>Day 7 – 3rd Jan 2026</strong></h3>
+        <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
+        <tbody>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Archan Misra (SMU)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
+        <tr style="background-color:#DE9F32;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Arm Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>
+        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
+        </tbody></table>
+        <br><br>      
+        <h3><strong>Day 8 – 4th Jan 2026</strong></h3>
+        <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
+        <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
+        <tbody>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>      
+        <tr style="background-color:#E6F5E6;">
+        <td style="padding:8px;">9:00 AM – 12:45 PM</td>
+        <td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td>
+        </tr>      
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>      
+        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
+        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
+        <tr style="background-color:#CCF4B1;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Certificate Distribution and Closing</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
+        </tbody></table>
+        <br><br>      
 
     design:
       columns: 1
