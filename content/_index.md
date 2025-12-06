@@ -199,67 +199,56 @@ sections:
               <td style="padding: 8px;">—</td>
               <td style="padding: 8px;">Breakfast</td>
             </tr>
-
             <tr style="background-color: #F7E8FF;">
               <td style="padding: 8px;">9:00 – 10:00 AM</td>
               <td style="padding: 8px;">Vijay Janappa Reddi (Harvard University)</td>
               <td style="padding: 8px;">Keynote Address</td>
             </tr>
-
             <tr style="background-color: #E8F1FF;">
               <td style="padding: 8px;">10:00 – 11:00 AM</td>
               <td style="padding: 8px;">Chetan Singh Takur (IISc)</td>
               <td style="padding: 8px;">Technical Talk</td>
             </tr>
-
             <tr style="background-color: #F5F7F8;">
               <td style="padding: 8px;">11:00 – 11:15 AM</td>
               <td style="padding: 8px;">—</td>
               <td style="padding: 8px;">Tea/Coffee Break</td>
             </tr>
-
             <tr style="background-color: #E9F7F1;">
               <td style="padding: 8px;">11:15 – 12:45 PM</td>
               <td style="padding: 8px;">Chetan Singh Takur (IISc)</td>
               <td style="padding: 8px;">Hands-on Session</td>
             </tr>
-
             <tr style="background-color: #F5F7F8;">
               <td style="padding: 8px;">12:45 – 2:00 PM</td>
               <td style="padding: 8px;">—</td>
               <td style="padding: 8px;">Lunch Break</td>
             </tr>
-
             <tr style="background-color: #FFF3E8;">
               <td style="padding: 8px;">2:00 – 3:30 PM</td>
               <td style="padding: 8px;">Pandarasamy Arjunan (IISc)</td>
               <td style="padding: 8px;">Tiny ML Lab</td>
             </tr>
-
             <tr style="background-color: #F5F7F8;">
               <td style="padding: 8px;">3:30 – 4:00 PM</td>
               <td style="padding: 8px;">—</td>
               <td style="padding: 8px;">Tea/Coffee Break</td>
             </tr>
-
             <tr style="background-color: #FFF3E8;">
               <td style="padding: 8px;">4:00 – 5:30 PM</td>
               <td style="padding: 8px;">Pandarasamy Arjunan (IISc)</td>
               <td style="padding: 8px;">Tiny ML Lab</td>
             </tr>
-
             <tr style="background-color: #FFF3E8;">
               <td style="padding: 8px;">5:30 – 7:00 PM</td>
               <td style="padding: 8px;">Pandarasamy Arjunan (IISc)</td>
               <td style="padding: 8px;">Tiny ML Lab</td>
             </tr>
-
             <tr style="background-color: #F5F7F8;">
               <td style="padding: 8px;">7:00 – 8:00 PM</td>
               <td style="padding: 8px;">—</td>
               <td style="padding: 8px;">Dinner / Social</td>
             </tr>
-
           </tbody>
         </table>
     design:
