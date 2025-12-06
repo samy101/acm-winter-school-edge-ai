@@ -35,7 +35,7 @@ sections:
       background:
         color: "white"
         image:
-          filename: bg-iisc2.png
+          filename: bg-iisc3.png
           size: contain
           mobile_size: contain
           position: "top left"
