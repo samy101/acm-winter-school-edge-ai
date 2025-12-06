@@ -40,6 +40,10 @@ header:
     show_search: false
     show_theme_chooser: true
 
+[styles]
+css = ["css/custom.css"]
+   
+
 # Site footer
 footer:
   copyright:
