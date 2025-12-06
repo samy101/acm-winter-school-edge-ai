@@ -43,13 +43,13 @@ sections:
     design:
       columns: 1
       css_class: "light"
-      background:
+    background:
         color: "white"
         image:
           filename: bg-iisc2.png
-          size: cover         # fills the hero block
+          size: auto
           mobile_size: cover  # makes it responsive on phones
-          position: center
+          position: "top left"
           anchor_y: top       # keeps building visible at top-left
           filters:
             brightness: 0.5
