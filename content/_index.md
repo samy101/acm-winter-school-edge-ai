@@ -13,11 +13,13 @@ sections:
     id: top
     content:
       title: ""
-      title_html: >
-        <img src="edge-ai-title.svg"
-             alt="ACM India Winter School on Edge AI"
-             style="width:100%;max-width:1200px;margin:auto;display:block;">             
       text: |
+        <div style="margin-top: 30px; text-align: center;">
+          <img src="edge-ai-title.svg" 
+               alt="ACM India Winter School on Edge AI"
+               style="width:100%;max-width:1200px;margin:auto;display:block;">             
+        </div>
+
         **28 December 2025 to 4 January 2026**<br><br>
 
         **Host:** <a href="https://cps.iisc.ac.in/">Robert Bosch Center for Cyber Physical Systems (RBCCPS)</a> & <a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences (CDS).</a> <br><br>
