@@ -32,20 +32,20 @@ sections:
                style="max-height: 200px; max-width: 120%; display: inline-block;">
         </div>
         
-  design:
-    columns: 1
-    css_class: "dark"
-    background:
-      color: "white"
-      image:
-        filename: bg-iisc2.png
-        size: cover         # fills the hero block
-        mobile_size: cover  # makes it responsive on phones
-        position: center
-        anchor_y: top       # keeps building visible at top-left
-        filters:
-          brightness: 0.5
-      parallax: false    
+    design:
+      columns: 1
+      css_class: "dark"
+      background:
+        color: "white"
+        image:
+          filename: bg-iisc2.png
+          size: cover         # fills the hero block
+          mobile_size: cover  # makes it responsive on phones
+          position: center
+          anchor_y: top       # keeps building visible at top-left
+          filters:
+            brightness: 0.5
+        parallax: false    
 
   # === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
   - block: markdown
