@@ -95,3 +95,12 @@
     max-height: 60px !important;
     width: auto !important;
 }
+
+.hero-svg-title img {
+  width: 100%;
+  max-width: 1200px;
+  display: block;
+  margin: auto;
+  height: auto;
+}
+
