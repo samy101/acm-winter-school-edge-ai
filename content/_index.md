@@ -19,6 +19,14 @@ sections:
         </div>
         **28 December 2025 to 4 January 2026**<br><br>
 
+        **Host:** <a href="https://cps.iisc.ac.in/">RBCCPS</a> & <a href="https://cds.iisc.ac.in/">CDS</a>.<br><br>
+  
+        **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
+  
+        **Coordinators:** <a href="https://www.samy101.com/">Pandarasamy Arjunan</a> & 
+        <a href="https://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan.</a>
+
+
         **Host:** <a href="https://cps.iisc.ac.in/">Robert Bosch Center for Cyber Physical Systems (RBCCPS)</a> & <a href="https://cds.iisc.ac.in/">Department of Computational and Data Sciences (CDS).</a> <br><br>
 
         **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru.<br><br>
@@ -34,7 +42,7 @@ sections:
         
     design:
       columns: 1
-      css_class: "dark"
+      css_class: "light"
       background:
         color: "white"
         image:
