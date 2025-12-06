@@ -51,8 +51,9 @@
 
 /* 7. Sets the content width for the Speakers section to 80ch. */
 #speakers .max-w-prose {
-    max-width: 80ch !important;
+    max-width: 100ch !important;
     margin: 0 auto;
+    text-align: justify;
 }
 
 /* 8.  Decreases vertical spacing between speaker rows (from 40px to 10px). */
@@ -65,13 +66,28 @@
 /* --- VENUE SECTION --- */
 
 /* 9. Sets the content width for the Venue section to 125ch and justifies text. */
-#venue ..max-w-prose {
+#venue .max-w-prose {
     max-width: 125ch !important;
     margin: 0 auto;
     text-align: justify;
 }
 
+/* --- Programs --- */
+
+#programs .max-w-prose {
+    max-width: 125ch !important;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+
 /* --- SPONSORS SECTION  (Single-Row Layout) --- */
+
+#sponsors .max-w-prose {
+    max-width: 125ch !important;
+    margin: 0 auto;
+    text-align: justify;
+}
 
 /* 10. Target the flex container to manage overall width. (For multi-row flex-wrap: nowrap is added here implicitly) */
 #sponsors .content div[style*="display: flex"] {
