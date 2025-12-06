@@ -30,17 +30,19 @@ sections:
       columns: 1
       css_class: "light"
       background:
-          color: "white"
-          image:
-            filename: bg-iisc2.png
-            size: auto
-            mobile_size: cover  # makes it responsive on phones
-            position: "top left"
-            anchor_y: top       # keeps building visible at top-left
-            filters:
-              brightness: 0.5
-          parallax: false    
+        color: "white"
+        image:
+          filename: bg-iisc2.png
+          size: contain
+          mobile_size: contain
+          position: "top left"
+          anchor_y: top
+          repeat: no-repeat
+          filters:
+            brightness: 0.5
+        parallax: false
 
+    
   # === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
   - block: markdown
     id: about
