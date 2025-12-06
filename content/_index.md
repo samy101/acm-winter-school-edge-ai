@@ -38,7 +38,7 @@ sections:
       background:
         color: "white"
         image:
-          filename: bg-iisc1.png
+          filename: bg-iisc2.png
           filters:
             brightness: 0.5
             size: cover
