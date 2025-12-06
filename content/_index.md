@@ -181,12 +181,10 @@ sections:
 
 # === 5. PROGRAMS (NEW SECTION) ===
   - block: markdown
-    id: programs
+    id: program
     content:
-      title: 📅 Programs
+      title: 📅 Program
       text: |
-        The program will run from **28 DECEMBER 2025 to 4 JANUARY 2026**.
-
         ### DAY 1 - 28th Dec 2025
         <table class="schedule-table">
         <thead>
