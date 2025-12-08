@@ -58,7 +58,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (Visually interactive with HTML Entities) ===
+# === 3. TOPICS BLOCK (Visually interactive with HTML Entities - FINAL FIX) ===
   - block: features
     id: topics
     content:
@@ -67,27 +67,27 @@ sections:
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
         - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
-          icon: &#x1F3E0;
+          icon: '&#x1F3E0;' # House
         - name: Tiny and Embedded Machine Learning
-          icon: &#x2328;
+          icon: '&#x2328;' # Keyboard / Computer System
         - name: Model Optimization and Acceleration for Edge AI
-          icon: &#x26A1;
+          icon: '&#x26A1;' # High Voltage / Acceleration
         - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
-          icon: &#x2699;
+          icon: '&#x2699;' # Gear / Cog
         - name: Federated Learning and Distributed Training for Edge Devices
-          icon: &#x1F310;
+          icon: '&#x1F310;' # Globe
         - name: Neuromorphic Computing and Brain-Inspired Architectures
-          icon: &#x1F9E0;
+          icon: '&#x1F9E0;' # Brain
         - name: Generative AI and LLM at the Edge
-          icon: &#x2728;
+          icon: '&#x2728;' # Sparkles
         - name: Agentic AI on the Edge
-          icon: &#x1F916;
+          icon: '&#x1F916;' # Robot
         - name: Security, Privacy, and Responsible AI in Edge Systems
-          icon: &#x1F6E1;
+          icon: '&#x1F6E1;' # Shield
         - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-          icon: &#x1F4CA;
+          icon: '&#x1F4CA;' # Bar Chart
         - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-          icon: &#x1F6F0;
+          icon: '&#x1F6F0;' # Satellite / UAV
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
