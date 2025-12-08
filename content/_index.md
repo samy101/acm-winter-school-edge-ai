@@ -100,30 +100,29 @@ sections:
       title: Speakers
       text: |
         ### **Keynote Speakers**
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
         
-        <div style="width: 30%; min-width: 180px; margin: 40px 10px;"> 
+        <div style="width: 25%; min-width: 180px; margin: 40px 10px;"> 
           <a href="https://edge.seas.harvard.edu/people/vijay-janapa-reddi">
             <img src="speaker_vijay.jpg" alt="Photo of Vijay Janappa Reddi" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
           </a>
           <p><strong>Vijay Janappa Reddi</strong><br/>Harvard University</p>
         </div>
 
-        <div style="width: 30%; min-width: 180px; margin: 40px 10px;">
+        <div style="width: 25%; min-width: 180px; margin: 40px 10px;">
           <a href="https://isc.mst.edu/people/ri/sdas/">
             <img src="speaker_sajal.jpg" alt="Photo of Sajal Das" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
           </a>
           <p><strong>Sajal Das</strong><br/>Missouri Univ. of Sci. & Tech, USA</p>
         </div>
 
-        <div style="width: 30%; min-width: 180px; margin: 40px 10px;">
+        <div style="width: 25%; min-width: 180px; margin: 40px 10px;">
           <a href="https://ojhavk.github.io/">
             <img src="speaker_varun.jpg" alt="Photo of Varun Ojha" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
           </a>
           <p><strong>Varun Ojha</strong><br/>New Castle University, UK</p>
         </div>
 
-        <div style="width: 30%; min-width: 180px; margin: 40px 10px;">
+        <div style="width: 25%; min-width: 180px; margin: 40px 10px;">
           <a href="https://sites.google.com/view/archan-misra">
             <img src="speaker_archan.jpg" alt="Photo of Archan Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #0056b3;">
           </a>
