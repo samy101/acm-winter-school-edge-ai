@@ -98,7 +98,8 @@ sections:
     content:
       title: 🎤 Speakers
       text: |
-        ### Keynote Speakers
+    
+        ### **Keynote Speakers**
         
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
         
@@ -132,7 +133,7 @@ sections:
         
         </div>
         
-        ### Technical Session Speakers
+        ### **Technical Session Speakers**
         
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
   
