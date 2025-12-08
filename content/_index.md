@@ -218,8 +218,9 @@ sections:
     content:
       title: 📅 Program
       text: |
+        <br><br>
         ## 🍽️ Common Meal Times
-        <p style="text-align: center;">
+        <p style="text-align: center; font-size: 1.1em; line-height: 1.6;">
         <strong>Breakfast:</strong> 8:00 – 9:00 AM Daily<br>
         <strong>Dinner / Social:</strong> 7:00 – 8:00 PM Daily
         </p>
@@ -227,23 +228,19 @@ sections:
         ---
   
         ### 📚 Session Legend
-        <table class="schedule-table" 
-               style="border-collapse: collapse; width: 100%; max-width: 650px; margin: 0 auto; 
-                      text-align: left; border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
-        <tbody>
-        <tr>
-        <td style="padding: 16px; line-height: 1.8;">        
-          <span style="background-color:#F5F7F8; padding:4px 10px; border-radius:4px; margin-right:6px;">☕ Break / Meal</span><br>        
-          <span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:6px;">🎤 Keynote / Plenary / Invited Talk</span><br>        
-          <span style="background-color:#E8F1FF; padding:4px 10px; border-radius:4px; margin-right:6px;">👨‍🏫 Lecture / Hands-on</span><br>        
-          <span style="background-color:#FFF3E8; padding:4px 10px; border-radius:4px; margin-right:6px;">🧪 Lab / Tutorial</span><br>        
-          <span style="background-color:#DE9F32; padding:4px 10px; border-radius:4px; margin-right:6px;">🏢 Industry Session</span><br>        
-          <span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:6px;">💻 Hackathon</span><br>        
-          <span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:6px;">🎉 Closing Ceremony</span>        
-        </td>
-        </tr>
-        </tbody>
-        </table>      
+        <div style="max-width: 650px; margin: 0 auto; padding: 15px 0;">
+        <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F5F7F8; padding:4px 10px; border-radius:4px; margin-right:4px;">☕ Break / Meal</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:4px;">🎤 Keynote / Invited Talk</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E8F1FF; padding:4px 10px; border-radius:4px; margin-right:4px;">👨‍🏫 Lecture / Hands-on</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#FFF3E8; padding:4px 10px; border-radius:4px; margin-right:4px;">🧪 Lab / Tutorial</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#DE9F32; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry Session</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:4px;">💻 Hackathon</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:4px;">🎉 Closing Ceremony</span></li>
+        </ul>
+        </div>
+  
+        ---    
         
         <br><br>      
         <h3><strong>Day 1 – 28th Dec 2025</strong></h3>
