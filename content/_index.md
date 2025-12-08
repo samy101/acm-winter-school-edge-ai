@@ -67,27 +67,27 @@ sections:
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
         - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
-          icon: '&#x1F3E0;' # House
+          icon: '&#x1F3E0' # House
         - name: Tiny and Embedded Machine Learning
-          icon: '&#x2328;' # Keyboard / Computer System
+          icon: '&#x2328' # Keyboard / Computer System
         - name: Model Optimization and Acceleration for Edge AI
-          icon: '&#x26A1;' # High Voltage / Acceleration
+          icon: '&#x26A1' # High Voltage / Acceleration
         - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
-          icon: '&#x2699;' # Gear / Cog
+          icon: '&#x2699' # Gear / Cog
         - name: Federated Learning and Distributed Training for Edge Devices
-          icon: '&#x1F310;' # Globe
+          icon: '&#x1F310' # Globe
         - name: Neuromorphic Computing and Brain-Inspired Architectures
-          icon: '&#x1F9E0;' # Brain
+          icon: '&#x1F9E0' # Brain
         - name: Generative AI and LLM at the Edge
-          icon: '&#x2728;' # Sparkles
+          icon: '&#x2728' # Sparkles
         - name: Agentic AI on the Edge
-          icon: '&#x1F916;' # Robot
+          icon: '&#x1F916' # Robot
         - name: Security, Privacy, and Responsible AI in Edge Systems
-          icon: '&#x1F6E1;' # Shield
+          icon: '&#x1F6E1' # Shield
         - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-          icon: '&#x1F4CA;' # Bar Chart
+          icon: '&#x1F4CA' # Bar Chart
         - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-          icon: '&#x1F6F0;' # Satellite / UAV
+          icon: '&#x1F6F0' # Satellite / UAV
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
