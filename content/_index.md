@@ -14,9 +14,12 @@ sections:
     content:
       title: ""
       text: |
-        <div class="hero-svg-title">
+        <h1 class="animated-gradient-title">
+          ACM India Winter School on Edge AI
+        </h1>
+        <!--div class="hero-svg-title">
           <img src="edge-ai-title.svg" alt="ACM India Winter School on Edge AI">
-        </div>
+        </div-->
         **28 December 2025 to 4 January 2026**<br><br>
 
         **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru<br><br>
