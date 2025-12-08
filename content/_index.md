@@ -352,7 +352,7 @@ sections:
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>  
-        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">9:00 AM – 12:45 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>      
+        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">9:00 – 12:45 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>      
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>      
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
