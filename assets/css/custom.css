@@ -16,6 +16,49 @@
     text-overflow: clip !important;
 }
 
+@keyframes animated-gradient {
+    to {
+        background-position: 100% 0; /* Shifts the gradient background to the left */
+    }
+}
+
+/* --- TITLE STYLING AND ANIMATION APPLICATION --- */
+
+#top .gradient-title {
+    /* 1. Define the wide, repeating background gradient */
+    background-image: linear-gradient(
+        90deg, 
+        #CC0000, 
+        #CC6600, 
+        #CCCC00, 
+        #008000, 
+        #006699, 
+        #4B0082, 
+        #CC0000 /* Repeat the starting color for smooth looping */
+    ); 
+
+    /* 2. Set the background size much wider than the text to ensure visible movement */
+    background-size: 300% 100% !important; 
+    
+    /* 3. Apply the animation */
+    animation: animated-gradient 10s ease-in-out infinite alternate !important; 
+    
+    /* 4. Clip the background and set color to transparent (Must use !important) */
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    color: transparent !important;
+    -webkit-text-fill-color: transparent !important;
+    
+    /* 5. Size and Layout Fixes */
+    font-size: 5rem !important; 
+    line-height: 1.1 !important;
+    white-space: nowrap !important;
+
+    /* 6. GLYPH/RENDERING FIXES (Required to fix the 'G' and prevent artifacts) */
+    text-shadow: 0 0 0 transparent !important; 
+    transform: translate3d(0, 0, 0) !important;
+}
+
 /* 3. Increase the font size of the descriptive text/dates in the Hero Block. */
 #top .hero-block-container .text-lg {
     font-size: 1.5rem !important; 
