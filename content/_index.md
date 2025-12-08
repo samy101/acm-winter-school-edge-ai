@@ -58,39 +58,39 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (Visually interactive with HTML Entities - FINAL FIX) ===
-  - block: features
-    id: topics
-    content:
-      title: Key Topics
-      text: |
-        The winter school covers foundational and advanced aspects of Edge AI.
-      items:
-        - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
-          icon: '&#x1F3E0' # House
-        - name: Tiny and Embedded Machine Learning
-          icon: '&#x2328' # Keyboard / Computer System
-        - name: Model Optimization and Acceleration for Edge AI
-          icon: '&#x26A1' # High Voltage / Acceleration
-        - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
-          icon: '&#x2699' # Gear / Cog
-        - name: Federated Learning and Distributed Training for Edge Devices
-          icon: '&#x1F310' # Globe
-        - name: Neuromorphic Computing and Brain-Inspired Architectures
-          icon: '&#x1F9E0' # Brain
-        - name: Generative AI and LLM at the Edge
-          icon: '&#x2728' # Sparkles
-        - name: Agentic AI on the Edge
-          icon: '&#x1F916' # Robot
-        - name: Security, Privacy, and Responsible AI in Edge Systems
-          icon: '&#x1F6E1' # Shield
-        - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-          icon: '&#x1F4CA' # Bar Chart
-        - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-          icon: '&#x1F6F0' # Satellite / UAV
-    design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      columns: 3
+# === 3. TOPICS BLOCK (FINAL FIX: Emojis Embedded in Name Field) ===
+- block: features
+  id: topics
+  content:
+    title: Key Topics
+    text: |
+      The winter school covers foundational and advanced aspects of Edge AI.
+    items:
+      - name: 🏡 Foundations of IoT, Accelerated Edge Computing and Edge AI
+        icon: "" # Empty icon field to prevent theme from adding default H
+      - name: 💾 Tiny and Embedded Machine Learning
+        icon: ""
+      - name: ⚡ Model Optimization and Acceleration for Edge AI
+        icon: ""
+      - name: ⚙️ Edge AI Platforms, Frameworks, and Deployment Pipelines
+        icon: ""
+      - name: 🌐 Federated Learning and Distributed Training for Edge Devices
+        icon: ""
+      - name: 🧠 Neuromorphic Computing and Brain-Inspired Architectures
+        icon: ""
+      - name: ✨ Generative AI and LLM at the Edge
+        icon: ""
+      - name: 🤖 Agentic AI on the Edge
+        icon: ""
+      - name: 🛡️ Security, Privacy, and Responsible AI in Edge Systems
+        icon: ""
+      - name: 📊 Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
+        icon: ""
+      - name: 🛰️ Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
+        icon: ""
+  design:
+    css_class: "bg-gray-100 dark:bg-gray-900"
+    columns: 3
 
 # === 4. SPEAKERS BLOCK (4-COLUMN GRID FIX) ===
   - block: features
