@@ -10,41 +10,33 @@ design:
 sections:
   # === 1. HERO BLOCK: Title, Dates, Host ===
   - block: hero
-    id: top
     content:
-      title: ""
+      title: '<span class="gradient-animate">ACM India Winter School on Edge AI</span>'
       text: |
-        
-        <div class="hero-svg-title">
-          <h1 class="animated-gradient-title">ACM India Winter School on Edge AI</h2>
-          <!--img src="edge-ai-title.svg" alt="ACM India Winter School on Edge AI"-->
-        </div>
-
+        <br><br>
         **28 December 2025 to 4 January 2026**<br><br>
-
         **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru<br><br>
-
         <div style="margin-top: 10px; text-align: center;">
-          <img src="IISc_logo1.png" 
-               alt="ACM India Logo" 
-               style="max-height: 100px; max-width: 120%; display: inline-block;">
-        </div>        
-
+          <img src="iisc-logo-black.png"
+               alt="IISc Logo"
+               style="max-height: 250px; max-width: 120%; display: inline-block;">
+        </div>
+        <br>   
     design:
-      columns: 1
-      css_class: "light"
+      min_height: "100vh"   # 90% of screen height (increase if needed)    
+      spacing:
+        padding: ["40px", "0", "40px", "120px"]
+        margin: ["0", "0", "0", "0"]      
+      css_class: "hero-block light"
       background:
         color: "white"
         image:
           filename: bg-iisc4-min.png
-          size: contain
-          mobile_size: contain
-          position: "top left"
-          anchor_y: top
-          repeat: no-repeat
           filters:
-            brightness: 0.5
-        parallax: false   
+            brightness: 0.2
+          size: cover
+          position: top
+          parallax: true
 
     
   # === 2. ABOUT BLOCK: Description, Background, Software (WIDER & JUSTIFIED VIA CUSTOM CSS) ===
