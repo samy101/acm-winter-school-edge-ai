@@ -329,7 +329,7 @@ sections:
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Technical Talk</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
@@ -346,7 +346,7 @@ sections:
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:00 – 9:00 AM</td><td colspan="2" style="padding:8px; text-align:center;">Breakfast</td></tr>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Archan Misra (SMU)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Archan Misra (SMU)</td><td style="padding:8px;">Technical Talk</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">Technical Session</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">Technical Session</td></tr>
