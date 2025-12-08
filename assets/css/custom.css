@@ -91,6 +91,35 @@
     text-align: justify;
 }
 
+/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT --- */
+
+#topics .section-subheading {
+    /* Targets the inner content box for text alignment */
+    text-align: center;
+}
+
+#topics .section-subheading .media-body {
+    /* Forces the text content container to center everything */
+    text-align: center;
+}
+
+#topics .section-subheading .media-left,
+#topics .section-subheading .media-right {
+    /* Ensures icon wrapper uses full width */
+    display: block;
+    margin: 0 auto 0.5rem auto !important; /* Centers the icon and adds margin below */
+    float: none !important;
+}
+
+#topics .section-subheading .media-body {
+    /* Ensures the main text content uses the full available width */
+    display: block;
+    width: 100%;
+    padding-left: 0 !important; 
+}
+
+
+
 /* --- SPEAKERS SECTION  (Width and Row Spacing) --- */
 
 /* 7. Sets the content width for the Speakers section to 80ch. */
