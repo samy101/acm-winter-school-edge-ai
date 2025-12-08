@@ -91,33 +91,30 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT --- */
+/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Simplified Fix for Embedded Emojis) --- */
 
 #topics .section-subheading {
-    /* Targets the inner content box for text alignment */
-    text-align: center;
+    /* Targets the box containing the icon/text combo */
+    height: 100%;
 }
 
-#topics .section-subheading .media-body {
-    /* Forces the text content container to center everything */
-    text-align: center;
+#topics .section-subheading a {
+    /* Targets the clickable link wrapper for each item */
+    display: flex;             /* Use flexbox for vertical arrangement */
+    flex-direction: column;    /* Stack contents vertically */
+    align-items: center;       /* Center everything horizontally */
+    text-align: center;        /* Ensure multiline text is centered */
+    height: 100%;
+    
+    /* Optional: Add some padding to make the box look better */
+    padding: 15px 0;
 }
 
-#topics .section-subheading .media-left,
-#topics .section-subheading .media-right {
-    /* Ensures icon wrapper uses full width */
-    display: block;
-    margin: 0 auto 0.5rem auto !important; /* Centers the icon and adds margin below */
-    float: none !important;
+#topics .section-subheading a span {
+    /* Targets the first part of the text (the emoji) */
+    font-size: 2.5em;          /* Make the emoji much larger */
+    margin-bottom: 0.5rem;     /* Add space below the emoji */
 }
-
-#topics .section-subheading .media-body {
-    /* Ensures the main text content uses the full available width */
-    display: block;
-    width: 100%;
-    padding-left: 0 !important; 
-}
-
 
 
 /* --- SPEAKERS SECTION  (Width and Row Spacing) --- */
