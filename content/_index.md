@@ -14,9 +14,9 @@ sections:
     content:
       title: ""
       text: |
-        <h1 class="animated-gradient-title">
+        <h2 class="animated-gradient-title">
           ACM India Winter School on Edge AI
-        </h1>
+        </h2>
         <!--div class="hero-svg-title">
           <img src="edge-ai-title.svg" alt="ACM India Winter School on Edge AI">
         </div-->
