@@ -95,7 +95,7 @@ sections:
       columns: 3
 
 # === 4. SPEAKERS BLOCK (4-COLUMN GRID FIX) ===
-  - block: markdown
+  - block: features
     id: speakers
     content:
       title: 🎤 Speakers
