@@ -60,7 +60,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-  # === 3. TOPICS BLOCK (Visually interactive with icons) ===
+# === 3. TOPICS BLOCK (Visually interactive with emojis) ===
   - block: features
     id: topics
     content:
@@ -69,27 +69,27 @@ sections:
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
         - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
-          icon: server
+          icon: 🏡 # House: Represents the Smart Home/Smart City foundation of IoT
         - name: Tiny and Embedded Machine Learning
-          icon: computer-desktop
+          icon: 💾 # Floppy Disk: Represents core hardware, memory, and embedded systems
         - name: Model Optimization and Acceleration for Edge AI
-          icon: arrow-up-circle
+          icon: 🚀 # Rocket: Represents speed and acceleration
         - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
-          icon: code-bracket
+          icon: ⚙️ # Gear/Cog: Represents the platform framework, system integration, and deployment mechanisms
         - name: Federated Learning and Distributed Training for Edge Devices
-          icon: users
+          icon: 🌐 # Globe/Network: Represents distributed and global systems
         - name: Neuromorphic Computing and Brain-Inspired Architectures
-          icon: cube
+          icon: 🧠 # Brain: Direct representation of neuromorphic computing
         - name: Generative AI and LLM at the Edge
-          icon: sparkles
+          icon: ✨ # Sparkles: Represents creation and generation
         - name: Agentic AI on the Edge
-          icon: cog
+          icon: 🤖 # Robot: Represents intelligent, autonomous agents
         - name: Security, Privacy, and Responsible AI in Edge Systems
-          icon: lock-closed
+          icon: 🛡️ # Shield: Represents protection and security
         - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-          icon: chart-bar
+          icon: 📊 # Bar Chart: Represents detailed analysis, metrics, and evaluation
         - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-          icon: globe-alt
+          icon: 🛰️ # Satellite/UAV: Represents remote sensing, UAVs, and wide-area IoT applications
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
