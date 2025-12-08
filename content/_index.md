@@ -65,29 +65,29 @@ sections:
       title: Key Topics
       text: |
         The winter school covers foundational and advanced aspects of Edge AI.
-        items:
-          - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
-            icon: &#x1F3E0;
-          - name: Tiny and Embedded Machine Learning
-            icon: &#x2328;
-          - name: Model Optimization and Acceleration for Edge AI
-            icon: &#x26A1;
-          - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
-            icon: &#x2699;
-          - name: Federated Learning and Distributed Training for Edge Devices
-            icon: &#x1F310;
-          - name: Neuromorphic Computing and Brain-Inspired Architectures
-            icon: &#x1F9E0;
-          - name: Generative AI and LLM at the Edge
-            icon: &#x2728;
-          - name: Agentic AI on the Edge
-            icon: &#x1F916;
-          - name: Security, Privacy, and Responsible AI in Edge Systems
-            icon: &#x1F6E1;
-          - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-            icon: &#x1F4CA;
-          - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-            icon: &#x1F6F0;
+      items:
+        - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
+          icon: &#x1F3E0;
+        - name: Tiny and Embedded Machine Learning
+          icon: &#x2328;
+        - name: Model Optimization and Acceleration for Edge AI
+          icon: &#x26A1;
+        - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
+          icon: &#x2699;
+        - name: Federated Learning and Distributed Training for Edge Devices
+          icon: &#x1F310;
+        - name: Neuromorphic Computing and Brain-Inspired Architectures
+          icon: &#x1F9E0;
+        - name: Generative AI and LLM at the Edge
+          icon: &#x2728;
+        - name: Agentic AI on the Edge
+          icon: &#x1F916;
+        - name: Security, Privacy, and Responsible AI in Edge Systems
+          icon: &#x1F6E1;
+        - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
+          icon: &#x1F4CA;
+        - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
+          icon: &#x1F6F0;
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
