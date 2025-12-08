@@ -94,10 +94,10 @@ sections:
       columns: 3
 
   # === 4. SPEAKERS BLOCK (3-COLUMN GRID WITH VERTICAL SPACING, WIDTH OVERRIDDEN VIA CUSTOM CSS) ===
-  - block: markdown
+  - block: features
     id: speakers
     content:
-      title: 🎤 Meet the Presenters
+      title: Speakers
       text: |
         ### **Keynote Speakers**
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
