@@ -66,28 +66,28 @@ sections:
       text: |
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
-            - name: <span style="font-size: 2.5rem;">🏡</span> Foundations of IoT, Accelerated Edge Computing and Edge AI
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">💾</span> Tiny and Embedded Machine Learning
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">⚡</span> Model Optimization and Acceleration for Edge AI
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">⚙️</span> Edge AI Platforms, Frameworks, and Deployment Pipelines
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">🌐</span> Federated Learning and Distributed Training for Edge Devices
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">🧠</span> Neuromorphic Computing and Brain-Inspired Architectures
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">✨</span> Generative AI and LLM at the Edge
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">🤖</span> Agentic AI on the Edge
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">🛡️</span> Security, Privacy, and Responsible AI in Edge Systems
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">📊</span> Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-              icon: ""
-            - name: <span style="font-size: 2.5rem;">🛰️</span> Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-              icon: ""
+        - name: <span style="font-size: 2.5rem;">🏡</span> Foundations of IoT, Accelerated Edge Computing and Edge AI
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">💾</span> Tiny and Embedded Machine Learning
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">⚡</span> Model Optimization and Acceleration for Edge AI
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">⚙️</span> Edge AI Platforms, Frameworks, and Deployment Pipelines
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">🌐</span> Federated Learning and Distributed Training for Edge Devices
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">🧠</span> Neuromorphic Computing and Brain-Inspired Architectures
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">✨</span> Generative AI and LLM at the Edge
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">🤖</span> Agentic AI on the Edge
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">🛡️</span> Security, Privacy, and Responsible AI in Edge Systems
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">📊</span> Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
+          icon: ""
+        - name: <span style="font-size: 2.5rem;">🛰️</span> Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
+          icon: ""
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
