@@ -58,7 +58,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (Visually interactive with emojis) ===
+# === 3. TOPICS BLOCK (Visually interactive with HTML Entities) ===
   - block: features
     id: topics
     content:
@@ -67,27 +67,27 @@ sections:
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
         - name: Foundations of IoT, Accelerated Edge Computing and Edge AI
-          icon: 🏡 # House: Represents the Smart Home/Smart City foundation of IoT
+          icon: &#x1F3E0; # 🏠 House: Represents the Smart Home/IoT Foundation
         - name: Tiny and Embedded Machine Learning
-          icon: 💾 # Floppy Disk: Represents core hardware, memory, and embedded systems
+          icon: &#x2328; # ⌨️ Keyboard (Represents core device/system)
         - name: Model Optimization and Acceleration for Edge AI
-          icon: 🚀 # Rocket: Represents speed and acceleration
+          icon: &#x26A1; # ⚡ High Voltage: Represents speed, acceleration, and efficiency
         - name: Edge AI Platforms, Frameworks, and Deployment Pipelines
-          icon: ⚙️ # Gear/Cog: Represents the platform framework, system integration, and deployment mechanisms
+          icon: &#x2699; # ⚙️ Gear/Cog: Represents the platform framework, system integration, and deployment mechanisms
         - name: Federated Learning and Distributed Training for Edge Devices
-          icon: 🌐 # Globe/Network: Represents distributed and global systems
+          icon: &#x1F310; # 🌐 Globe: Represents distributed and global systems
         - name: Neuromorphic Computing and Brain-Inspired Architectures
-          icon: 🧠 # Brain: Direct representation of neuromorphic computing
+          icon: &#x1F9E0; # 🧠 Brain: Direct representation of neuromorphic computing
         - name: Generative AI and LLM at the Edge
-          icon: ✨ # Sparkles: Represents creation and generation
+          icon: &#x2728; # ✨ Sparkles: Represents creation and generation
         - name: Agentic AI on the Edge
-          icon: 🤖 # Robot: Represents intelligent, autonomous agents
+          icon: &#x1F916; # 🤖 Robot: Represents intelligent, autonomous agents
         - name: Security, Privacy, and Responsible AI in Edge Systems
-          icon: 🛡️ # Shield: Represents protection and security
+          icon: &#x1F6E1; # 🛡️ Shield: Represents protection and security
         - name: Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems
-          icon: 📊 # Bar Chart: Represents detailed analysis, metrics, and evaluation
+          icon: &#x1F4CA; # 📊 Bar Chart: Represents detailed analysis, metrics, and evaluation
         - name: Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications
-          icon: 🛰️ # Satellite/UAV: Represents remote sensing, UAVs, and wide-area IoT applications
+          icon: &#x1F6F0; # 🛰️ Satellite: Represents remote sensing, UAVs, and wide-area IoT applications
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 3
