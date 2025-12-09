@@ -394,10 +394,10 @@ sections:
 
   # === 7. Contact Us ===
   - block: markdown
-      id: contacts
-      content:
-        title: Contact Us
-        text: |
+    id: contacts
+    content:
+      title: Contact Us
+      text: |
         
         If you have any logistical or academic questions regarding the Winter School, please contact the coordinators:
         * **Pandarasamy Arjunan:** <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
