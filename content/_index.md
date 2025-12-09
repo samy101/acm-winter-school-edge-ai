@@ -330,7 +330,7 @@ sections:
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">IoT Analytics Lab</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#DE9F32;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">MATLAB Session</td></tr>
-        <tr style="background-color:#DE9F32;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Reserved (Qualcomm Session)</td></tr>
+        <tr style="background-color:#DE9F32;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Reserved</td></tr>
         </tbody></table>
         <br><br>
         <h3><strong>Day 7 – 3rd Jan 2026</strong></h3>
