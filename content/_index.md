@@ -400,32 +400,16 @@ sections:
       text: |
         If you have any **logistical or academic questions** regarding the Winter School, please reach out to the program coordinators below.
   
-        <div style="max-width: 500px; margin: 30px auto 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; text-align: center;">
-          
-          <h3 style="margin-top: 0; color: #0056b3; font-size: 1.5rem;">Program Coordinators</h3>
-          <hr style="border-top: 1px solid #eee;">
-          
-          <div style="margin-bottom: 20px;">
-            <p style="font-size: 1.1em; margin-bottom: 5px;">
-              **Pandarasamy Arjunan** (IISc)
-            </p>
-            <p style="margin: 5px 0 0 0;">
-              <a href="https://www.samy101.com/">Profile</a> &bull; 
-              **Email:** <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
-            </p>
-          </div>
-          
-          <div>
-            <p style="font-size: 1.1em; margin-bottom: 5px;">
-              **Yogesh Simmhan** (IISc)
-            </p>
-            <p style="margin: 5px 0 0 0;">
-              <a href="https://cds.iisc.ac.in/faculty/simmhan/">Profile</a> &bull; 
-              **Email:** <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
-            </p>
-          </div>
-        </div>
-        
+        ### Program Coordinators
+  
+        * **Pandarasamy Arjunan** (IISc)
+            * **Profile:** [https://www.samy101.com/](https://www.samy101.com/)
+            * **Email:** [samy@iisc.ac.in](mailto:samy@iisc.ac.in)
+  
+        * **Yogesh Simmhan** (IISc)
+            * **Profile:** [https://cds.iisc.ac.in/faculty/simmhan/](https://cds.iisc.ac.in/faculty/simmhan/)
+            * **Email:** [simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
+  
     design:
       columns: 1
       css_class: ""
