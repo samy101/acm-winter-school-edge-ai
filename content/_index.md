@@ -50,6 +50,7 @@ sections:
         The **<a href="https://india.acm.org/education/acm-india-winter-schools-2025/">ACM India Winter School on Edge AI</a>** will provide an in-depth overview of software platforms, hardware systems, and AI models and algorithms for efficient deployment on accelerated and classic edge devices. The program will cover topics suchs as edge computing architectures and accelerators, co-optimization techniques of edge systems and ML models for performance, power and accuracy, federated learning frameworks, and the deployment of AI, generative AI/LLM models and AI agents at the edge for practical and IoT applications suchs as smart mobility and smart agriculture. Through lectures, hands-on sessions, and expert talks, participants will gain practical skills to design, implement, and optimize intelligent edge systems for diverse real-world applications.
         </p>
     design:
+      css_class: "bg-gray-100 dark:bg-gray-900"
       columns: 1
       spacing:
         padding: ["6rem","0","6rem","0"]
@@ -85,7 +86,7 @@ sections:
         - name: "<span style=\"font-size: 2.5rem;\">🛰️</span> <br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
           icon: ""
     design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: ""
       columns: 3
 
 # === 4. SPEAKERS BLOCK (4-COLUMN GRID FIX) ===
@@ -207,6 +208,7 @@ sections:
         </div>
         
     design:
+      css_class: "bg-gray-100 dark:bg-gray-900"
       view: compact
       columns: 1 # Set to 1 because the columns are defined by inline HTML width
 
@@ -362,7 +364,7 @@ sections:
 
     design:
       columns: 1
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: ""
       background:
         color: white
       spacing:
@@ -382,12 +384,25 @@ sections:
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="location-dot" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg="" style="display: inline-block; height: 1em; margin-left: 0.5em;"><path fill="currentColor" d="M168.3 499.2C116.1 435 0 279.4 0 192C0 85.96 85.96 0 192 0C298 0 384 85.96 384 192C384 279.4 267 435 215.7 499.2C203.4 514.5 180.6 514.5 168.3 499.2H168.3zM192 256C227.3 256 256 227.3 256 192C256 156.7 227.3 128 192 128C156.7 128 128 156.7 128 192C128 227.3 156.7 256 192 256z"></path></svg> Click Here
           </a>
         
-        ### Key Contacts
+    design:
+      columns: 1
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      background:
+        color: white
+      spacing:
+        padding: ["6rem","0","6rem","0"]
+
+  # === 7. Contact Us ===
+  - block: markdown
+      id: contacts
+      content:
+        title: Contact Us
+        text: |
         
         If you have any logistical or academic questions regarding the Winter School, please contact the coordinators:
         * **Pandarasamy Arjunan:** <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
         * **Yogesh Simmhan:** <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
-        
+
     design:
       columns: 1
       css_class: "" 
@@ -395,12 +410,13 @@ sections:
         color: white
       spacing:
         padding: ["6rem","0","6rem","0"]
+    
 
-  # === 7. SPONSORS / SUPPORTED BY (NEW SECTION WITH LOGOS) ===
+  # === 8. SPONSORS / SUPPORTED BY (NEW SECTION WITH LOGOS) ===
   - block: markdown
     id: sponsors
     content:
-      title: Supported By
+      title: Sponsored By
       text: |
         <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
         
