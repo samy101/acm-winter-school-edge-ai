@@ -392,25 +392,47 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-  # === 7. Contact Us ===
+# === 7. Contact Us ===
   - block: markdown
     id: contacts
     content:
-      title: Contact Us
+      title: 📧 Contact Us
       text: |
+        If you have any **logistical or academic questions** regarding the Winter School, please reach out to the program coordinators below.
+  
+        <div style="max-width: 600px; margin: 30px auto 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; text-align: center;">
+          
+          <h3 style="margin-top: 0; color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px;">Program Coordinators</h3>
+          
+          <div style="margin-bottom: 15px;">
+            <p style="font-size: 1.1em; margin: 0;">
+              **Pandarasamy Arjunan** (IISc)
+            </p>
+            <p style="margin: 5px 0 0 0;">
+              <a href="https://www.samy101.com/">Profile</a> &bull; 
+              **Email:** <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
+            </p>
+          </div>
+          
+          <div style="margin-top: 20px;">
+            <p style="font-size: 1.1em; margin: 0;">
+              **Yogesh Simmhan** (IISc)
+            </p>
+            <p style="margin: 5px 0 0 0;">
+              <a href="https://cds.iisc.ac.in/faculty/simmhan/">Profile</a> &bull; 
+              **Email:** <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
+            </p>
+          </div>
+        </div>
         
-        If you have any logistical or academic questions regarding the Winter School, please contact the coordinators:
-        * <a href="https://www.samy101.com/">**Pandarasamy Arjunan:**</a> <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
-        * <a href="https://cds.iisc.ac.in/faculty/simmhan/">**Yogesh Simmhan:**</a> <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
-
     design:
       columns: 1
-      css_class: "" 
+      css_class: ""
       background:
         color: white
       spacing:
         padding: ["6rem","0","6rem","0"]
-    
+      
 
   # === 8. SPONSORS / SUPPORTED BY (NEW SECTION WITH LOGOS) ===
   - block: markdown
