@@ -23,5 +23,5 @@ main:
     url: /#contacts
     weight: 70
   - name: Sponsors
-    url: /#sponsers
+    url: /#sponsors
     weight: 80
