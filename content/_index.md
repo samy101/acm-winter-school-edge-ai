@@ -400,12 +400,13 @@ sections:
       text: |
         If you have any **logistical or academic questions** regarding the Winter School, please reach out to the program coordinators below.
   
-        <div style="max-width: 600px; margin: 30px auto 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; text-align: center;">
+        <div style="max-width: 500px; margin: 30px auto 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; text-align: center;">
           
-          <h3 style="margin-top: 0; color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px;">Program Coordinators</h3>
+          <h3 style="margin-top: 0; color: #0056b3; font-size: 1.5rem;">Program Coordinators</h3>
+          <hr style="border-top: 1px solid #eee;">
           
-          <div style="margin-bottom: 15px;">
-            <p style="font-size: 1.1em; margin: 0;">
+          <div style="margin-bottom: 20px;">
+            <p style="font-size: 1.1em; margin-bottom: 5px;">
               **Pandarasamy Arjunan** (IISc)
             </p>
             <p style="margin: 5px 0 0 0;">
@@ -414,8 +415,8 @@ sections:
             </p>
           </div>
           
-          <div style="margin-top: 20px;">
-            <p style="font-size: 1.1em; margin: 0;">
+          <div>
+            <p style="font-size: 1.1em; margin-bottom: 5px;">
               **Yogesh Simmhan** (IISc)
             </p>
             <p style="margin: 5px 0 0 0;">
