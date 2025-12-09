@@ -400,8 +400,8 @@ sections:
       text: |
         
         If you have any logistical or academic questions regarding the Winter School, please contact the coordinators:
-        * **Pandarasamy Arjunan:** <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
-        * **Yogesh Simmhan:** <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
+        * <a href="https://www.samy101.com/">**Pandarasamy Arjunan:**</a> <a href="mailto:samy@iisc.ac.in">samy@iisc.ac.in</a>
+        * <a href="https://cds.iisc.ac.in/faculty/simmhan/">**Yogesh Simmhan:**</a> <a href="mailto:simmhan@iisc.ac.in">simmhan@iisc.ac.in</a>
 
     design:
       columns: 1
