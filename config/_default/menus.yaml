@@ -19,3 +19,9 @@ main:
   - name: Venue
     url: /#venue
     weight: 60
+  - name: Contact
+    url: /#contacts
+    weight: 70
+  - name: Sponsors
+    url: /#sponsers
+    weight: 80
