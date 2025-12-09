@@ -374,7 +374,7 @@ sections:
   - block: markdown
     id: venue
     content:
-      title: Venue
+      title: 📍 Venue
       text: |
         This Program is hosted at the **CDS building, Indian Institute of Science (IISc), Bengaluru**.
         
