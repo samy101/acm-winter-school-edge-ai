@@ -400,13 +400,11 @@ sections:
       text: |
         If you have any **logistical or academic questions** regarding the Winter School, please reach out to the program coordinators below.
   
-        ### Program Coordinators
-  
-        * **Pandarasamy Arjunan** (IISc)
+        1. **Pandarasamy Arjunan** (IISc)
             * **Profile:** [https://www.samy101.com/](https://www.samy101.com/)
             * **Email:** [samy@iisc.ac.in](mailto:samy@iisc.ac.in)
   
-        * **Yogesh Simmhan** (IISc)
+        2. **Yogesh Simmhan** (IISc)
             * **Profile:** [https://cds.iisc.ac.in/faculty/simmhan/](https://cds.iisc.ac.in/faculty/simmhan/)
             * **Email:** [simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
   
