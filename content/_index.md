@@ -219,14 +219,11 @@ sections:
       title: 📅 Program
       text: |
         <br><br>
-        ## 🍽️ Common Meal Times
+        ## School Timing
         <p style="text-align: center; font-size: 1.1em; line-height: 1.6;">
-        <strong>Breakfast:</strong> 8:00 – 9:00 AM Daily<br>
-        <strong>Dinner / Social:</strong> 7:00 – 8:00 PM Daily
-        </p>
-  
-        ---
-  
+          The usual school timing is <strong>8:00 AM to 8:00 PM</strong> on all days. Breakfast (8:00–9:00 AM), Tea/coffee/snacks (morning and evening), lunch (12:45–2:00 PM), and dinner (7:00–8:00 PM) will be provided daily to all attendees. <em>Participants are expected to arrive at the venue on time each morning.</em>        
+        </p>  
+          
         ### 📚 Session Legend
         <div style="max-width: 650px; margin: 0 auto; padding: 15px 0;">
         <ul style="list-style-type: none; padding-left: 0; text-align: center;">
