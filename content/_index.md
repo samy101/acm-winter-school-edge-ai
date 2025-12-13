@@ -66,8 +66,7 @@ sections:
         - name: "<span style=\"font-size: 2.5rem;\">🏡</span> <br><br>Foundations of IoT, Accelerated Edge Computing and Edge AI"
           icon: ""
         - name: "<span style=\"font-size: 2.5rem;\"></span><br><br>Tiny and Embedded Machine Learning"
-          icon: microchip
-          icon_pack: fas
+          icon: ""    
         - name: "<span style=\"font-size: 2.5rem;\">🚀</span> <br><br>Model Optimization and Acceleration for Edge AI"
           icon: ""
         - name: "<span style=\"font-size: 2.5rem;\">⚙️</span> <br><br>Edge AI Platforms, Frameworks, and Deployment Pipelines"
