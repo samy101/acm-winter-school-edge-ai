@@ -237,7 +237,7 @@ sections:
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#FFF3E8; padding:4px 10px; border-radius:4px; margin-right:4px;">🧪 Lab / Tutorial</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#DE9F32; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry Session</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:4px;">💻 Hackathon</span></li>
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:4px;">🎉 Closing Ceremony</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:4px;">🎉 Opening/Closing</span></li>
         </ul>
         </div>
   
@@ -248,7 +248,7 @@ sections:
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
+        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
         <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Vijay Janappa Reddi (Harvard University)</td><td style="padding:8px;">Edge AI: Opportunities and Challenges</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Chetan Singh Takur (IISc)</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
