@@ -219,12 +219,16 @@ sections:
       title: 📅 Program
       text: |
         <br><br>
-        ## School Timing
-        <p style="text-align: center; font-size: 1.1em; line-height: 1.6;">
-          The usual school timing is <strong>8:00 AM to 8:00 PM</strong> on all days. Breakfast (8:00–9:00 AM), Tea/coffee/snacks (morning and evening), lunch (12:45–2:00 PM), and dinner (7:00–8:00 PM) will be provided daily to all attendees. <em>Participants are expected to arrive at the venue on time each morning.</em>        
-        </p>  
-          
-        ### 📚 Session Legend
+        <h3><strong>⏰ School Timing</strong></h3>
+        <p style="text-align: left; font-size: 1.1em; line-height: 1.6;">
+          The usual school timing is <strong>8:00 AM to 8:00 PM</strong> on all days.
+          Breakfast (8:00–9:00 AM), tea/coffee/snacks (morning and evening),
+          lunch (12:45–2:00 PM), and dinner (7:00–8:00 PM) will be provided daily
+          to all attendees.
+          <em>Participants are expected to arrive at the venue on time each morning.</em>
+        </p>
+        <br>
+        <h3><strong>📚 Session Legend</strong></h3>
         <div style="max-width: 650px; margin: 0 auto; padding: 15px 0;">
         <ul style="list-style-type: none; padding-left: 0; text-align: center;">
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F5F7F8; padding:4px 10px; border-radius:4px; margin-right:4px;">☕ Break / Meal</span></li>
