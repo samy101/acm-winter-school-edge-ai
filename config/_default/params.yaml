@@ -10,6 +10,9 @@ appearance:
 
 # SEO
 marketing:
+  icon:
+    filename: icon.png # <-- Name of your custom icon file in the assets/ folder
+    generate_favicons: true
   seo:
     site_type: Event
     local_business_type: ''
