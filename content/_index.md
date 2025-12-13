@@ -19,7 +19,7 @@ sections:
         <div style="margin-top: 10px; text-align: center;">
           <img src="iisc-logo-black.png"
                alt="IISc Logo"
-               style="max-height: 350px; max-width: 120%; display: inline-block;">
+               style="max-height: 250px; max-width: 120%; display: inline-block;">
         </div>
         <br>   
     design:
