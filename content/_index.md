@@ -13,7 +13,7 @@ sections:
     content:
       title: '<span class="gradient-animate">ACM India Winter School on Edge AI</span>'
       text: |
-        <br><br>
+        <br>
         **28 December 2025 to 4 January 2026**<br><br>
         **Venue:** CDS building, Indian Institute of Science (IISc), Bengaluru<br><br>
         <div style="margin-top: 10px; text-align: center;">
@@ -104,7 +104,7 @@ sections:
           <a href="https://edge.seas.harvard.edu/people/vijay-janapa-reddi">
             <img src="speaker_vijay.jpg" alt="Photo of Vijay Janappa Reddi" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
           </a>
-          <p><a href="https://edge.seas.harvard.edu/people/vijay-janapa-reddi"><strong>Vijay Janappa Reddi</strong></a><br/>Harvard University</p>
+          <p><a href="https://edge.seas.harvard.edu/people/vijay-janapa-reddi"><strong>Vijay Janappa Reddi</strong></a><br/>Harvard University, USA</p>
         </div>
   
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
@@ -118,14 +118,14 @@ sections:
           <a href="https://ojhavk.github.io/">
             <img src="speaker_varun.jpg" alt="Photo of Varun Ojha" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
           </a>
-          <p><a href="https://ojhavk.github.io/"><strong>Varun Ojha</strong></a><br/>New Castle University, UK</p>
+          <p><a href="https://ojhavk.github.io/"><strong>Varun Ojha</strong></a><br/>Newcastle University, UK</p>
         </div>
   
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://sites.google.com/view/archan-misra">
             <img src="speaker_archan.jpg" alt="Photo of Archan Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
           </a>
-          <p><a href="https://sites.google.com/view/archan-misra"><strong>Archan Misra</strong></a><br/>SMU</p>
+          <p><a href="https://sites.google.com/view/archan-misra"><strong>Archan Misra</strong></a><br/>Singapore Management University</p>
         </div>
         
         </div>
@@ -230,14 +230,13 @@ sections:
         <br>
         <h3><strong>📚 Session Legend</strong></h3>
         <div style="max-width: 650px; margin: 0 auto; padding: 15px 0;">
-        <ul style="list-style-type: none; padding-left: 0; text-align: left;">
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F5F7F8; padding:4px 10px; border-radius:4px; margin-right:4px;">☕ Break / Meal</span></li>
+        <ul style="list-style-type: none; padding-left: 0; text-align: left;">          
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:4px;">🎉 Opening/Closing</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:4px;">🎤 Keynote / Invited Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E8F1FF; padding:4px 10px; border-radius:4px; margin-right:4px;">👨‍🏫 Lecture / Technical Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#FFF3E8; padding:4px 10px; border-radius:4px; margin-right:4px;">🧪 Lab / Tutorial</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#DE9F32; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry Session</span></li>
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:4px;">💻 Hackathon</span></li>
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:4px;">🎉 Opening/Closing</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:4px;">💻 Hackathon</span></li>          
           <li style="display: inline-block; margin: 5px 8px;"><span style="padding:4px 10px;">† Online Talk</span></li>
         </ul>
         </div>
@@ -300,9 +299,9 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">FL on Edge Lab</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Varun Ojha (New Castle)</td><td style="padding:8px;">Invited Talk</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Varun Ojha (Newcastle University)<sup>†</sup></td><td style="padding:8px;">Invited Talk</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Varun Ojha (New Castle)</td><td style="padding:8px;">Technical Session</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Varun Ojha (Newcastle University)<sup>†</sup></td><td style="padding:8px;">Technical Session</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">FL on Edge Lab</td></tr>
         </tbody></table>
         <br><br>
