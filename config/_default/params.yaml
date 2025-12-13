@@ -48,7 +48,8 @@ header:
 
 styles:
   css:
-    - css/custom.css   
+    - css/custom.css
+  custom_header: 'custom_header.html'
 
 # Site footer
 footer:
