@@ -230,7 +230,7 @@ sections:
         <br>
         <h3><strong>📚 Session Legend</strong></h3>
         <div style="max-width: 650px; margin: 0 auto; padding: 15px 0;">
-        <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+        <ul style="list-style-type: none; padding-left: 0; text-align: left;">
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F5F7F8; padding:4px 10px; border-radius:4px; margin-right:4px;">☕ Break / Meal</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:4px;">🎤 Keynote / Invited Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E8F1FF; padding:4px 10px; border-radius:4px; margin-right:4px;">👨‍🏫 Lecture / Technical Talk</span></li>
@@ -238,6 +238,7 @@ sections:
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#DE9F32; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry Session</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:4px;">💻 Hackathon</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#CCF4B1; padding:4px 10px; border-radius:4px; margin-right:4px;">🎉 Opening/Closing</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="padding:4px 10px;">† Online Talk</span></li>
         </ul>
         </div>
   
@@ -249,7 +250,7 @@ sections:
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Vijay Janappa Reddi (Harvard University)</td><td style="padding:8px;">Edge AI: Opportunities and Challenges</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Vijay Janappa Reddi (Harvard University)<sup>†</sup></td><td style="padding:8px;">Edge AI: Opportunities and Challenges</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Chetan Singh Takur (IISc)</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Chetan Singh Takur (IISc)</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
@@ -323,8 +324,7 @@ sections:
         <h3><strong>Day 6 – 2nd Jan 2026</strong></h3>
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-        <tbody>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Technical Talk</td></tr>
+        <tbody>        
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">Technical Session</td></tr>
@@ -353,8 +353,9 @@ sections:
         <h3><strong>Day 8 – 4th Jan 2026</strong></h3>
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
-        <tbody>  
-        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">9:00 – 12:45 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>      
+        <tbody>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Invite Talk</td></tr>
+        <tr style="background-color:#E6F5E6;"><td style="padding:8px;">10:00 – 12:45 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>      
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>      
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
