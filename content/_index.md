@@ -111,7 +111,7 @@ sections:
           <a href="https://isc.mst.edu/people/ri/sdas/">
             <img src="speaker_sajal.jpg" alt="Photo of Sajal Das" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
           </a>
-          <p><a href="https://isc.mst.edu/people/ri/sdas/"><strong>Sajal Das</strong></a><br/>Missouri Univ. of Sci. & Tech, USA</p>
+          <p><a href="https://isc.mst.edu/people/ri/sdas/"><strong>Sajal Das</strong></a><br/>Missouri University of Science and Technology, USA</p>
         </div>
   
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
@@ -248,7 +248,7 @@ sections:
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
-        <tr style="background-color:#F5F7F8;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
+        <tr style="background-color:#CCF4B1;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
         <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Vijay Janappa Reddi (Harvard University)<sup>†</sup></td><td style="padding:8px;">Edge AI: Opportunities and Challenges</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Chetan Singh Takur (IISc)</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
@@ -353,13 +353,13 @@ sections:
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri)</td><td style="padding:8px;">Invite Talk</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri University of Science and Technology, USA)</td><td style="padding:8px;">Invite Talk</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">10:00 – 12:45 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Work Session</td></tr>      
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>      
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
-        <tr style="background-color:#CCF4B1;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Certificate Distribution and Closing</td></tr>
+        <tr style="background-color:#CCF4B1;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Certificate Distribution and Closing Ceremony</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">7:00 – 8:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Dinner / Social</td></tr>
         </tbody></table>
         <br><br>      
