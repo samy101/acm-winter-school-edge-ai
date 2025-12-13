@@ -96,7 +96,7 @@ sections:
       title: 🎤 Speakers
       text: |
         <br><br>
-        ### **Keynote Speakers**
+        ### **Keynote & Invited Speakers (Online)**
         
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
         
