@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   icon:
-    filename: 'iisc_icon.png'
+    filename: 'iisc-logo.png'
     # Specify the image files directly if you have them, or keep them pointing to the main file:
-    favicon: 'iisc_icon.png' 
-    apple_touch_icon: 'iisc_icon.png'
+    favicon: 'iisc-logo.png' 
+    apple_touch_icon: 'iisc-logo.png'
   seo:
     site_type: Event
     local_business_type: ''
@@ -44,7 +44,7 @@ header:
       filename: 'IISC.svg' # Remove default logo or add one like 'iisc-logo.svg'
     show_search: false
     show_theme_chooser: false
-    favicon: 'iisc_icon.png'
+    favicon: 'iisc-logo.png'
 
 styles:
   css:
