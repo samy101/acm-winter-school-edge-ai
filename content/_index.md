@@ -25,7 +25,7 @@ sections:
     design:
       min_height: "100vh"   # 90% of screen height (increase if needed)    
       spacing:
-        padding: ["40px", "0", "40px", "120px"]
+        padding: ["0", "0", "40px", "60px"]
         margin: ["0", "0", "0", "0"]      
       css_class: "hero-block light"
       background:
@@ -96,7 +96,7 @@ sections:
       title: 🎤 Speakers
       text: |
         <br><br>
-        ### **Keynote & Invited Speakers (Online)**
+        ### **Keynote & Invited Speakers**
         
         <div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; max-width: 1200px; margin: 0 auto;">
         
@@ -231,7 +231,7 @@ sections:
         <div style="max-width: 650px; margin: 0 auto; padding: 15px 0;">
         <ul style="list-style-type: none; padding-left: 0; text-align: center;">
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F5F7F8; padding:4px 10px; border-radius:4px; margin-right:4px;">☕ Break / Meal</span></li>
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:4px;">🎤 Keynote / Invited Talk (Online)</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:4px;">🎤 Keynote / Invited Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E8F1FF; padding:4px 10px; border-radius:4px; margin-right:4px;">👨‍🏫 Lecture / Technical Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#FFF3E8; padding:4px 10px; border-radius:4px; margin-right:4px;">🧪 Lab / Tutorial</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#DE9F32; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry Session</span></li>
@@ -247,6 +247,7 @@ sections:
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
         <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Vijay Janappa Reddi (Harvard University)</td><td style="padding:8px;">Edge AI: Opportunities and Challenges</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Chetan Singh Takur (IISc)</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
