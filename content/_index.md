@@ -250,9 +250,9 @@ sections:
         <tbody>
         <tr style="background-color:#CCF4B1;"><td style="padding:8px;">8:45 – 9:00 AM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc) and Yogesh Simmhan (IISc) </td><td style="padding:8px;">Welcome Address</td></tr>
         <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Vijay Janappa Reddi (Harvard University)<sup>†</sup></td><td style="padding:8px;">Edge AI: Opportunities and Challenges</td></tr>
-        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">TBA</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">TBA</td><td style="padding:8px;">Hardware systems</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
-        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">TBA</td><td style="padding:8px;">Introduction to Edge AI hardware systems</td></tr>
+        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">TBA</td><td style="padding:8px;">Hardware systems</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch Break</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Pandarasamy Arjunan (IISc)</td><td style="padding:8px;">Tiny ML Lab</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee Break</td></tr>
