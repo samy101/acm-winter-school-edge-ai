@@ -77,29 +77,32 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Simplified Fix for Embedded Emojis) --- */
+/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Consolidated CSS) --- */
 
-#topics .section-subheading {
-    /* Targets the box containing the icon/text combo */
-    height: 100%;
-}
-
+/* Targets the clickable link wrapper for each item, setting up the vertical flex layout */
 #topics .section-subheading a {
-    /* Targets the clickable link wrapper for each item */
-    display: flex;             /* Use flexbox for vertical arrangement */
-    flex-direction: column;    /* Stack contents vertically */
-    align-items: center;       /* Center everything horizontally */
-    text-align: center;        /* Ensure multiline text is centered */
+    display: flex;              /* Use flexbox for vertical arrangement */
+    flex-direction: column;     /* Stack contents vertically */
+    align-items: center;        /* Center everything horizontally */
+    text-align: center;         /* Ensure multiline text is centered */
     height: 100%;
-    
     /* Optional: Add some padding to make the box look better */
     padding: 15px 0;
 }
 
+/* Targets the span containing the large emoji, setting size, spacing, and the color filter */
 #topics .section-subheading a span {
-    /* Targets the first part of the text (the emoji) */
-    font-size: 2.5em;          /* Make the emoji much larger */
-    margin-bottom: 0.5rem;     /* Add space below the emoji */
+    font-size: 2.5em;           /* Make the emoji much larger */
+    margin-bottom: 0.5rem;      /* Add space below the emoji */
+    
+    /* Apply a filter to tint the emojis green */
+    filter: sepia(100%) saturate(200%) hue-rotate(90deg) brightness(80%); 
+    display: inline-block;      /* Essential for filter to work properly */
+}
+
+/* Ensure the outer box takes up full height for alignment */
+#topics .section-subheading {
+    height: 100%;
 }
 
 
