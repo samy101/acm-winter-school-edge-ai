@@ -166,7 +166,7 @@
 }
 
 
-/* --- PROGRAM BLOCK: FORCE CONTENT AND TABLES TO BE WIDER --- */
+/* --- PROGRAM BLOCK: FORCE CONTENT AND TABLES TO BE WIDER AND PREVENT WRAPPING --- */
 
 /* 1. Target the main content wrapper (usually where max-width is applied) */
 #program .max-w-prose,
@@ -180,15 +180,29 @@
 /* 2. Ensure the schedule table itself also spans the full width of the container */
 #program .schedule-table {
     width: 100% !important;
-    table-layout: fixed; /* Optional: Helps with consistent column widths */
+    table-layout: fixed; /* Helps with consistent column widths */
 }
 
 /* 3. Adjust the inner padding for the table cells to prevent overcrowding */
 #program .schedule-table th,
 #program .schedule-table td {
     padding: 10px 12px !important;
+    white-space: nowrap; /* CRITICAL: Prevents text from wrapping to the next line */
 }
 
+/* 4. Ensure the columns are spaced correctly for the 3-column schedule */
+#program .schedule-table th:first-child,
+#program .schedule-table td:first-child {
+    width: 15%; /* Time column */
+}
+#program .schedule-table th:nth-child(2),
+#program .schedule-table td:nth-child(2) {
+    width: 35%; /* Speaker column */
+}
+#program .schedule-table th:last-child,
+#program .schedule-table td:last-child {
+    width: 50%; /* Title column */
+}
 
 /* --- SPONSORS SECTION  (Single-Row Layout) --- */
 
