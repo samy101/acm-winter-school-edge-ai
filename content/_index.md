@@ -55,7 +55,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (FINAL FIX: Emojis Embedded in Name Field) ===
+# === 3. TOPICS BLOCK (USING NATIVE HUGO BLOX ICON FIELDS) ===
   - block: features
     id: topics
     content:
@@ -63,31 +63,43 @@ sections:
       text: |
         The Winter School covers both foundational and advanced topics in Edge AI.
       items:
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-wifi\"></i></span> <br><br>Foundations of IoT, Accelerated Edge Computing and Edge AI"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-microchip\"></i></span><br><br>Tiny and Embedded Machine Learning"
-          icon: ""    
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-rocket\"></i></span> <br><br>Model Optimization and Acceleration for Edge AI"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-cogs\"></i></span> <br><br>Edge AI Platforms, Frameworks, and Deployment Pipelines"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-globe-americas\"></i></span> <br><br>Federated Learning and Distributed Training for Edge Devices"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-brain\"></i></span> <br><br>Neuromorphic Computing and Brain-Inspired Architectures"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-lightbulb\"></i></span> <br><br>Generative AI and LLM at the Edge"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-robot\"></i></span> <br><br>Agentic AI on the Edge"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-shield-alt\"></i></span> <br><br>Security, Privacy, and Responsible AI in Edge Systems"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-chart-bar\"></i></span> <br><br>Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
-          icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><i class=\"fas fa-plane-departure\"></i></span> <br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
-          icon: ""
+        # Font Awesome icons must be in the 'icon:' field
+        - name: "Foundations of IoT, Accelerated Edge Computing and Edge AI"
+          icon: "wifi" # Icon name only
+          icon_pack: "fas" # Icon pack (Font Awesome Solid)
+        - name: "Tiny and Embedded Machine Learning"
+          icon: "microchip"
+          icon_pack: "fas"  
+        - name: "Model Optimization and Acceleration for Edge AI"
+          icon: "rocket"
+          icon_pack: "fas"
+        - name: "Edge AI Platforms, Frameworks, and Deployment Pipelines"
+          icon: "cogs"
+          icon_pack: "fas"
+        - name: "Federated Learning and Distributed Training for Edge Devices"
+          icon: "globe-americas"
+          icon_pack: "fas"
+        - name: "Neuromorphic Computing and Brain-Inspired Architectures"
+          icon: "brain"
+          icon_pack: "fas"
+        - name: "Generative AI and LLM at the Edge"
+          icon: "lightbulb"
+          icon_pack: "fas"
+        - name: "Agentic AI on the Edge"
+          icon: "robot"
+          icon_pack: "fas"
+        - name: "Security, Privacy, and Responsible AI in Edge Systems"
+          icon: "shield-alt"
+          icon_pack: "fas"
+        - name: "Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
+          icon: "chart-bar"
+          icon_pack: "fas"
+        - name: "Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
+          icon: "plane-departure"
+          icon_pack: "fas"
     design:
-      css_class: ""
       columns: 3
+      css_class: ""
 
 # === 4. SPEAKERS BLOCK (4-COLUMN GRID FIX) ===
   - block: features
