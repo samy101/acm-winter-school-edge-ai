@@ -3,19 +3,29 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# ----------------- GLOBAL CONFIGURATION -----------------
+
 # Appearance
 appearance:
   mode: light
   color: green
 
-# SEO
+# Global Icon Pack Setting (Crucial for Font Awesome icons to load)
+icon:
+  icon_pack: 'fas' # Changed to 'fas' which is often the required alias for Font Awesome Solid
+
+# Custom CSS and Header Partial (Essential for custom favicon and styling)
+styles:
+  css:
+    - css/custom.css
+  custom_header: 'custom_header.html'
+
+# ----------------- METADATA / SEO -----------------
+
+# SEO and Marketing
 marketing:
-  icon:
-    icon_pack: 'fa'
-    filename: 'iisc-logo.png'
-    # Specify the image files directly if you have them, or keep them pointing to the main file:
-    favicon: 'iisc-logo.png' 
-    apple_touch_icon: 'iisc-logo.png'
+  # Favicon/Touch Icons handled by custom_header.html (or files in static/)
+  # Removed redundant marketing icon block.
   seo:
     site_type: Event
     local_business_type: ''
@@ -32,32 +42,32 @@ marketing:
     google: ''
     baidu: ''
 
+# ----------------- HEADER AND FOOTER -----------------
+
 # Site header
 header:
   navbar:
     enable: true
     block: 'navbar'
-    align: 'center'
+    align: 'left' # Changed alignment to left for a standard look
     fixed_to_top: true
     logo:
-      text: '' # Winter School on Edge AI
       # Logo filename in `assets/media/` folder
-      filename: 'IISC.svg' # Remove default logo or add one like 'iisc-logo.svg'
+      filename: 'IISC.svg' 
+      text: '' 
     show_search: false
     show_theme_chooser: false
-    favicon: 'iisc-logo.png'
-
-styles:
-  css:
-    - css/custom.css
-  custom_header: 'custom_header.html'
-
+    # Favicon is now handled via the custom_header partial
+    # Removed redundant favicon setting here
+    
 # Site footer
 footer:
   copyright:
     notice: '© {year} ACM India Winter School. Hosted by IISc.'
 
+# ----------------- LOCALIZATION -----------------
+
 # Localization
 locale:
-  date_format: '11 Nov 2025' # Use a clearer date format
+  date_format: '28 Dec 2025' # Using the start date of the event
   time_format: '11:18 AM'
