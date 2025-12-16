@@ -92,9 +92,38 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: NATIVE ICON STYLING (Targeting the theme's elements) --- */
+/* --- TOPICS BLOCK: ICON FIX (Overrides theme's pink/green circle) --- */
+
+/* Targets the main icon container (.section-icon in older versions, .featurette-icon in newer) 
+   and removes the distracting background circle that shows the 'H' fallback. */
 #topics .featurette-icon {
-  color: #008000 !important;
+    background-color: transparent !important; /* Remove the background color */
+    border: none !important;                 /* Remove the border */
+    box-shadow: none !important;             /* Remove the box shadow */
+    height: auto !important;                 /* Reset height */
+    width: auto !important;                  /* Reset width */
+    margin-bottom: 0.5rem;                   /* Add space below the icon */
+}
+
+/* Targets the actual Font Awesome icon <i> tag (which holds the glyph) */
+#topics .featurette-icon i {
+    font-size: 2.5em !important;    /* Make the icon large */
+    color: #008000 !important;      /* Set the solid green color */
+}
+
+/* Fixes the vertical stacking layout */
+#topics .col-lg-4 { /* Targeting the column container for better layout control */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 15px 0;
+}
+
+/* Ensures the text is also vertically centered */
+#topics .article-title {
+    padding-top: 0 !important;
 }
 
 /* --- SPEAKERS SECTION  (Width and Row Spacing) --- */
