@@ -161,7 +161,10 @@ sections:
         
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://www.samy101.com/">
-            <img src="speaker_pandarasamy.jpg" alt="Photo of Pandarasamy Arjunan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
+            <img 
+              src="speaker_pandarasamy.jpg" 
+              alt="Photo of Pandarasamy Arjunan" 
+              style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: 50% 30%; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://www.samy101.com/"><strong>Pandarasamy Arjunan</strong></a><br/>IISc</p>
         </div>
