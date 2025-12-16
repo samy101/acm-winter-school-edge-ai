@@ -140,7 +140,7 @@ sections:
   
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://iitbhu.ac.in/dept/cse/people/ajaycse">
-            <img src="speaker_ajay.jpg" alt="Photo of Ajay Pratap" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img src="speaker_ajay.jpg" alt="Photo of Ajay Pratap" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://iitbhu.ac.in/dept/cse/people/ajaycse"><strong>Ajay Pratap</strong></a><br/>IIT Bhuvaneswar</p>
         </div>
@@ -161,7 +161,7 @@ sections:
         
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://www.samy101.com/">
-            <img src="speaker_pandarasamy.jpg" alt="Photo of Pandarasamy Arjunan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img src="speaker_pandarasamy.jpg" alt="Photo of Pandarasamy Arjunan" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://www.samy101.com/"><strong>Pandarasamy Arjunan</strong></a><br/>IISc</p>
         </div>
@@ -175,7 +175,7 @@ sections:
 
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://labs.dese.iisc.ac.in/zenlab/people/tv-prabhakar/">
-            <img src="Speaker_Prabhakar.png" alt="Photo of Prabhakar" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img src="Speaker_Prabhakar.png" alt="Photo of Prabhakar" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://labs.dese.iisc.ac.in/zenlab/people/tv-prabhakar/"><strong>Dr. TV Prabhakar</strong></a><br/>IISc</p>
         </div>
@@ -196,7 +196,7 @@ sections:
         
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://www.csa.iisc.ac.in/~skmandal">
-            <img src="speaker_sumit.jpg" alt="Photo of Sumit Kumar Mandal" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img src="speaker_sumit.jpg" alt="Photo of Sumit Kumar Mandal" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://www.csa.iisc.ac.in/~skmandal"><strong>Sumit Kumar Mandal</strong></a><br/>IISc</p>
         </div>
@@ -210,7 +210,7 @@ sections:
         
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://sites.google.com/site/prasantmisra/">
-            <img src="speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img src="speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://sites.google.com/site/prasantmisra/"><strong>Prasant Misra</strong></a><br/>TCS Research</p>
         </div>
