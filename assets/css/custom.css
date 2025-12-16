@@ -165,45 +165,47 @@
     text-align: justify;
 }
 
+/* --- PROGRAM BLOCK: FORCE MAXIMUM WIDTH AND ALLOW TEXT WRAPPING --- */
 
-/* --- PROGRAM BLOCK: FORCE CONTENT AND TABLES TO BE WIDER AND PREVENT WRAPPING --- */
-
-/* 1. Target the main content wrapper to maximize width */
-#program .max-w-prose,
-#program .container {
-    max-width: 95vw !important; 
-    margin: 0 auto;
-    padding-left: 15px;      
-    padding-right: 15px;     
+/* 1. CRITICAL: Force the main content wrapper to near full screen width (95% of viewport) */
+#program .container > div, /* Targets the immediate div containing the content */
+#program .container,
+#program .max-w-prose {
+    max-width: 95vw !important; /* Maximize the content area width */
+    width: 95vw !important;     /* Ensure width property is set */
+    padding-left: 15px !important; 
+    padding-right: 15px !important; 
 }
 
-/* 2. Ensure the schedule table itself spans full width */
+/* 2. Ensure the schedule table itself spans the full width of the huge container */
 #program .schedule-table {
     width: 100% !important;
-    table-layout: fixed; 
+    table-layout: auto !important; /* IMPORTANT: Allow browser to distribute space based on content */
+    margin: 0 auto;
 }
 
-/* 3. CRITICAL FIX: Prevent text from wrapping and set column widths */
+/* 3. Allow text to wrap (remove nowrap) and adjust padding for readability */
 #program .schedule-table th,
 #program .schedule-table td {
     padding: 10px 12px !important;
-    white-space: nowrap !important; /* FORCES text onto a single line */
-    overflow: hidden !important;     /* Hides overflowing text */
-    text-overflow: ellipsis !important; /* Shows '...' for overflow */
+    white-space: normal !important; /* CRITICAL: ALLOWS TEXT TO WRAP */
+    overflow: visible !important;   /* Do not hide content */
+    text-overflow: clip !important; /* Do not show '...' */
+    vertical-align: top;            /* Align wrapped content to the top */
 }
 
-/* 4. Column width adjustments */
+/* 4. Column width adjustments (Keep these relative, but allow wrap) */
 #program .schedule-table th:first-child,
 #program .schedule-table td:first-child {
-    width: 15%; /* Time column */
+    width: 12% !important; /* Time column (small fixed width) */
 }
 #program .schedule-table th:nth-child(2),
 #program .schedule-table td:nth-child(2) {
-    width: 35%; /* Speaker column */
+    width: 38% !important; /* Speaker column */
 }
 #program .schedule-table th:last-child,
 #program .schedule-table td:last-child {
-    width: 50%; /* Title column */
+    width: 50% !important; /* Title column */
 }
 
 /* --- SPONSORS SECTION  (Single-Row Layout) --- */
