@@ -55,7 +55,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (HTML ICONS – GREEN) ===
+# === 3. TOPICS BLOCK (USING icon: FIELD) ===
   - block: features
     id: topics
     content:
@@ -64,52 +64,51 @@ sections:
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
         # --- IoT / Networking ---
-        - name: "<i class='fa-solid fa-network-wired' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Foundations of IoT, Accelerated Edge Computing and Edge AI"
-          icon: ""
+        - name: "Foundations of IoT, Accelerated Edge Computing and Edge AI"
+          icon: "<i class='fa-solid fa-network-wired' style='color:#2ecc71;'></i>"
   
         # --- TinyML / Embedded ---
-        - name: "<i class='fa-solid fa-microchip' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Tiny and Embedded Machine Learning"
-          icon: ""
+        - name: "Tiny and Embedded Machine Learning"
+          icon: "<i class='fa-solid fa-microchip' style='color:#2ecc71;'></i>"
   
         # --- Optimization / Acceleration ---
-        - name: "<i class='fa-solid fa-rocket' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Model Optimization and Acceleration for Edge AI"
-          icon: ""
+        - name: "Model Optimization and Acceleration for Edge AI"
+          icon: "<i class='fa-solid fa-rocket' style='color:#2ecc71;'></i>"
   
         # --- Platforms / Deployment ---
-        - name: "<i class='fa-solid fa-gears' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Edge AI Platforms, Frameworks, and Deployment Pipelines"
-          icon: ""
+        - name: "Edge AI Platforms, Frameworks, and Deployment Pipelines"
+          icon: "<i class='fa-solid fa-gears' style='color:#2ecc71;'></i>"
   
         # --- Federated Learning ---
-        - name: "<i class='fa-solid fa-globe' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Federated Learning and Distributed Training for Edge Devices"
-          icon: ""
+        - name: "Federated Learning and Distributed Training for Edge Devices"
+          icon: "<i class='fa-solid fa-globe' style='color:#2ecc71;'></i>"
   
         # --- Neuromorphic ---
-        - name: "<i class='fa-solid fa-brain' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Neuromorphic Computing and Brain-Inspired Architectures"
-          icon: ""
+        - name: "Neuromorphic Computing and Brain-Inspired Architectures"
+          icon: "<i class='fa-solid fa-brain' style='color:#2ecc71;'></i>"
   
         # --- Generative AI / LLM ---
-        - name: "<i class='fa-solid fa-wand-magic-sparkles' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Generative AI and LLM at the Edge"
-          icon: ""
+        - name: "Generative AI and LLM at the Edge"
+          icon: "<i class='fa-solid fa-wand-magic-sparkles' style='color:#2ecc71;'></i>"
   
         # --- Agentic AI ---
-        - name: "<i class='fa-solid fa-robot' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Agentic AI on the Edge"
-          icon: ""
+        - name: "Agentic AI on the Edge"
+          icon: "<i class='fa-solid fa-robot' style='color:#2ecc71;'></i>"
   
         # --- Security / Privacy ---
-        - name: "<i class='fa-solid fa-shield-halved' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Security, Privacy, and Responsible AI in Edge Systems"
-          icon: ""
+        - name: "Security, Privacy, and Responsible AI in Edge Systems"
+          icon: "<i class='fa-solid fa-shield-halved' style='color:#2ecc71;'></i>"
   
         # --- Benchmarking ---
-        - name: "<i class='fa-solid fa-chart-line' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
-          icon: ""
+        - name: "Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
+          icon: "<i class='fa-solid fa-chart-line' style='color:#2ecc71;'></i>"
   
         # --- Drones / UAV ---
-        - name: "<i class='fa-solid fa-drone' style='font-size:2.5rem;color:#2ecc71;'></i><br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
-          icon: ""
+        - name: "Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
+          icon: "<i class='fa-solid fa-drone' style='color:#2ecc71;'></i>"
     design:
       css_class: ""
       columns: 3
-
 
 # === 4. SPEAKERS BLOCK (4-COLUMN GRID FIX) ===
   - block: features
