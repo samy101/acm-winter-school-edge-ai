@@ -54,6 +54,16 @@
 
 /* --- NAVBAR LOGO SIZE FIX --- */
 
+/* Targets the container that holds the navigation links/items (the ul/ol element) */
+.navbar-nav {
+    /* Use margin-left: auto to consume space on the left, pushing the links to the right */
+    margin-left: auto !important; 
+    
+    /* Ensure the links display horizontally */
+    display: flex;
+    flex-direction: row; 
+}
+
 /* 4. Set the container height for the logo brand. */
 .navbar-brand {
     height: 60px !important;
