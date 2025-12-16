@@ -52,16 +52,21 @@
   100% { background-position:   0% 50%; }
 }
 
-/* --- NAVBAR LOGO SIZE FIX --- */
-
-/* Targets the container that holds the navigation links/items (the ul/ol element) */
+/* --- NAVBAR ALIGNMENT FIX: Force links to the CENTER --- */
 .navbar-nav {
-    /* Use margin-left: auto to consume space on the left, pushing the links to the right */
+    /* Set margin-left and margin-right to auto to center the element horizontally */
     margin-left: auto !important; 
+    margin-right: auto !important; 
     
-    /* Ensure the links display horizontally */
+    /* Optional: If centering is not perfect, ensure the collapse container is a flex container */
     display: flex;
     flex-direction: row; 
+}
+
+/* Targets the container that wraps all the links and the logo, ensuring proper spacing */
+.navbar-collapse {
+    /* Setting justify-content to center will center the content if it's a flex container */
+    justify-content: center !important;
 }
 
 /* 4. Set the container height for the logo brand. */
