@@ -55,7 +55,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (USING icon: FIELD) ===
+# === 3. TOPICS BLOCK (THEME-CORRECT ICON USAGE) ===
   - block: features
     id: topics
     content:
@@ -63,52 +63,52 @@ sections:
       text: |
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
-        # --- IoT / Networking ---
         - name: "Foundations of IoT, Accelerated Edge Computing and Edge AI"
-          icon: "<i class='fa-solid fa-network-wired' style='color:#2ecc71;'></i>"
+          icon: network-wired
+          icon_pack: fas
   
-        # --- TinyML / Embedded ---
         - name: "Tiny and Embedded Machine Learning"
-          icon: "<i class='fa-solid fa-microchip' style='color:#2ecc71;'></i>"
+          icon: microchip
+          icon_pack: fas
   
-        # --- Optimization / Acceleration ---
         - name: "Model Optimization and Acceleration for Edge AI"
-          icon: "<i class='fa-solid fa-rocket' style='color:#2ecc71;'></i>"
+          icon: rocket
+          icon_pack: fas
   
-        # --- Platforms / Deployment ---
         - name: "Edge AI Platforms, Frameworks, and Deployment Pipelines"
-          icon: "<i class='fa-solid fa-gears' style='color:#2ecc71;'></i>"
+          icon: gears
+          icon_pack: fas
   
-        # --- Federated Learning ---
         - name: "Federated Learning and Distributed Training for Edge Devices"
-          icon: "<i class='fa-solid fa-globe' style='color:#2ecc71;'></i>"
+          icon: globe
+          icon_pack: fas
   
-        # --- Neuromorphic ---
         - name: "Neuromorphic Computing and Brain-Inspired Architectures"
-          icon: "<i class='fa-solid fa-brain' style='color:#2ecc71;'></i>"
+          icon: brain
+          icon_pack: fas
   
-        # --- Generative AI / LLM ---
         - name: "Generative AI and LLM at the Edge"
-          icon: "<i class='fa-solid fa-wand-magic-sparkles' style='color:#2ecc71;'></i>"
+          icon: wand-magic-sparkles
+          icon_pack: fas
   
-        # --- Agentic AI ---
         - name: "Agentic AI on the Edge"
-          icon: "<i class='fa-solid fa-robot' style='color:#2ecc71;'></i>"
+          icon: robot
+          icon_pack: fas
   
-        # --- Security / Privacy ---
         - name: "Security, Privacy, and Responsible AI in Edge Systems"
-          icon: "<i class='fa-solid fa-shield-halved' style='color:#2ecc71;'></i>"
+          icon: shield-halved
+          icon_pack: fas
   
-        # --- Benchmarking ---
         - name: "Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
-          icon: "<i class='fa-solid fa-chart-line' style='color:#2ecc71;'></i>"
+          icon: chart-line
+          icon_pack: fas
   
-        # --- Drones / UAV ---
         - name: "Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
-          icon: "<i class='fa-solid fa-drone' style='color:#2ecc71;'></i>"
+          icon: drone
+          icon_pack: fas
     design:
-      css_class: ""
       columns: 3
+
 
 # === 4. SPEAKERS BLOCK (4-COLUMN GRID FIX) ===
   - block: features
