@@ -63,10 +63,8 @@ sections:
       text: |
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
-        # --- IoT/Networking Icon ---
         - name: "<span style=\"font-size: 2.5rem;\">🛜</span> <br><br>Foundations of IoT, Accelerated Edge Computing and Edge AI"
           icon: ""
-        # --- TinyML/Embedded Icon ---
         - name: "<span style=\"font-size: 2.5rem;\">🏿</span><br><br>Tiny and Embedded Machine Learning"
           icon: ""    
         - name: "<span style=\"font-size: 2.5rem;\">🚀</span> <br><br>Model Optimization and Acceleration for Edge AI"
@@ -85,7 +83,6 @@ sections:
           icon: ""
         - name: "<span style=\"font-size: 2.5rem;\">📊</span> <br><br>Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
           icon: ""
-        # --- Drone/UAV Icon ---
         - name: "<span style=\"font-size: 2.5rem;\">🛰</span> <br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
           icon: ""
     design:
