@@ -448,8 +448,9 @@ sections:
   - block: markdown
     id: contacts
     content:
-      title: <i class="fas fa-envelope"></i> Contact Us
+      title:
       text: |
+        ## <i class="fas fa-envelope"></i> Contact Us
         If you have any **logistical or academic questions** regarding the Winter School, please reach out to the program coordinators below.
   
         1. <a href="https://www.samy101.com/"><strong>Pandarasamy Arjunan (IISc)</strong></a>
