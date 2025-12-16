@@ -235,8 +235,8 @@ sections:
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7E8FF; padding:4px 10px; border-radius:4px; margin-right:4px;">🎤 Keynote / Invited Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E8F1FF; padding:4px 10px; border-radius:4px; margin-right:4px;">👨‍🏫 Lecture / Technical Talk</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#FFF3E8; padding:4px 10px; border-radius:4px; margin-right:4px;">🧪 Lab / Tutorial</span></li>
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#FFD280; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry</span></li>
-          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#98D9D9; padding:4px 10px; border-radius:4px; margin-right:4px;">🗺️ Tour</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#F7EFA4; padding:4px 10px; border-radius:4px; margin-right:4px;">🏢 Industry</span></li>
+          <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#C8ECEC; padding:4px 10px; border-radius:4px; margin-right:4px;">🗺️ Tour</span></li>
           <li style="display: inline-block; margin: 5px 8px;"><span style="background-color:#E6F5E6; padding:4px 10px; border-radius:4px; margin-right:4px;">💻 Hackathon</span></li>          
           <li style="display: inline-block; margin: 5px 8px;"><span style="padding:4px 10px;">† Online Talk</span></li>
         </ul>
@@ -331,8 +331,8 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">IoT Analytics</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
-        <tr style="background-color:#FFD280;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">MATLAB for Edge AI</td></tr>
-        <tr style="background-color:#98D9D9;"><td style="padding:8px;">5:30 – 6:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">RBCCPS Tour</td></tr>
+        <tr style="background-color:#F7EFA4;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">MATLAB for Edge AI</td></tr>
+        <tr style="background-color:#C8ECEC;"><td style="padding:8px;">5:30 – 6:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">RBCCPS Tour</td></tr>
         </tbody></table>
         <br><br>
         <h3><strong>Day 7 – Saturday, 3rd Jan 2026 - Edge AI in agriculture</strong></h3>
@@ -344,7 +344,7 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">UAV and Edge AI in Agriculture</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>
-        <tr style="background-color:#FFD280;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Arm for Edge AI</td></tr>
+        <tr style="background-color:#F7EFA4;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Arm for Edge AI</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon</td></tr>
