@@ -77,25 +77,27 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Solid Green Color CSS) --- */
-#topics .section-subheading a {
+/* --- TOPICS BLOCK: NATIVE ICON STYLING (Green Color Fix) --- */
+
+/* 1. Targets the actual icon container to set size and color */
+#topics .section-icon i {
+    font-size: 2.5em !important;    /* Make the icon large */
+    color: #008000 !important;      /* Set solid green color */
+    margin-bottom: 0.5rem;          /* Add space below the icon */
+}
+
+/* 2. Targets the wrapper for vertical stacking (if the theme uses .section-heading for the wrapper) */
+#topics .section-heading {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     height: 100%;
-    padding: 15px 0;
 }
 
-#topics .section-subheading a i { /* *** Ensure you target the <i> tag if the span wrapper is gone ***/
-    font-size: 2.5em;
-    margin-bottom: 0.5rem;
-    color: #008000; /* Sets the icon color to green */
-    display: inline-block;
-}
-
-#topics .section-subheading {
-    height: 100%;
+/* 3. Ensures the text part is also centered */
+#topics .section-heading h3 {
+    text-align: center;
 }
 
 
