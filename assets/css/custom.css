@@ -168,29 +168,31 @@
 
 /* --- PROGRAM BLOCK: FORCE CONTENT AND TABLES TO BE WIDER AND PREVENT WRAPPING --- */
 
-/* 1. Target the main content wrapper (usually where max-width is applied) */
+/* 1. Target the main content wrapper to maximize width */
 #program .max-w-prose,
 #program .container {
-    max-width: 95vw !important; /* Stretch container to near full width */
+    max-width: 95vw !important; 
     margin: 0 auto;
-    padding-left: 15px;      /* Add back standard page padding */
-    padding-right: 15px;     /* Add back standard page padding */
+    padding-left: 15px;      
+    padding-right: 15px;     
 }
 
-/* 2. Ensure the schedule table itself also spans the full width of the container */
+/* 2. Ensure the schedule table itself spans full width */
 #program .schedule-table {
     width: 100% !important;
-    table-layout: fixed; /* Helps with consistent column widths */
+    table-layout: fixed; 
 }
 
-/* 3. Adjust the inner padding for the table cells to prevent overcrowding */
+/* 3. CRITICAL FIX: Prevent text from wrapping and set column widths */
 #program .schedule-table th,
 #program .schedule-table td {
     padding: 10px 12px !important;
-    white-space: nowrap; /* CRITICAL: Prevents text from wrapping to the next line */
+    white-space: nowrap !important; /* FORCES text onto a single line */
+    overflow: hidden !important;     /* Hides overflowing text */
+    text-overflow: ellipsis !important; /* Shows '...' for overflow */
 }
 
-/* 4. Ensure the columns are spaced correctly for the 3-column schedule */
+/* 4. Column width adjustments */
 #program .schedule-table th:first-child,
 #program .schedule-table td:first-child {
     width: 15%; /* Time column */
