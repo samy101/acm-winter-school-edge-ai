@@ -408,8 +408,8 @@ sections:
         
         #### Boys' Accommodation: Sri Durga Hotel
 
-        Address: 35/1, Gayathri Temple Rd, Dr.Ambedkar Nagar, Yeshawanthapura, Bengaluru, Karnataka 560022.
-        Phone Number: 09019158456
+        **Address:** 35/1, Gayathri Temple Rd, Dr.Ambedkar Nagar, Yeshawanthapura, Bengaluru, Karnataka 560022.
+        **Phone Number:** 09019158456
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d485.90791870600185!2d77.5566539!3d13.0188945!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3ddd540daad7%3A0x184f0f4c5916e6a8!2sSri%20Durga%20International!5e0!3m2!1sen!2sin!4v1765886292885!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
