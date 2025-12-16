@@ -376,16 +376,63 @@ sections:
   - block: markdown
     id: venue
     content:
-      title: 📍 Venue
+      title: 📍 Venue & Logistics
       text: |
-        This Program is hosted at the **CDS building, Indian Institute of Science (IISc), Bengaluru**.
+        This program is hosted at the **CDS building, Indian Institute of Science (IISc), Bengaluru**.
         
-        ### Location and Access
-        * **Location:** The IISc campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
-        * **Venue Map:** The CDS building is located near the main administrative block. <a href="https://maps.app.goo.gl/Sygki6ResDbrqMEy9">
-          <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="location-dot" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg="" style="display: inline-block; height: 1em; margin-left: 0.5em;"><path fill="currentColor" d="M168.3 499.2C116.1 435 0 279.4 0 192C0 85.96 85.96 0 192 0C298 0 384 85.96 384 192C384 279.4 267 435 215.7 499.2C203.4 514.5 180.6 514.5 168.3 499.2H168.3zM192 256C227.3 256 256 227.3 256 192C256 156.7 227.3 128 192 128C156.7 128 128 156.7 128 192C128 227.3 156.7 256 192 256z"></path></svg> Click Here
-          </a>
+        ---
         
+        ### 🧭 Location and Access (IISc Campus)
+        
+        The IISc campus is easily accessible from all parts of Bengaluru. The nearest metro station is **Yeshwanthpur**.
+        
+        * **Getting to IISc:** <a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/"> Click here for detailed travel information.</a>
+        
+        #### CDS Building Venue Map
+        
+        <div style="width: 100%; height: 400px; margin-top: 10px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <iframe 
+            src="https://maps.app.goo.gl/dZKvwo1CwkriA3GNA" 
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy">
+          </iframe>
+        </div>
+  
+        ---
+        
+        ### 🏨 Accommodation Details
+        
+        Accommodation has been arranged for participants at the following locations. *Note: Rooms and logistics are gender-specific.*
+        
+        #### Girls' Accommodation: Hoysala Guest House (IISc)
+        
+        <div style="width: 100%; height: 400px; margin-top: 10px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <iframe 
+            src="https://maps.app.goo.gl/FWcSbwBtJZjGnVU58" 
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy">
+          </iframe>
+        </div>
+        
+        #### Boys' Accommodation: Sri Durga Hotel
+        
+        <div style="width: 100%; height: 400px; margin-top: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <iframe 
+            src="https://maps.app.goo.gl/qrSHBp4otjpmwqQN6" 
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy">
+          </iframe>
+        </div>
+            
     design:
       columns: 1
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -398,16 +445,14 @@ sections:
   - block: markdown
     id: contacts
     content:
-      title: 📧 Contact Us
+      title: <i class="fas fa-envelope"></i> Contact Us
       text: |
         If you have any **logistical or academic questions** regarding the Winter School, please reach out to the program coordinators below.
   
-        1. **Pandarasamy Arjunan** (IISc)
-            * **Profile:** [https://www.samy101.com/](https://www.samy101.com/)
+        1. <a href="https://www.samy101.com/"><strong>Pandarasamy Arjunan (IISc)</strong></a>
             * **Email:** [samy@iisc.ac.in](mailto:samy@iisc.ac.in)
   
-        2. **Yogesh Simmhan** (IISc)
-            * **Profile:** [https://cds.iisc.ac.in/faculty/simmhan/](https://cds.iisc.ac.in/faculty/simmhan/)
+        2. <a href="https://cds.iisc.ac.in/faculty/simmhan/"><strong>Yogesh Simmhan (IISc)</strong></a>
             * **Email:** [simmhan@iisc.ac.in](mailto:simmhan@iisc.ac.in)
   
     design:
