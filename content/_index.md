@@ -392,7 +392,7 @@ sections:
         
         <div style="width: 100%; height: 400px; margin-top: 10px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <iframe 
-            src="https://maps.app.goo.gl/dZKvwo1CwkriA3GNA" 
+            src="https://www.google.com/maps/place/Computational+and+Data+Science+Department+(CDS)/@13.0164103,77.5678952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1786c19d1f6d:0xba84d2e59b2425a2!8m2!3d13.0164051!4d77.5704701!16s%2Fg%2F1tkslt6x?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D" 
             width="100%" 
             height="100%" 
             style="border:0;" 
@@ -411,7 +411,7 @@ sections:
         
         <div style="width: 100%; height: 400px; margin-top: 10px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <iframe 
-            src="https://maps.app.goo.gl/FWcSbwBtJZjGnVU58" 
+            src="https://www.google.com/maps/place/Centenary+Visitors+House+IISc/@13.027182,77.5678902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae17db9ce985b9:0xc21a2bb90740ff4d!8m2!3d13.0271768!4d77.5704651!16s%2Fg%2F1vqtf763?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D" 
             width="100%" 
             height="100%" 
             style="border:0;" 
@@ -421,10 +421,13 @@ sections:
         </div>
         
         #### Boys' Accommodation: Sri Durga Hotel
+
+        Address: 35/1, Gayathri Temple Rd, Dr.Ambedkar Nagar, Yeshawanthapura, Bengaluru, Karnataka 560022.
+        Phone Number: 09019158456
         
         <div style="width: 100%; height: 400px; margin-top: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <iframe 
-            src="https://maps.app.goo.gl/qrSHBp4otjpmwqQN6" 
+            src="https://www.google.com/maps/place/Sri+Durga+International/@13.0188945,77.5566539,20z/data=!4m9!3m8!1s0x3bae3ddd540daad7:0x184f0f4c5916e6a8!5m2!4m1!1i2!8m2!3d13.0189812!4d77.5566861!16s%2Fg%2F11l207btwh?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D" 
             width="100%" 
             height="100%" 
             style="border:0;" 
