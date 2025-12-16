@@ -77,7 +77,7 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Consolidated CSS) --- */
+/* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Solid Green Color CSS) --- */
 
 /* Targets the clickable link wrapper for each item, setting up the vertical flex layout */
 #topics .section-subheading a {
@@ -90,14 +90,15 @@
     padding: 15px 0;
 }
 
-/* Targets the span containing the large emoji, setting size, spacing, and the color filter */
+/* Targets the span containing the large icon, setting size, spacing, and the solid green color */
 #topics .section-subheading a span {
-    font-size: 2.5em;           /* Make the emoji much larger */
-    margin-bottom: 0.5rem;      /* Add space below the emoji */
+    font-size: 2.5em;           /* Make the icon much larger */
+    margin-bottom: 0.5rem;      /* Add space below the icon */
     
-    /* Apply a filter to tint the emojis green */
-    filter: sepia(100%) saturate(200%) hue-rotate(90deg) brightness(80%); 
-    display: inline-block;      /* Essential for filter to work properly */
+    /* NEW: Set solid green color (Only works on Font Awesome icons, not standard emojis) */
+    color: #008000; /* A standard, dark green */
+    /* display: inline-block; is still useful for general rendering */
+    display: inline-block;
 }
 
 /* Ensure the outer box takes up full height for alignment */
