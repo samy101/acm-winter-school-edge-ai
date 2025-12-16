@@ -49,7 +49,7 @@ header:
   navbar:
     enable: true
     block: 'navbar'
-    align: 'left' # Changed alignment to left for a standard look
+    align: 'center' # Changed alignment to left for a standard look
     fixed_to_top: true
     logo:
       # Logo filename in `assets/media/` folder
