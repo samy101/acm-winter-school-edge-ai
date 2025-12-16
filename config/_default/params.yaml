@@ -11,6 +11,7 @@ appearance:
 # SEO
 marketing:
   icon:
+    icon_pack: 'fa'
     filename: 'iisc-logo.png'
     # Specify the image files directly if you have them, or keep them pointing to the main file:
     favicon: 'iisc-logo.png' 
