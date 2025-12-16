@@ -55,7 +55,7 @@ sections:
       spacing:
         padding: ["6rem","0","6rem","0"]
 
-# === 3. TOPICS BLOCK (THEME-CORRECT ICON USAGE) ===
+# === 3. TOPICS BLOCK (FINAL FIX: Emojis Embedded in Name Field) ===
   - block: features
     id: topics
     content:
@@ -63,40 +63,33 @@ sections:
       text: |
         The winter school covers foundational and advanced aspects of Edge AI.
       items:
-        - name: "Foundations of IoT, Accelerated Edge Computing and Edge AI"
-          icon: network-wired
-          icon_pack: fas
-        - name: "Tiny and Embedded Machine Learning"
-          icon: microchip
-          icon_pack: fas
-        - name: "Model Optimization and Acceleration for Edge AI"
-          icon: rocket
-          icon_pack: fas
-        - name: "Edge AI Platforms, Frameworks, and Deployment Pipelines"
-          icon: cogs # Changed from 'gears' (cogs is more common)
-          icon_pack: fas
-        - name: "Federated Learning and Distributed Training for Edge Devices"
-          icon: globe-americas # Changed from 'globe'
-          icon_pack: fas
-        - name: "Neuromorphic Computing and Brain-Inspired Architectures"
-          icon: brain
-          icon_pack: fas
-        - name: "Generative AI and LLM at the Edge"
-          icon: magic # Changed from 'wand-magic-sparkles' (simpler)
-          icon_pack: fas
-        - name: "Agentic AI on the Edge"
-          icon: robot
-          icon_pack: fas
-        - name: "Security, Privacy, and Responsible AI in Edge Systems"
-          icon: shield-alt # Changed from 'shield-halved'
-          icon_pack: fas
-        - name: "Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
-          icon: chart-bar # Changed from 'chart-line'
-          icon_pack: fas
-        - name: "Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
-          icon: drone
-          icon_pack: fas
+        # --- IoT/Networking Icon ---
+        - name: "<span style=\"font-size: 2.5rem;\">🛜</span> <br><br>Foundations of IoT, Accelerated Edge Computing and Edge AI"
+          icon: ""
+        # --- TinyML/Embedded Icon ---
+        - name: "<span style=\"font-size: 2.5rem;\">🏿</span><br><br>Tiny and Embedded Machine Learning"
+          icon: ""    
+        - name: "<span style=\"font-size: 2.5rem;\">🚀</span> <br><br>Model Optimization and Acceleration for Edge AI"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">⚙️</span> <br><br>Edge AI Platforms, Frameworks, and Deployment Pipelines"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">🌐</span> <br><br>Federated Learning and Distributed Training for Edge Devices"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">🧠</span> <br><br>Neuromorphic Computing and Brain-Inspired Architectures"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">✨</span> <br><br>Generative AI and LLM at the Edge"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">🤖</span> <br><br>Agentic AI on the Edge"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">🛡️</span> <br><br>Security, Privacy, and Responsible AI in Edge Systems"
+          icon: ""
+        - name: "<span style=\"font-size: 2.5rem;\">📊</span> <br><br>Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
+          icon: ""
+        # --- Drone/UAV Icon ---
+        - name: "<span style=\"font-size: 2.5rem;\">🛰</span> <br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
+          icon: ""
     design:
+      css_class: ""
       columns: 3
 
 
