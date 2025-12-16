@@ -331,7 +331,7 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Manik Gupta (BITS, Pilani)</td><td style="padding:8px;">IoT Analytics</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
-        <tr style="background-color:#F7EFA4;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">MATLAB for Edge AI</td></tr>
+        <tr style="background-color:#F7EFA4;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">MATLAB for Edge AI</td></tr>
         <tr style="background-color:#C8ECEC;"><td style="padding:8px;">5:30 – 6:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">RBCCPS Tour</td></tr>
         </tbody></table>
         <br><br>
@@ -344,7 +344,7 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Ajay Pratap (IIT Bhu)</td><td style="padding:8px;">UAV and Edge AI in Agriculture</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>
-        <tr style="background-color:#F7EFA4;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">—</td><td style="padding:8px;">Arm for Edge AI</td></tr>
+        <tr style="background-color:#F7EFA4;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Arm for Edge AI</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">4:00 – 5:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">5:30 – 7:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon</td></tr>
@@ -430,17 +430,13 @@ sections:
           <a href="https://india.acm.org/" target="_blank">
             <img src="acm-logo.png" alt="ACM India Council" style="max-height: 100px; width: auto;">
           </a>
-          
-          <a href="https://www.iisc.ac.in/" target="_blank">
-            <img src="iisc_logo.png" alt="IISc" style="max-height: 100px; width: auto;">
+
+          <a href="https://artpark.in/" target="_blank">
+            <img src="ARTPARK-logo.png" alt="ARTPARK" style="max-height: 100px; width: auto;">
           </a>
 
           <a href="https://rbccps.org/" target="_blank">
             <img src="rbccps-logo.png" alt="RBCCPS" style="max-height: 100px; width: auto;">
-          </a>
-
-          <a href="https://artpark.in/" target="_blank">
-            <img src="ARTPARK-logo.png" alt="ARTPARK" style="max-height: 100px; width: auto;">
           </a>
           
           <a href="https://cds.iisc.ac.in/" target="_blank">
