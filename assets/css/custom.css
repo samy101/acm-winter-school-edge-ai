@@ -78,30 +78,22 @@
 }
 
 /* --- TOPICS BLOCK: STACK ICON ABOVE TEXT (Solid Green Color CSS) --- */
-
-/* Targets the clickable link wrapper for each item, setting up the vertical flex layout */
 #topics .section-subheading a {
-    display: flex;              /* Use flexbox for vertical arrangement */
-    flex-direction: column;     /* Stack contents vertically */
-    align-items: center;        /* Center everything horizontally */
-    text-align: center;         /* Ensure multiline text is centered */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
     height: 100%;
-    /* Optional: Add some padding to make the box look better */
     padding: 15px 0;
 }
 
-/* Targets the span containing the large icon, setting size, spacing, and the solid green color */
-#topics .section-subheading a span {
-    font-size: 2.5em;           /* Make the icon much larger */
-    margin-bottom: 0.5rem;      /* Add space below the icon */
-    
-    /* NEW: Set solid green color (Only works on Font Awesome icons, not standard emojis) */
-    color: #008000; /* A standard, dark green */
-    /* display: inline-block; is still useful for general rendering */
+#topics .section-subheading a i { /* *** Ensure you target the <i> tag if the span wrapper is gone ***/
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    color: #008000; /* Sets the icon color to green */
     display: inline-block;
 }
 
-/* Ensure the outer box takes up full height for alignment */
 #topics .section-subheading {
     height: 100%;
 }
