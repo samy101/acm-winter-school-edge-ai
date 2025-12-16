@@ -136,12 +136,14 @@
 }
 
 
-/* --- Programs --- */
+/* --- PROGRAM BLOCK: MAX WIDTH ADJUSTMENT --- */
 
-#programs .max-w-prose {
-    max-width: 125ch !important;
+#program .max-w-prose {
+    /* Use a very large percentage or viewport width to stretch the container */
+    max-width: 90vw !important; /* Stretches to 90% of the viewport width */
     margin: 0 auto;
-    text-align: justify;
+    /* Remove text-align: justify; unless specifically needed for the introduction text */
+    text-align: left; 
 }
 
 
