@@ -92,33 +92,40 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: ICON FIX (Overrides theme's pink/green circle) --- */
+/* --- TOPICS BLOCK: FIX FOR EMBEDDED EMOJI ICONS --- */
 
-/* Targets the main icon container (.section-icon in older versions, .featurette-icon in newer) 
-   and removes the distracting background circle that shows the 'H' fallback. */
-#topics .featurette-icon {
-    background-color: transparent !important; /* Remove the background color */
-    border: none !important;                 /* Remove the border */
-    box-shadow: none !important;             /* Remove the box shadow */
-    height: auto !important;                 /* Reset height */
-    width: auto !important;                  /* Reset width */
-    margin-bottom: 0.5rem;                   /* Add space below the icon */
+/* Targets the span containing the large emoji, setting size, spacing, and the color filter */
+#topics .section-subheading a span {
+    /* Apply a filter to tint the emojis green (This shifts the hue and saturation) */
+    filter: sepia(100%) saturate(200%) hue-rotate(90deg) brightness(80%); 
+    display: inline-block; /* Essential for filter to work properly */
+    
+    /* Ensure sizing and spacing from previous fixes */
+    font-size: 2.5em !important;          
+    margin-bottom: 0.5rem;     
 }
 
-/* Targets the actual Font Awesome icon <i> tag (which holds the glyph) */
-#topics .featurette-icon i {
-    font-size: 2.5em !important;    /* Make the icon large */
-    color: #008000 !important;      /* Set the solid green color */
-}
-
-/* Fixes the vertical stacking layout */
-#topics .col-lg-4 { /* Targeting the column container for better layout control */
+/* Fixes the vertical stacking layout by targeting the clickable link wrapper */
+#topics .section-subheading a { 
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     height: 100%;
-    padding: 15px 0;
+}
+
+/* Targets the column container for better padding control */
+#topics .col-lg-4, 
+#topics .col-md-6,
+#topics .col-12 { 
+    padding: 15px 0; /* Add column padding */
+}
+
+/* Optional: Clean up any remaining theme icon styling remnants, though not strictly necessary */
+#topics .featurette-icon {
+    background: none !important; 
+    border: none !important;
+    box-shadow: none !important;
 }
 
 /* Ensures the text is also vertically centered */
