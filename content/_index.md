@@ -83,8 +83,7 @@ sections:
           icon: ""
         - name: "<span style=\"font-size: 2.5rem;\">📊</span> <br><br>Benchmarking, Profiling, and Performance Evaluation of Edge AI Systems"
           icon: ""
-        - name: "<span style=\"font-size: 2.5rem;\"><img width="728" height="728" alt="image" src="https://github.com/user-attachments/assets/7b8204c1-406f-4464-9a95-0c495ff08269" />
-</span> <br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
+        - name: "<span style=\"font-size: 2.5rem;\">🚁</span> <br><br>Edge AI for Drones/UAVs, IoT, Smart Cities, and Industrial Applications"
           icon: ""
     design:
       css_class: ""
