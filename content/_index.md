@@ -63,10 +63,10 @@ sections:
       text: |
         The Winter School covers both foundational and advanced topics in Edge AI.
       items:
-        # Font Awesome icons must be in the 'icon:' field
+        # Use icon and icon_pack fields only
         - name: "Foundations of IoT, Accelerated Edge Computing and Edge AI"
-          icon: "wifi" # Icon name only
-          icon_pack: "fas" # Icon pack (Font Awesome Solid)
+          icon: "wifi" 
+          icon_pack: "fas" 
         - name: "Tiny and Embedded Machine Learning"
           icon: "microchip"
           icon_pack: "fas"  
