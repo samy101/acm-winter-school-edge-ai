@@ -391,14 +391,7 @@ sections:
         #### CDS Building Venue Map
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <iframe 
-            src="https://maps.app.goo.gl/dZKvwo1CwkriA3GNA&t=&z=15&ie=UTF8&iwloc=&output=embed" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy">
-          </iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3023152873743!2d77.56789517592448!3d13.016410313892576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1786c19d1f6d%3A0xba84d2e59b2425a2!2sComputational%20and%20Data%20Science%20Department%20(CDS)!5e0!3m2!1sen!2sin!4v1765886420757!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
   
         ---
@@ -410,14 +403,7 @@ sections:
         #### Girls' Accommodation: Hoysala Guest House (IISc)
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <iframe 
-            src="https://maps.app.goo.gl/AhRAp4GcPumtt9Lv8&t=&z=15&ie=UTF8&iwloc=&output=embed" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy">
-          </iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.133303205331!2d77.56789017592463!3d13.027182013655528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17db9ce985b9%3A0xc21a2bb90740ff4d!2sCentenary%20Visitors%20House%20IISc!5e0!3m2!1sen!2sin!4v1765886124154!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         
         #### Boys' Accommodation: Sri Durga Hotel
@@ -426,14 +412,7 @@ sections:
         Phone Number: 09019158456
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <iframe 
-            src="https://maps.app.goo.gl/rTPTYxbr8poRoB3a8&t=&z=15&ie=UTF8&iwloc=&output=embed" 
-            width="100%" 
-            height="100%" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy">
-          </iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d485.90791870600185!2d77.5566539!3d13.0188945!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3ddd540daad7%3A0x184f0f4c5916e6a8!2sSri%20Durga%20International!5e0!3m2!1sen!2sin!4v1765886292885!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
             
     design:
