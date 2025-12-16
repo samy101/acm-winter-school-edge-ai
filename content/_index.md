@@ -123,7 +123,10 @@ sections:
   
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://sites.google.com/view/archan-misra">
-            <img src="speaker_archan.jpg" alt="Photo of Archan Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img 
+              src="speaker_archan.jpg" 
+              alt="Photo of Archan Misra" 
+              style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://sites.google.com/view/archan-misra"><strong>Archan Misra</strong></a><br/>Singapore Management University</p>
         </div>
