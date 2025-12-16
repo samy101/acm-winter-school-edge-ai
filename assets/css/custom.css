@@ -163,7 +163,7 @@
 /* --- SPONSORS SECTION  (Single-Row Layout) --- */
 
 #sponsors .max-w-prose {
-    max-width: 125ch !important;
+    max-width: 80ch !important;
     margin: 0 auto;
     text-align: justify;
 }
