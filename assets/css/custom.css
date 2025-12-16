@@ -77,27 +77,41 @@
     text-align: justify;
 }
 
-/* --- TOPICS BLOCK: NATIVE ICON STYLING (Green Color Fix) --- */
+/* --- TOPICS BLOCK: NATIVE ICON STYLING (Targeting the theme's elements) --- */
 
-/* 1. Targets the actual icon container to set size and color */
-#topics .section-icon i {
+/* Targets the actual Font Awesome icon <i> tag to set color and size */
+/* This is the element that holds the microchip, wifi, rocket, etc. */
+#topics .section-subheading i {
     font-size: 2.5em !important;    /* Make the icon large */
     color: #008000 !important;      /* Set solid green color */
-    margin-bottom: 0.5rem;          /* Add space below the icon */
 }
 
-/* 2. Targets the wrapper for vertical stacking (if the theme uses .section-heading for the wrapper) */
-#topics .section-heading {
+/* Fixes the vertical stacking layout */
+#topics .section-subheading {
+    /* Ensures the link wrapper is a flexible column container */
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     height: 100%;
+    padding: 15px 0; /* Add back padding */
 }
 
-/* 3. Ensures the text part is also centered */
-#topics .section-heading h3 {
-    text-align: center;
+/* Targets the icon wrapper to add space below the icon */
+/* This is often a <span> or <div> immediately wrapping the <i> tag */
+#topics .section-subheading .section-icon {
+    margin-bottom: 0.5rem !important; 
+    /* The theme sets a background color here, we must clear it */
+    background: none !important;
+    box-shadow: none !important;
+    /* Reset height and width so the icon element is properly sized */
+    height: auto !important;
+    width: auto !important;
+}
+
+/* Ensures the outer box takes up full height for alignment */
+#topics .section-subheading .article-title {
+    padding-top: 0 !important;
 }
 
 
