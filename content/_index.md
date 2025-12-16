@@ -169,7 +169,14 @@ sections:
           </a>
           <p><a href="https://cds.iisc.ac.in/faculty/simmhan/"><strong>Yogesh Simmhan</strong></a><br/>IISc</p>
         </div>
-        
+
+        <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
+          <a href="https://labs.dese.iisc.ac.in/zenlab/people/tv-prabhakar/">
+            <img src="Speaker_Prabhakar.png" alt="Photo of Prabhakar" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+          </a>
+          <p><a href="https://labs.dese.iisc.ac.in/zenlab/people/tv-prabhakar/"><strong>Dr. TV Prabhakar</strong></a><br/>IISc</p>
+        </div>
+
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
           <a href="https://www.punitrathore.com/home">
             <img src="speaker_punit.jpg" alt="Photo of Punit Rathore" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
