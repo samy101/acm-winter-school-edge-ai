@@ -136,14 +136,27 @@
 }
 
 
-/* --- PROGRAM BLOCK: MAX WIDTH ADJUSTMENT --- */
+/* --- PROGRAM BLOCK: FORCE CONTENT AND TABLES TO BE WIDER --- */
 
-#program .max-w-prose {
-    /* Use a very large percentage or viewport width to stretch the container */
-    max-width: 90vw !important; /* Stretches to 90% of the viewport width */
+/* 1. Target the main content wrapper (usually where max-width is applied) */
+#program .max-w-prose,
+#program .container {
+    max-width: 95vw !important; /* Stretch container to near full width */
     margin: 0 auto;
-    /* Remove text-align: justify; unless specifically needed for the introduction text */
-    text-align: left; 
+    padding-left: 15px;      /* Add back standard page padding */
+    padding-right: 15px;     /* Add back standard page padding */
+}
+
+/* 2. Ensure the schedule table itself also spans the full width of the container */
+#program .schedule-table {
+    width: 100% !important;
+    table-layout: fixed; /* Optional: Helps with consistent column widths */
+}
+
+/* 3. Adjust the inner padding for the table cells to prevent overcrowding */
+#program .schedule-table th,
+#program .schedule-table td {
+    padding: 10px 12px !important;
 }
 
 
