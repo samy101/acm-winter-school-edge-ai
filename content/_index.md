@@ -426,7 +426,7 @@ sections:
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.275825225102!2d77.56335117578332!3d13.018074914170327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16d757d11bfb%3A0x3fc1cd64d345c13f!2sIndian%20Institute%20of%20Science%20(Bengaluru)!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
+            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d343.5910009234359!2d77.56501057109143!3d13.017295770229872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1766384580295!5m2!1sen!2sin" 
             width="100%" 
             height="100%" 
             style="border:0;" 
