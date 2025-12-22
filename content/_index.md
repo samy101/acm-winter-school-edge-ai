@@ -422,7 +422,10 @@ sections:
         
         Accommodation has been arranged for participants at the following locations.
         
-        #### Girls' Accommodation: Hoysala Guest House (IISc)
+        #### Girls' Accommodation: <a href="https://cce.iisc.ac.in/hoysala-house/">Hoysala Guest House (IISc)</a>
+
+        * **Address:** Opposite NMR Research Building (Next to CCE Buildings), Student Council Road, IISc Campus, Devasandra Layout Bengaluru, Karnataka 560012.
+        * **Reception Number:** 080 2293 2535
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <iframe 
@@ -436,7 +439,7 @@ sections:
           </iframe>
         </div>
         
-        #### Boys' Accommodation: Sri Durga Hotel
+        #### Boys' Accommodation: <a href="https://maps.app.goo.gl/E3ChkJPCFwfEVWG68">Sri Durga Hotel</a>
   
         * **Address:** 35/1, Gayathri Temple Rd, Dr.Ambedkar Nagar, Yeshawanthapura, Bengaluru, Karnataka 560022.
         * **Phone Number:** 09019158456
