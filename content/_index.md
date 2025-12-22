@@ -424,7 +424,7 @@ sections:
         
         #### Girls' Accommodation: <a href="https://cce.iisc.ac.in/hoysala-house/">Hoysala Guest House (IISc)</a>
 
-        * **Address:** Opposite NMR Research Building (Next to CCE Buildings), Student Council Road, IISc Campus, Devasandra Layout Bengaluru, Karnataka 560012.
+        * **Address:** Opposite NMR Research Centre (Next to CCE Buildings), Student Council Road, IISc Campus, Devasandra Layout Bengaluru, Karnataka 560012.
         * **Reception Number:** 080 2293 2535
         
         <div style="width: 100%; height: 400px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
