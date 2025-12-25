@@ -131,6 +131,13 @@ sections:
           </a>
           <p><a href="https://sites.google.com/view/archan-misra"><strong>Archan Misra</strong></a><br/>Singapore Management University</p>
         </div>
+
+        <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
+          <a href="https://sites.google.com/site/prasantmisra/">
+            <img src="speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
+          </a>
+          <p><a href="https://sites.google.com/site/prasantmisra/"><strong>Prasant Misra</strong></a><br/>TCS Research</p>
+        </div>
         
         </div>
 
@@ -210,13 +217,6 @@ sections:
             <img src="speaker_prashanti.jpeg" alt="Photo of Prashanti" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://prakadambi.github.io/"><strong>Prashanti</strong></a><br/>AMD</p>
-        </div>
-        
-        <div style="width: 20%; min-width: 100px; margin: 40px 10px;">
-          <a href="https://sites.google.com/site/prasantmisra/">
-            <img src="speaker_prasant.jpg" alt="Photo of Prasant Misra" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top; border: 3px solid #90A2AF;">
-          </a>
-          <p><a href="https://sites.google.com/site/prasantmisra/"><strong>Prasant Misra</strong></a><br/>TCS Research</p>
         </div>
   
         </div>
@@ -301,8 +301,8 @@ sections:
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
-        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 5:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators</td></tr>
-        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">5:30 – 7:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators</td></tr>
+        <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 6:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">6:00 – 7:00 PM</td><td style="padding:8px;">Prasant Misra (IISc & TCS)</td><td style="padding:8px;">Session Talk</td></tr>
         </tbody></table>
         <br><br>   
         <h3><strong>Day 4 – Wednesday, 31st Dec 2025 - Federated Learning</strong></h3>
@@ -327,7 +327,7 @@ sections:
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sumit Kumar Mandal (IISc)</td><td style="padding:8px;">LLM Algorithms</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">10:00 – 11:00 AM</td><td style="padding:8px;">Sumit Kumar Mandal (IISc)</td><td style="padding:8px;">LLMs at Edge</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">11:00 – 11:15 AM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
-        <tr style="background-color:#E8F1FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Prasant Misra (IISc & TCS)</td><td style="padding:8px;">Edge AI in Mobility</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">11:15 – 12:45 PM</td><td style="padding:8px;">Prasant Misra (IISc & TCS)</td><td style="padding:8px;">Edge AI in Mobility</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>
         <tr style="background-color:#E8F1FF;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Punit Rathore (IISc)</td><td style="padding:8px;">Edge AI in Mobility</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
