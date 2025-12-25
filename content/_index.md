@@ -309,7 +309,7 @@ sections:
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">2:00 – 3:30 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators</td></tr>
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">3:30 – 4:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Tea/Coffee/Snacks</td></tr>
         <tr style="background-color:#FFF3E8;"><td style="padding:8px;">4:00 – 6:00 PM</td><td style="padding:8px;">Yogesh Simmhan (IISc)</td><td style="padding:8px;">ML on Edge Accelerators</td></tr>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">6:00 – 7:00 PM</td><td style="padding:8px;">Prashant Shenoy (UMass)<sup>†</sup></td><td style="padding:8px;">Keynote Talk</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">6:00 – 7:00 PM</td><td style="padding:8px;">Prashant Shenoy (University of Massachusetts)<sup>†</sup></td><td style="padding:8px;">Keynote Talk</td></tr>
         </tbody></table>
         <br><br>   
         <h3><strong>Day 4 – Wednesday, 31st Dec 2025 - Federated Learning</strong></h3>
