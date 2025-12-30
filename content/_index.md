@@ -374,7 +374,7 @@ sections:
         <table class="schedule-table" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead><tr style="background-color:#ddd;"><th style="padding:8px;">Time</th><th style="padding:8px;">Speaker</th><th style="padding:8px;">Title</th></tr></thead>
         <tbody>
-        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri University of Science and Technology, USA)<sup>†</sup></td><td style="padding:8px;">Edge AI in Agriculture</td></tr>
+        <tr style="background-color:#F7E8FF;"><td style="padding:8px;">9:00 – 10:00 AM</td><td style="padding:8px;">Sajal Das (Missouri University of Science and Technology, USA)<sup>†</sup></td><td style="padding:8px;">Smart Connected Farms: AI and IoT-based Pest Management in Precision Agriculture</td></tr>
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">10:00 – 12:45 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon</td></tr>      
         <tr style="background-color:#F5F7F8;"><td style="padding:8px;">12:45 – 2:00 PM</td><td colspan="2" style="padding:8px; text-align:center;">Lunch</td></tr>      
         <tr style="background-color:#E6F5E6;"><td style="padding:8px;">2:00 – 3:30 PM</td><td colspan="2" style="padding:8px; text-align:center;">Hackathon Demo/Presentation</td></tr>
