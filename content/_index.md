@@ -214,7 +214,7 @@ sections:
   
         <div style="width: 20%; min-width: 100px; margin: 40px 10px;"> 
           <a href="https://prakadambi.github.io/">
-            <img src="speaker_prashanti.jpeg" alt="Photo of Prashanti" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
+            <img src="speaker_prashanti.jpg" alt="Photo of Prashanti" style="width: 100%; height: auto; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #90A2AF;">
           </a>
           <p><a href="https://prakadambi.github.io/"><strong>Prashanti</strong></a><br/>AMD</p>
         </div>
