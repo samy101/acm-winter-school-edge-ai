@@ -148,6 +148,19 @@
     margin-bottom: 10px !important;
 }
 
+/* Apply to all images, or specifically speaker photos */
+.speaker-portrait, #speakers img {
+    /* Prevents pixel artifacts during resizing */
+    image-rendering: -webkit-optimize-contrast; /* Chrome/Safari */
+    image-rendering: auto;                      /* Standard */
+    
+    /* Ensures the image doesn't stretch or squash */
+    object-fit: cover; 
+    
+    /* Subtle smoothing for high-res photos on small screens */
+    transform: translateZ(0); 
+    backface-visibility: hidden;
+}
 
 /* --- VENUE SECTION --- */
 
